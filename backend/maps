@@ -1,0 +1,122 @@
+Profile {
+    id : long
+    name : string
+    games/game history : game[]
+    ?historical data : {
+        net worth (total winnings) : double
+        win/loss : int/float
+        win/loss by color : float[]
+    }
+    ?friends : list<profile>
+    ?animation speed : enum slow normal fast
+    ?wants help (tooltips) : boolean
+}
+Game {
+    id : long
+    players : player[] (sorted as turn order until game over then sort as final standings)
+    4 decks : list<int>
+    deck position : 4 ints
+    board positions : {
+        ?rat race : map<board position, list<piece>>
+        ?fast track : map<board position, list<piece>>
+    }
+    ?settings : game settings
+    started : datetime
+    last interaction : datetime
+    is game over : boolean
+    current turn state : turn state
+}
+Game Settings : {
+    id : long
+    max children : int
+    max downsize : int
+    not first ur last : boolean
+    starting paychecks : int
+    career cards dealt : int
+    upper bound doodads : int
+    rat race only : boolean
+    dream required : boolean
+    fast track businesses not exclusive : boolean
+    force rat race escape : boolean
+}
+Turn State : {
+    id : long
+    player turn : int (index of game.players)
+    has moved : boolean
+    event resolved : boolean
+    is active offer : boolean
+    active offer : offer {
+        players bids : float
+    }
+}
+Player {
+    id : long
+    profile : profile
+    turn order : int
+    has won : boolean
+    piece set (color) : piece set enum
+    position : board position
+    status : {
+        lost turns : int
+        charity : int
+        fast track : boolean
+    }
+    cash : float
+    career : career enum
+    assets : asset
+    liabilities : list<int>
+    children : int
+    dream : board position
+}
+Card (read only) {
+    id : long
+    type : type enum {
+        big deal, small deal, doodad, market
+    }
+    holding : holding
+    effect : effect
+    cost : float
+}
+Board Position (read only) {
+    id : long
+    text : string
+    type : enum {
+        opportunity, event, doodad, market, dream
+    }
+    effect : effect
+    color : board color enum
+    ???coord : {
+        ?is fast track : boolean
+        position : int
+    }
+}
+Piece (read only) { --
+    Set {
+        <colors>
+    }
+    Type {
+        player, cheese, chip
+    }
+    set : Set
+    type : Type
+}
+Career (read only) { --
+    title : string
+    salary : int
+    savings : int
+    liabilities : liability list
+    expenses : expense list
+    per child : int
+}
+Asset {
+    classification : enum { Stock, RE, Business, Item }
+    type : enum { 3/2, 2/1, 4-plex, etc. }
+    name : string
+    down, cost, liability, cash flow : float
+}
+Liability List { ##
+    mortgage, school loan, car loan, credit card, retail, bank loan : int
+}
+Expense List { ##
+    taxes, living, children, {liabilities}
+}
