@@ -1,332 +1,392 @@
 {
-  "bigOpps": [],
-  "smallOpps": [
+  "temp": "\nUse this yourself or sell to another player.\n100% ROI. No other buyers in sight.",
+  "temp2": "\nUse this yourself or sell to another player.\n100% ROI, may sell for $500,000 to $600,000.",
+  "bigOpps": [
     {
-      "title": "House for Sale — 3Br/2Ba",
-      "description": "3/2 house on golf course offers potential capital gain plus current cash flow. Good rentals and nice financing.",
-      "details": "Cost: $65,000, Mortgage: $56,000, DownPay: $9,000, Cash Flow: +$100"
-    },
-    {
-      "title": "8-plex for Sale",
-      "description": "Professional person urgently needs cash to save partnership. 8-plex sale to raise capital. Good opportunity for right person.",
-      "details": "Cost: $75,000, Mortgage: $68,000, DownPay: $7,000, Cash Flow: +$300"
-    },
-    {
-      "title": "4-plex for Sale",
-      "description": "4-plex for sale by owner, moving to another state. Full records, fully rented, low occupant turnover in good neighborhood.",
-      "details": "Cost: $150,000, Mortgage: $120,000, DownPay: $30,000, Cash Flow: +$500"
-    },
-    {
-      "title": "House for Sale — 3Br/2Ba",
-      "description": "Good investment potential in this 3/2 house if you can be patient. Positive cash flow even though rents are weak.",
-      "details": "Cost: $60,000, Mortgage: $54,000, DownPay: $6,000, Cash Flow: +$100"
-    },
-    {
-      "title": "Limited Partner Wanted",
-      "description": "Auto Dealer wants to expand into leasing 2 and 3 year old cars. Needs capital as car maker’s finance company is not interested.",
-      "details": "Cost: $30,000, Liability: 0, DownPay: $30,000, Cash Flow: +$1,000"
-    },
-    {
-      "title": "Duplex for Sale",
-      "description": "Proud owner retiring to another state to be near children. Best duplex in the neighborhood!",
-      "details": "Cost: $70,000, Mortgage: $63,000, DownPay: $7,000, Cash Flow: +$140"
+      "title": "Automated Business for Sale",
+      "description": "30 video/pinball machines at long term contract locations for sale by overextended owner. Owner is desperate.\nUse this yourself or sell to another player.\n96% ROI. No other buyers in sight.",
+      "details": {
+        "cost": 100000,
+        "liability": 80000,
+        "down": 20000,
+        "cashflow": 1600
+      }
     },
     {
       "title": "Automated Business for Sale",
-      "description": "30 video/pinball machines at long term contract locations for sale by overextended owner. Owner is desperate.",
-      "details": "Cost: $100,000, Liability: $80,000, DownPay: $20,000, Cash Flow: +$1,600"
+      "description": "Successful 4 bay coin operated auto wash near busy intersection. Seller is moving to retirement community out of state.\nUse this yourself or sell to another player.\n86% ROI. No other buyers in sight.",
+      "details": {
+        "cost": 125000,
+        "down": 25000,
+        "liability": 100000,
+        "cashflow": 1800
+      }
     },
     {
-      "title": "Apartment Complex for Sale",
-      "description": "60 unit complex available from pension fund that foreclosed on builder/owner. On-site management in place.",
-      "details": "Cost: $1,200,000, Mortgage: $1,000,000, DownPay: $200,000, Cash Flow: +$11,000"
+      "title": "Automated Business for Sale",
+      "description": "Personal bankruptcy sale of busy, successful laundromat on busy highway. Absentee owner, contract cleaning.\nUse this yourself or sell to another player.\n100% ROI. No other buyers in sight.",
+      "details": {
+        "cost": 90000,
+        "liability": 50000,
+        "down": 40000,
+        "cashflow": 1500
+      }
     },
     {
-      "title": "Limited Partner Wanted",
-      "description": "Successful pizza chain expanding into production of frozen pizzas for grocery stores. Owner needs capital for equipment.",
-      "details": "Cost: $75,000, Liability: 0, DownPay: $75,000, Cash Flow: +$2,000"
+      "title": "Automated Business for Sale",
+      "description": "Successful coin telephone business available due to death of owner. Heirs live out of state. All locations on long term contract.\nUse this yourself or sell to another player.\n81% ROI. No other buyers in sight.",
+      "details": {
+        "cost": 200000,
+        "liability": 160000,
+        "down": 40000,
+        "cashflow": 2700
+      }
+    },
+    {
+      "title": "Apartment House for Sale",
+      "description": "12 unit apartment house offered by out-of-state heirs of handyman/owner. Long waiting list for apartments in this building.\nUse this yourself or sell to another player.\n58% ROI, may sell for $300,000 to $480,000",
+      "details": {
+        "cost": 350000,
+        "liability": 300000,
+        "down": 50000,
+        "cashflow": 2400
+      }
+    },
+    {
+      "title": "Apartment House for Sale",
+      "description": "24 unit older building near community college available from retiring owner/builder. Fully rented, nice cash flow.\nUse this yourself or sell to another player.\n67% ROI, may sell for $600,000 to $960,000.",
+      "details": {
+        "cost": 550000,
+        "liability": 500000,
+        "down": 50000,
+        "cashflow": 2800
+      }
     },
     {
       "title": "Apartment Houses for Sale",
       "description": "2 buildings totaling 24 units for sale. Owner managed with on-site assistant. Retirement prompts sale.",
-      "details": "Cost: $575,000, Mortgage: $500,000, DownPay: $75,000, Cash Flow: +$3,400"
+      "details": {
+        "cost": 575000,
+        "liability": 500000,
+        "down": 75000,
+        "cashflow": 3400
+      }
     },
     {
-      "title": "8-plex for Sale",
-      "description": "Owner’s legal troubles lead to forced sale of this 8-plex. No qualifying on this loan, as mortgage holder is cooperating.",
-      "details": "Cost: $160,000, Mortgage: $128,000, DownPay: $32,000, Cash Flow: +$1,700"
-    },
-    {
-      "title": "4-plex for Sale",
-      "description": "4-plex available — forced sale. Out-of-state, financially distressed owner years behind on taxes. Some records available.",
-      "details": "Cost: $140,000, Mortgage: $108,000, DownPay: $32,000, Cash Flow: +$2,000"
-    },
-    {
-      "title": "Automated Business for Sale",
-      "description": "Personal bankruptcy sale of busy, successful laundromat on busy highway. Absentee owner, contract cleaning.",
-      "details": "Cost: $90,000, Mortgage: $50,000, DownPay: $40,000, Cash Flow: +$1,500"
-    },
-    {
-      "title": "House for Sale — 3Br/2Ba",
-      "description": "Divorce leads to sale of this 3/2 house in an area full of owner occupied homes.",
-      "details": "Cost: $70,000, Mortgage: $50,000, DownPay: $20,000, Cash Flow: +$500"
-    },
-    {
-      "title": "Limited Partner Wanted",
-      "description": "Successful doctor expanding office and clinic. Needs partner to fund equity portion of construction costs.",
-      "details": "Cost: $50,000, Liability: $0, DownPay: $50,000, Cash Flow: +$800"
-    },
-    {
-      "title": "8-plex for Sale",
-      "description": "Retiring investor/owner offers his 8-plex at current appraisal value. Professional lawn service and management. Full records.",
-      "details": "Cost: $200,000, Mortgage: $170,000, DownPay: $30,000, Cash Flow: +$500"
-    },
-    {
-      "title": "House for Sale — 3Br/2ba",
-      "description": "Nice 3/2 house with in ground pool and full appliances available in upper middle class area. Good schools.",
-      "details": "Cost: $125,000, Mortgage: $105,000, DownPay: $20,000, Cash Flow: -$100"
-    },
-    {
-      "title": "Pizza Franchise for Sale",
-      "description": "Healthy-pizza company franchise. Trend in nutritious fast-food booming. Next to college. High traffic.",
-      "details": "Cost: $500,000, Mortgage: $400,000, DownPay: $100,000, Cash Flow: +$5,000"
-    },
-    {
-      "title": "Apartment House for Sale",
-      "description": "24 unit older building near community college available from retiring owner/builder. Fully rented, nice cash flow.",
-      "details": "Cost: $550,000, Mortgage: $500,000, DownPay: $50,000, Cash Flow: +$2,800"
-    },
-    {
-      "title": "4-plex for Sale",
-      "description": "4-plex in recovering neighborhood. Fully rented, repairs kept up. Needs your down payment and a new manager.",
-      "details": "Cost: $100,000, Mortgage: $80,000, DownPay: $20,000, Cash Flow: +$400"
-    },
-    {
-      "title": "20 Acres for Sale",
-      "description": "Family farm for sale to pay estate taxes. 20 acres zoned agricultural with excellent soil and drainage. Could be good investment.",
-      "details": "Cost: $75,000, Mortgage: $0, DownPay: $75,000, Cash Flow: $0"
-    },
-    {
-      "title": "Car Wash for Sale",
-      "description": "Small 4-bay car wash on a busy street. Turnkey. As is. Price firm. Health forces retirement.",
-      "details": "Cost: $50,000, Mortgage: $30,000, DownPay: $20,000, Cash Flow: +$450"
-    },
-    {
-      "title": "Bed & Breakfast for Sale",
-      "description": "Charming 6-room inn in a resort area. Owner retiring. Guests come back year after year.",
-      "details": "Cost: $150,000, Mortgage: $120,000, DownPay: $30,000, Cash Flow: +$1,200"
-    },
-    {
-      "title": "Automated Business for Sale",
-      "description": "Successful downtown copy shop with full equipment. Absentee owner. Needs new manager. Low overhead.",
-      "details": "Cost: $200,000, Mortgage: $160,000, DownPay: $40,000, Cash Flow: +$2,700"
-    },
-    {
-      "title": "Duplex for Sale",
-      "description": "2 unit house in a stable neighborhood. Painted last year. Long-term tenants. Good cash flow.",
-      "details": "Cost: $60,000, Mortgage: $50,000, DownPay: $10,000, Cash Flow: +$220"
-    },
-    {
-      "title": "4-plex for Sale",
-      "description": "Older 4-plex in older neighborhood. Decent shape, fully rented. Good tenant history. Great starter property.",
-      "details": "Cost: $80,000, Mortgage: $70,000, DownPay: $10,000, Cash Flow: +$400"
-    },
-    {
-      "title": "Apartment House for Sale",
-      "description": "12 unit apartment near city bus stop. Fully rented with low turnover. Professional management.",
-      "details": "Cost: $400,000, Mortgage: $350,000, DownPay: $50,000, Cash Flow: +$2,400"
-    },
-    {
-      "title": "4-plex for Sale",
-      "description": "Retired owner of this 4-plex wants to move into a retirement home. Property well maintained and managed.",
-      "details": "Cost: $90,000, Mortgage: $75,000, DownPay: $15,000, Cash Flow: +$700"
-    },
-    {
-      "title": "8-plex for Sale",
-      "description": "Retiring investor offers 8-plex in older part of town. Fully rented. Some repairs needed.",
-      "details": "Cost: $250,000, Mortgage: $200,000, DownPay: $50,000, Cash Flow: +$1,700"
-    },
-    {
-      "title": "4-plex for Sale",
-      "description": "Nice 4-plex in quiet suburban neighborhood. Owner retiring. Good long-term tenants.",
-      "details": "Cost: $100,000, Mortgage: $90,000, DownPay: $10,000, Cash Flow: +$500"
+      "title": "Apartment Complex for Sale",
+      "description": "60 unit complex available from pension fund that foreclosed on builder/owner. On-site management in place.",
+      "details": {
+        "cost": 1200000,
+        "liability": 1000000,
+        "down": 200000,
+        "cashflow": 11000
+      }
     },
     {
       "title": "Duplex for Sale",
       "description": "Owner has income tax problems, needs to sell quickly. Property in good condition, priced below market.",
-      "details": "Cost: $65,000, Mortgage: $50,000, DownPay: $15,000, Cash Flow: +$250"
-    },
-    {
-      "title": "Tenant Damages Your Property",
-      "description": "Tenant trashed your rental property. Repair estimate is $1,000. Insurance does not cover damages due to tenant neglect. Pay $1,000 or arrange a forced sale. Only the person who draws this card pays.",
-      "details": "Cost: $1,000 on any rental real estate"
-    },
-    {
-      "title": "Tenant Damages Your Property",
-      "description": "Tenant fails to pay rent for 2 months and then skips town leaving damage to your rental property. Insurance covers most damage and costs, but you still are out of pocket $500. Pay $500 if you own any rental property. (Bank will lend you the money on usual terms.) Only the person who draws this card pays.",
-      "details": {}
-    },
-    {
-      "title": "Preferred Stock—2BIG Power",
-      "description": "High yield, preferred shares of major domestic electric power company. Dividend and price fixed at “fair” level by state utility commission. Everyone may buy or sell as many shares as they want at this price.",
       "details": {
-        "Symbol": "2",
-        "Dividend": "10",
-        "Trading Range": "1,200"
+        "cost": 65000,
+        "liability": 50000,
+        "down": 15000,
+        "cashflow": 250
       }
     },
     {
-      "title": "House for Sale — 3 Br/2Ba",
-      "description": "Nice 3/2 house available in depressed market due to layoffs. Would make good investment property for right buyer. Use this yourself or sell to another player. 60% ROI, may sell for $65,000 to $135,000.",
+      "title": "Duplex for Sale",
+      "description": "Owner moving out of this duplex due to growing family. Tenant remains, well maintained, excellent landscaping.",
       "details": {
-        "Cost": "50,000",
-        "Mortgage": "46,000",
-        "DownPay": "4,000",
-        "Cash Flow": "+$200"
+        "cost": 50000,
+        "liability": 42000,
+        "down": 8000,
+        "cashflow": 240
       }
     },
     {
-      "title": "Stock — MYT4U Electronics Co.",
-      "description": "Booming market leads to record share price of this home electronics seller! Only you may buy as many shares as you want at this price. Everyone may sell at this price. Symbol MYT4U Today’s price: $40 No dividend (Yield or ROI = 0%)",
+      "title": "Duplex for Sale",
+      "description": "Well maintained duplex in desirable area available due to transfer of owner. Excellent investment opportunity for right buyer.",
       "details": {
-        "Trading Range": "5"
+        "cost": 60000,
+        "liability": 54000,
+        "down": 6000,
+        "cashflow": 300
       }
     },
     {
-      "title": "House For Sale — 3Br/2Ba",
-      "description": "Low down payment to pick up this 3/2 house, owner /seller unexpectedly moving out of town. Right person will do well. Use this yourself or sell to another player. 40% ROI, may sell for $65,000 to $135,000.",
+      "title": "Duplex for Sale",
+      "description": "2 unit house in a stable neighborhood. Painted last year. Long-term tenants. Good cashflow.",
       "details": {
-        "Cost": "50,000",
-        "Mortgage": "47,000",
-        "DownPay": "3,000",
-        "Cash Flow": "+$100"
+        "cost": 60000,
+        "liability": 50000,
+        "down": 10000,
+        "cashflow": 220
       }
     },
     {
-      "title": "Condo For Sale — 2Br/1Ba",
-      "description": "Nice 2/1 condo available due to marriage of owner. Bad area. Needs work. Use this yourself or sell to another player. 24% ROI, may sell for $45,000 to $65,000.",
+      "title": "Duplex for Sale",
+      "description": "Proud owner retiring to another state to be near children. Best duplex in the neighborhood!",
       "details": {
-        "Cost": "50,000",
-        "Mortgage": "45,000",
-        "DownPay": "5,000",
-        "Cash Flow": "+$100"
+        "cost": 70000,
+        "liability": 63000,
+        "down": 7000,
+        "cashflow": 140
       }
     },
     {
-      "title": "Stock — MYT4U Electronics Co.",
-      "description": "Weak market leads to sagging share price for this home electronics seller. Only you may buy as many shares as you want at this price. Everyone may sell at this price. Symbol MYT4U Today’s price: $10 No dividend (Yield or ROI = 0%)",
+      "title": "4-plex for Sale",
+      "description": "Retired owner of this 4-plex wants to move into a retirement home. Property well maintained and managed.",
       "details": {
-        "Trading Range": "5"
+        "cost": 90000,
+        "liability": 75000,
+        "down": 15000,
+        "cashflow": 700
       }
     },
     {
-      "title": "Stock — ON2U Entertainment Co.",
-      "description": "New director of movie acquisitions brings revived prospects for share price. Only you may buy as many shares as you want at this price. Everyone may sell at this price. Symbol ON2U Today’s price: $20 No dividend (Yield or ROI = 0%)",
+      "title": "4-plex for Sale",
+      "description": "4-plex available — forced sale. Out-of-state, financially distressed owner years behind on taxes. Some records available.",
       "details": {
-        "Trading Range": "10"
+        "cost": 140000,
+        "liability": 108000,
+        "down": 32000,
+        "cashflow": 2000
       }
     },
     {
-      "title": "Start a Company Part Time",
-      "description": "Invent new way of making widgets, so you start a company to produce and sell them. No profits during startup, long hours, no extra pay. Use this yourself or sell to another player. 0% ROI, may sell for ??, if anything.",
+      "title": "4-plex for Sale",
+      "description": "Older 4-plex in older neighborhood. Decent shape, fully rented. Good tenant history. Great starter property.",
       "details": {
-        "Cost": "3,000",
-        "Liability": "0",
-        "DownPay": "3,000",
-        "Cash Flow": "0"
+        "cost": 80000,
+        "liability": 70000,
+        "down": 10000,
+        "cashflow": 400
       }
     },
     {
-      "title": "Stock — OK4U Drug Co.",
-      "description": "Low inflation leads to high share price for this long time maker of medicines. Only you may buy as many shares as you want at this price. Everyone may sell at this price. Symbol OK4U Today’s price: $40 No dividend (Yield or ROI = 0%)",
+      "title": "4-plex for Sale",
+      "description": "4-plex in recovering neighborhood. Fully rented, repairs kept up. Needs your down payment and a new manager.",
       "details": {
-        "Trading Range": "5"
+        "cost": 100000,
+        "liability": 80000,
+        "down": 20000,
+        "cashflow": 400
       }
     },
     {
-      "title": "Stock — ON2U Entertainment Co.",
-      "description": "Box office flop by musical extravaganza in core division causes poor share price. Only you may buy as many shares as you want at this price. Everyone may sell at this price. Symbol ON2U Today’s price: $10 No dividend (Yield or ROI = 0%)",
+      "title": "4-plex for Sale",
+      "description": "Nice 4-plex in quiet suburban neighborhood. Owner retiring. Good long-term tenants.",
       "details": {
-        "Trading Range": "10"
+        "cost": 100000,
+        "liability": 90000,
+        "down": 10000,
+        "cashflow": 500
       }
     },
     {
-      "title": "Mutual Fund — GRO4US Fund",
-      "description": "Lower interest rates drive market and fund to strong showing. Only you may buy as many units as you want at this price. Everyone may sell at this price. Symbol GRO4US Today’s price: $30 No dividend (Yield or ROI = 0%)",
+      "title": "4-plex for Sale",
+      "description": "4-plex for sale by owner, moving to another state. Full records, fully rented, low occupant turnover in good neighborhood.",
       "details": {
-        "Trading Range": "10"
+        "cost": 150000,
+        "liability": 120000,
+        "down": 30000,
+        "cashflow": 500
       }
     },
     {
-      "title": "Sister-In-Law Borrows Money",
-      "description": "Sister-In-Law is downsized. Needs $5,000 to make house payments. She promises to pay you back $10,000 after she finds a new job. Use it for yourself or sell to another player. 2? % ROI",
+      "title": "8-plex for Sale",
+      "description": "Professional person urgently needs cash to save partnership. 8-plex sale to raise capital. Good opportunity for right person.",
       "details": {
-        "Cost": "5,000",
-        "DownPay": "5,000",
-        "Liability": "0",
-        "Cash Flow": "0"
+        "cost": 75000,
+        "liability": 68000,
+        "down": 7000,
+        "cashflow": 300
       }
     },
     {
-      "title": "Condo For Sale — 2Br/1Ba",
-      "description": "Bank foreclosure! 2/1 condo in desirable neighborhood close to jobs and stores. Make offer, favorable financing by bank. Use this yourself or sell to another player. 53% ROI, may sell for $45,000 to $65,000.",
+      "title": "8-plex for Sale",
+      "description": "Owner’s legal troubles lead to forced sale of this 8-plex. No qualifying on this loan, as mortgage holder is cooperating.",
       "details": {
-        "Cost": "40,000",
-        "Mortgage": "35,000",
-        "DownPay": "5,000"
+        "cost": 160000,
+        "liability": 128000,
+        "down": 32000,
+        "cashflow": 1700
       }
     },
     {
-      "title": "House For Sale — 3Br/2Ba",
-      "description": "Nice 3/2 rental house suddenly available due to estate closing. Well maintained older property with existing tenant. Use this yourself or sell to another player. 38% ROI, may sell for $65,000 to $135,000.",
+      "title": "8-plex for Sale",
+      "description": "Retiring investor offers 8-plex in older part of town. Fully rented. Some repairs needed.",
       "details": {
-        "Cost": "65,000",
-        "Mortgage": "60,000",
-        "DownPay": "5,000",
-        "Cash Flow": "+$160"
+        "cost": 250000,
+        "liability": 200000,
+        "down": 50000,
+        "cashflow": 1700
       }
     },
     {
-      "title": "Stock — OK4U Drug Co.",
-      "description": "Booming market raises share price of this long time maker of medicines. Only you may buy as many shares as you want at this price. Everyone may sell at this price. Symbol OK4U Today’s price: $50 No dividend (Yield or ROI= 0%)",
+      "title": "8-plex for Sale",
+      "description": "Retiring investor/owner offers his 8-plex at current appraisal value. Professional lawn service and management. Full records.",
       "details": {
-        "Trading Range": "5"
+        "cost": 200000,
+        "liability": 170000,
+        "down": 30000,
+        "cashflow": 500
       }
     },
     {
       "title": "House for Sale — 3Br/2Ba",
       "description": "Businessman liquidating this 3/2 house, needs cash to save his business. Currently occupied by happy tenant.",
-      "details": "26% ROI, may sell for $65,000 to $135,000. Cost: $65,000 Mortgage: $58,000 DownPay: $7,000 Cash Flow: +$150"
+      "details": {
+        "cost": 65000,
+        "liability": 58000,
+        "down": 7000,
+        "cashflow": 150
+      }
     },
     {
       "title": "House for Sale — 3Br/2Ba",
-      "description": "Downsized manager must sell this 3/2 house, cannot afford payments on new salary. Area in transition.",
-      "details": "40% ROI, may sell for $65,000 to $135,000. Cost: $70,000 Mortgage: $61,000 DownPay: $9,000 Cash Flow: +$300"
-    },
-    {
-      "title": "Limited Partner Wanted",
-      "description": "Non-franchise sandwich shop doubling the number of locations. Owner needs additional equity capital to get operating loan.",
-      "details": "60% ROI, owner may buy you out for $60,000 to $90,000. Cost: $30,000 DownPay: $30,000"
+      "description": "Good investment potential in this 3/2 house if you can be patient. Positive cashflow even though rents are weak.",
+      "details": {
+        "cost": 60000,
+        "liability": 54000,
+        "down": 6000,
+        "cashflow": 100
+      }
     },
     {
       "title": "House for Sale — 3Br/2Ba",
       "description": "Transferred skilled tradesman kept this 3/2 house in excellent condition, so it commands top dollar rentals in older neighborhood.",
-      "details": "40% ROI, may sell for $65,000 to $135,000. Cost: $67,000 Mortgage: $55,000 DownPay: $12,000 Cash Flow: +$400"
+      "details": {
+        "cost": 67000,
+        "liability": 55000,
+        "down": 12000,
+        "cashflow": 400
+      }
     },
     {
-      "title": "Duplex for Sale",
-      "description": "Owner moving out of this duplex due to growing family. Tenant remains, well maintained, excellent landscaping.",
-      "details": "367% ROI, may sell for $50,000 to $70,000. Cost: $50,000 Mortgage: $42,000 DownPay: $8,000 Cash Flow: +$240"
+      "title": "House for Sale — 3Br/2Ba",
+      "description": "Downsized manager must sell this 3/2 house, cannot afford payments on new salary. Area in transition.",
+      "details": {
+        "cost": 70000,
+        "liability": 61000,
+        "down": 9000,
+        "cashflow": 300
+      }
     },
     {
-      "title": "Duplex for Sale",
-      "description": "Well maintained duplex in desirable area available due to transfer of owner. Excellent investment opportunity for right buyer.",
-      "details": "60% ROI, may sell for $50,000 to $80,000. Cost: $60,000 Mortgage: $54,000 DownPay: $6,000 Cash Flow: +$300"
+      "title": "House for Sale — 3Br/2Ba",
+      "description": "Divorce leads to sale of this 3/2 house in an area full of owner occupied homes.",
+      "details": {
+        "cost": 70000,
+        "liability": 50000,
+        "down": 20000,
+        "cashflow": 500
+      }
     },
     {
-      "title": "Automated Business for Sale",
-      "description": "State-of-the-art automated manufacturing business. Highly profitable and fully staffed.",
-      "details": "60% ROI, may sell for $100,000 to $160,000. Cost: $200,000 DownPay: $50,000 Liability: $100,000 Cash Flow: +$5,000"
+      "title": "House for Sale — 3Br/2Ba",
+      "description": "3/2 house on golf course offers potential capital gain plus current cashflow. Good rentals and nice financing.",
+      "details": {
+        "cost": 65000,
+        "liability": 56000,
+        "down": 9000,
+        "cashflow": 100
+      }
+    },
+    {
+      "title": "House for Sale — 3Br/2ba",
+      "description": "Nice 3/2 house with in ground pool and full appliances available in upper middle class area. Good schools.",
+      "details": {
+        "cost": 125000,
+        "liability": 105000,
+        "down": 20000,
+        "cashflow": 100
+      }
+    },
+    {
+      "title": "Limited Partner Wanted",
+      "description": "Successful pizza chain expanding into production of frozen pizzas for grocery stores. Owner needs capital for equipment.",
+      "details": {
+        "cost": 75000,
+        "liability": 0,
+        "down": 75000,
+        "cashflow": 2000
+      }
+    },
+    {
+      "title": "Limited Partner Wanted",
+      "description": "",
+      "details": {
+        "cost": 50000,
+        "liability": 0,
+        "down": 50000,
+        "cashflow": 800
+      }
+    },
+    {
+      "title": "Limited Partner Wanted",
+      "description": "Auto Dealer wants to expand into leasing 2 and 3 year old cars. Needs capital as car maker’s finance company is not interested.",
+      "details": {
+        "cost": 30000,
+        "liability": 0,
+        "down": 30000,
+        "cashflow": 1000
+      }
+    },
+    {
+      "title": "Limited Partner Wanted",
+      "description": "Non-franchise sandwich shop doubling the number of locations. Owner needs additional equity capital to get operating loan.",
+      "cost": 30000,
+      "down": 30000
+    },
+    {
+      "title": "20 Acres for Sale",
+      "description": "Family farm for sale to pay estate taxes. 20 acres zoned agricultural with excellent soil and drainage. Could be good investment.",
+      "details": {
+        "cost": 75000,
+        "liability": 0,
+        "down": 75000,
+        "cashflow": 0
+      }
+    },
+    {
+      "title": "Small Shopping Mall for Sale",
+      "description": "Owner retiring, selling small shopping mall in local suburb. Needs quick sale.",
+      "details": {
+        "cost": 500000,
+        "liability": 450000,
+        "down": 50000,
+        "cashflow": 800
+      }
+    },
+    {
+      "title": "Bed & Breakfast for Sale",
+      "description": "Charming 6-room inn in a resort area. Owner retiring. Guests come back year after year.",
+      "details": {
+        "cost": 150000,
+        "liability": 120000,
+        "down": 30000,
+        "cashflow": 1200
+      }
+    },
+    {
+      "title": "Car Wash for Sale",
+      "description": "Small 4-bay car wash on a busy street. Turnkey. As is. Price firm. Health forces retirement.",
+      "details": {
+        "cost": 50000,
+        "liability": 30000,
+        "down": 20000,
+        "cashflow": 450
+      }
+    },
+    {
+      "title": "Pizza Franchise for Sale",
+      "description": "Healthy-pizza company franchise. Trend in nutritious fast-food booming. Next to college. High traffic.",
+      "details": {
+        "cost": 500000,
+        "liability": 400000,
+        "down": 100000,
+        "cashflow": 5000
+      }
     },
     {
       "title": "Sewer Line Breaks",
@@ -334,205 +394,25 @@
       "details": "If you own an 8-plex, pay $2,000 for new line. (Bank loan available on usual terms.)"
     },
     {
-      "title": "Mutual Fund — GRO4US Fund",
-      "description": "Diversified mutual fund, trending up. Long-term growth potential.",
-      "details": "Symbol: GRO4U / Added at: Today's price $20. Trading Range: $10 to $30. Cost: $1,000 DownPay: $1,000"
-    },
-    {
-      "title": "You Find a Great Deal",
-      "description": "Offer to buy 3/2 house from your brother-in-law. Bank says you must bring the downpayment.",
-      "details": "181% ROI, may sell for $65,000 to $135,000. Cost: $50,000 Mortgage: $45,000 DownPay: $5,000 Cash Flow: +$200"
-    },
-    {
-      "title": "Preferred Stock — 2BIG Power",
-      "description": "Preferred stock in power utility industry. Pays quarterly dividends and usually trades in narrow range.",
-      "details": "Symbol: 2BIG / Today's Price: $10. Yield: 12%. Trading Range: $9.00 to $11.00 minimum"
-    },
-    {
-      "title": "Small Shopping Mall for Sale",
-      "description": "Owner retiring, selling small shopping mall in local suburb. Needs quick sale.",
-      "details": "18% ROI, may sell for $400,000 to $650,000. Cost: $500,000 Mortgage: $450,000 DownPay: $50,000 Cash Flow: +$800"
-    },
-    {
-      "title": "Stock — OK4U Drug Co.",
-      "description": "Large pharmaceutical firm. Specialty drug division expected to grow quickly.",
-      "details": "Symbol: OK4U / Added at: Today's price $40. Trading Range: $15 to $40. No dividends."
-    },
-    {
-      "title": "Stock — MYT4U Electronics Co.",
-      "description": "High-tech consumer electronics firm. Known for innovating quickly and marketing well.",
-      "details": "Symbol: MYT4U / Added at: Today's price $5. Trading Range: $2 to $40"
-    },
+      "title": "Tenant Damages Your Property",
+      "description": "Tenant trashed your rental property. Repair estimate is $1,000. Insurance does not cover damages due to tenant neglect. Pay $1,000 or arrange a forced sale. Only the person who draws this card pays.",
+      "details": {}
+    }
+  ],
+  "smallOpps": [
     {
       "title": "Certificates of Deposit",
       "description": "Certificates of deposit issued by regional bank. Pay interest at fixed rate, insured by FDIC.",
-      "details": "Cost: $1,000 Yield: 5%. No capital gain. Bank CD value remains constant."
+      "details": {}
     },
     {
-      "title": "Mutual Fund — GRO4US Fund",
-      "description": "Diversified mutual fund, trending up. Long-term growth potential.",
-      "details": "Symbol: GRO4U / Added at: Today's price $20. Trading Range: $10 to $30. Cost: $1,000 DownPay: $1,000"
-    },
-    {
-      "title": "Stock — ON2U Entertainment Co.",
-      "description": "Strong demand for company’s library of old movies on video leads to good share price.",
+      "title": "Certificate of Deposit",
+      "description": "A deposit in a commercial bank. A safe investment, protected with Federal insurance. Interest credited at end of month.",
       "details": {
-        "Symbol": "ON2U",
-        "Price": "$30",
-        "Trading Range": "$10 to $30",
-        "Dividend": "None (ROI = 0%)",
-        "Buy Permission": "Only you may buy as many shares as you want",
-        "Sell Permission": "Everyone may sell at this price"
-      }
-    },
-    {
-      "title": "Stock — ON2U Entertainment Co.",
-      "description": "Movie buyer fired after third mega-flop! Shares sink. Chairman’s bonus canceled.",
-      "details": {
-        "Symbol": "ON2U",
-        "Price": "$5",
-        "Trading Range": "$10 to $30",
-        "Dividend": "None (ROI = 0%)",
-        "Buy Permission": "Only you may buy as many shares as you want",
-        "Sell Permission": "Everyone may sell at this price"
-      }
-    },
-    {
-      "title": "Condo For Sale — 2Br/1Ba",
-      "description": "Older 2/1 condo offered by young couple who want to move up to a 3/2 house due to growing family.",
-      "details": {
-        "Cost": "$55,000",
-        "Mortgage": "$50,000",
-        "Down Payment": "$5,000",
-        "Cash Flow": "+$160",
-        "ROI": "38%",
-        "Usage": "Use this yourself or sell to another player"
-      }
-    },
-    {
-      "title": "Stock — OK4U Drug Co.",
-      "description": "Inflation worries cause poor share price of this long-time maker of medicines.",
-      "details": {
-        "Symbol": "OK4U",
-        "Price": "$10",
-        "Trading Range": "$5 to $40",
-        "Dividend": "None (ROI = 0%)",
-        "Buy Permission": "Only you may buy as many shares as you want",
-        "Sell Permission": "Everyone may sell at this price"
-      }
-    },
-    {
-      "title": "Stock — OK4U Drug Co.",
-      "description": "Market strength leads to high share price for this long-time maker of medicines.",
-      "details": {
-        "Symbol": "OK4U",
-        "Price": "$40",
-        "Trading Range": "$5 to $40",
-        "Dividend": "None (ROI = 0%)",
-        "Buy Permission": "Only you may buy as many shares as you want",
-        "Sell Permission": "Everyone may sell at this price"
-      }
-    },
-    {
-      "title": "Stock — ON2U Entertainment Co.",
-      "description": "Recent merger strengthened market share of this leading company with good outlook.",
-      "details": {
-        "Symbol": "ON2U",
-        "Price": "$20",
-        "Trading Range": "$10 to $40",
-        "Dividend": "None (ROI = 0%)",
-        "Buy Permission": "Only you may buy as many shares as you want",
-        "Sell Permission": "Everyone may sell at this price"
-      }
-    },
-    {
-      "title": "Stock — OK4U Drug Co.",
-      "description": "Market panic causes crash in the shares of this long-time maker of medicines.",
-      "details": {
-        "Symbol": "OK4U",
-        "Price": "$1",
-        "Trading Range": "$5 to $40",
-        "Dividend": "None (ROI = 0%)",
-        "Buy Permission": "Only you may buy as many shares as you want",
-        "Sell Permission": "Everyone may sell at this price"
-      }
-    },
-    {
-      "title": "Stock — OK4U Drug Co.",
-      "description": "Things are going so well for the company that their shares have just split!",
-      "details": {
-        "Symbol": "OK4U",
-        "Action": "Split 2 for 1",
-        "Dividend": "None",
-        "Buy/Sell": "No one may buy or sell at this time"
-      }
-    },
-    {
-      "title": "Stock — MYT4U Electronics Co.",
-      "description": "Company reorganizes! Massive losses due to over-expansion and recession. Stockholders lose 1/2 of their ownership rights.",
-      "details": {
-        "Symbol": "MYT4U",
-        "Action": "Reverse split 1 for 2",
-        "Dividend": "None",
-        "Buy/Sell": "No one may buy or sell at this time"
-      }
-    },
-    {
-      "title": "Stock — MYT4U Electronics Co.",
-      "description": "High inflation leads to poor share price for this home electronics seller.",
-      "details": {
-        "Symbol": "MYT4U",
-        "Price": "$5",
-        "Trading Range": "$5 to $30",
-        "Dividend": "None (ROI = 0%)",
-        "Buy Permission": "Only you may buy as many shares as you want",
-        "Sell Permission": "Everyone may sell at this price"
-      }
-    },
-    {
-      "title": "Stock — OK4U Drug Co.",
-      "description": "Company flounders! Massive losses due to tainted drug scandal. All stockholders lose 1/2 of their ownership rights.",
-      "details": {
-        "Symbol": "OK4U",
-        "Action": "Reverse split 1 for 2",
-        "Dividend": "None",
-        "Buy/Sell": "No one may buy or sell at this time"
-      }
-    },
-    {
-      "title": "Friend Needs Cash... Quick",
-      "description": "A friend has urgent need for money. Will sell you 10 one-ounce gold Krugerrands, well below going rate, for $300 each.",
-      "details": {
-        "Cost": "$3,000",
-        "Down Payment": "$3,000",
-        "Liability": "$0",
-        "Cash Flow": "$0",
-        "ROI": "0%",
-        "Usage": "Use it for yourself or sell to another player"
-      }
-    },
-    {
-      "title": "Start a Company Part Time",
-      "description": "Develop interesting idea for a software program. You start a company to produce and sell it. No profits during startup, long hours, no extra pay.",
-      "details": {
-        "Cost": "$5,000",
-        "Down Payment": "$5,000",
-        "Liability": "$0",
-        "Cash Flow": "$0",
-        "ROI": "0%",
-        "Usage": "Use this yourself or sell to another player"
-      }
-    },
-    {
-      "title": "Stock — MYT4U Electronics Co.",
-      "description": "Low interest rates lead to substantial share price for this home electronics seller.",
-      "details": {
-        "Symbol": "MYT4U",
-        "Price": "$30",
-        "Trading Range": "$5 to $30",
-        "Dividend": "None (ROI = 0%)",
-        "Buy Permission": "Only you may buy as many shares as you want",
-        "Sell Permission": "Everyone may sell at this price"
+        "Symbol": "CD",
+        "Today's Price": "$5,000",
+        "Yield": "12%/year ($50/month)",
+        "Trading Range": "$5,000 to $5,000"
       }
     },
     {
@@ -544,53 +424,69 @@
         "Trading Range": "$10 to $30",
         "Dividend": "None (ROI = 0%)",
         "Buy Permission": "Only you may buy as many units as you want",
-        "Sell Permission": "Everyone may sell at this price"
+        "Sell Permission": "<u>Everyone may sell</u> at this price"
       }
     },
     {
-      "title": "Stock — OK4U Drug Co.",
-      "description": "High interest rates cause poor share price of this long-time maker of medicines.",
+      "title": "Mutual Fund — GRO4US Fund",
+      "description": "Diversified mutual fund, trending up. Long-term growth potential.",
+      "cost": 1000,
+      "down": 1000
+    },
+    {
+      "title": "Mutual Fund — GRO4US Fund",
+      "description": "Lower interest rates drive market and fund to strong showing. Only you may buy as many units as you want at this price. <u>Everyone may sell</u> at this price. Symbol GRO4US Today’s price: $30 No dividend (Yield or ROI = 0%)",
       "details": {
-        "Symbol": "OK4U",
-        "Price": "$10",
-        "Trading Range": "$5 to $40",
+        "Trading Range": "10"
+      }
+    },
+    {
+      "title": "Mutual Fund — GRO4US Fund",
+      "description": "Diversified mutual fund, trending up. Long-term growth potential.",
+      "cost": 1000,
+      "down": 1000
+    },
+    {
+      "title": "Mutual Fund - GRO4US Fund",
+      "description": "Well-diversified stock mutual fund. Watch for price trends before buying. Use this yourself or sell to another player.",
+      "details": {
+        "Symbol": "GRO4US",
+        "Dividend (if held at time of pay)": "$0",
+        "Today's Price": "$20",
+        "Trading Range": "$10 to $50"
+      }
+    },
+    {
+      "title": "Preferred Stock—2BIG Power",
+      "description": "High yield, preferred shares of major domestic electric power company. Dividend and price fixed at “fair” level by state utility commission. Everyone may buy or sell as many shares as they want at this price.",
+      "details": {
+        "Symbol": "2",
+        "Dividend": "10",
+        "Trading Range": "1,200"
+      }
+    },
+    {
+      "title": "Preferred Stock — 2BIG Power",
+      "description": "Preferred stock in power utility industry. Pays quarterly dividends and usually trades in narrow range.",
+      "details": "Symbol: 2BIG / Today's Price: $10. Yield: 12%. Trading Range: $9.00 to $11.00 minimum"
+    },
+    {
+      "title": "Stock — ON2U Entertainment Co.",
+      "description": "Movie buyer fired after third mega-flop! Shares sink. Chairman’s bonus canceled.",
+      "details": {
+        "Symbol": "ON2U",
+        "Price": "$5",
+        "Trading Range": "$10 to $30",
         "Dividend": "None (ROI = 0%)",
         "Buy Permission": "Only you may buy as many shares as you want",
-        "Sell Permission": "Everyone may sell at this price"
+        "Sell Permission": "<u>Everyone may sell</u> at this price"
       }
     },
     {
-      "title": "10 Acres Raw Land",
-      "description": "Wonderful park-like setting with stream on acres in undeveloped area. No roads, no utilities, no noise. Use this yourself or sell to another player.",
+      "title": "Stock — ON2U Entertainment Co.",
+      "description": "Box office flop by musical extravaganza in core division causes poor share price. Only you may buy as many shares as you want at this price. <u>Everyone may sell</u> at this price. Symbol ON2U Today’s price: $10 No dividend (Yield or ROI = 0%)",
       "details": {
-        "Cost": "$5,000",
-        "DownPay": "$5,000",
-        "Mortgage": "$0",
-        "Cash Flow": "$0"
-      }
-    },
-    {
-      "title": "Condo For Sale - 2Br/1Ba",
-      "description": "Parents selling 2/1 condo used by their child in college town. Lots of demand for rentals in this area. Use this yourself or sell to another player.",
-      "details": {
-        "Cost": "$40,000",
-        "Mortgage": "$36,000",
-        "DownPay": "$4,000",
-        "Cash Flow": "+$140",
-        "ROI": "42%",
-        "Sell Range": "$45,000 to $65,000"
-      }
-    },
-    {
-      "title": "You Find a Great Deal!",
-      "description": "Company bought transferred manager's 3/2 house. No current tenant, has been on market 6 months, just reduced. Borrow from the Bank if you must, but... BUY THIS!",
-      "details": {
-        "Cost": "$45,000",
-        "Mortgage": "$43,000",
-        "DownPay": "$2,000",
-        "Cash Flow": "+$250",
-        "ROI": "150%",
-        "Sell Range": "$65,000 to $135,000"
+        "Trading Range": "10"
       }
     },
     {
@@ -601,6 +497,37 @@
         "Dividend (if held at time of pay)": "$0",
         "Today's Price": "$10",
         "Trading Range": "$10 to $50"
+      }
+    },
+    {
+      "title": "Stock — ON2U Entertainment Co.",
+      "description": "Recent merger strengthened market share of this leading company with good outlook.",
+      "details": {
+        "Symbol": "ON2U",
+        "Price": "$20",
+        "Trading Range": "$10 to $40",
+        "Dividend": "None (ROI = 0%)",
+        "Buy Permission": "Only you may buy as many shares as you want",
+        "Sell Permission": "<u>Everyone may sell</u> at this price"
+      }
+    },
+    {
+      "title": "Stock — ON2U Entertainment Co.",
+      "description": "New director of movie acquisitions brings revived prospects for share price. Only you may buy as many shares as you want at this price. <u>Everyone may sell</u> at this price. Symbol ON2U Today’s price: $20 No dividend (Yield or ROI = 0%)",
+      "details": {
+        "Trading Range": "10"
+      }
+    },
+    {
+      "title": "Stock — ON2U Entertainment Co.",
+      "description": "Strong demand for company’s library of old movies on video leads to good share price.",
+      "details": {
+        "Symbol": "ON2U",
+        "Price": "$30",
+        "Trading Range": "$10 to $30",
+        "Dividend": "None (ROI = 0%)",
+        "Buy Permission": "Only you may buy as many shares as you want",
+        "Sell Permission": "<u>Everyone may sell</u> at this price"
       }
     },
     {
@@ -624,22 +551,65 @@
       }
     },
     {
-      "title": "Stock - OK4U Drug Co.",
-      "description": "Stock price now reflects recent study validating product effectiveness. Use this yourself or sell to another player.",
-      "details": {
-        "Symbol": "OK4U",
-        "Dividend (if held at time of pay)": "$0",
-        "Today's Price": "$5",
-        "Trading Range": "$10 to $50"
-      }
-    },
-    {
       "title": "Stock - MTY4U Electronics Co.",
       "description": "Electronics manufacturer missed 3rd quarter earnings estimate. Stock drops. Use this yourself or sell to another player.",
       "details": {
         "Symbol": "MTY4U",
         "Dividend (if held at time of pay)": "$0",
         "Today's Price": "$5",
+        "Trading Range": "$5 to $50"
+      }
+    },
+    {
+      "title": "Stock — MYT4U Electronics Co.",
+      "description": "High inflation leads to poor share price for this home electronics seller.",
+      "details": {
+        "Symbol": "MYT4U",
+        "Price": "$5",
+        "Trading Range": "$5 to $30",
+        "Dividend": "None (ROI = 0%)",
+        "Buy Permission": "Only you may buy as many shares as you want",
+        "Sell Permission": "<u>Everyone may sell</u> at this price"
+      }
+    },
+    {
+      "title": "Stock — MYT4U Electronics Co.",
+      "description": "High-tech consumer electronics firm. Known for innovating quickly and marketing well.",
+      "details": "Symbol: MYT4U / Added at: Today's price $5. Trading Range: $2 to $40"
+    },
+    {
+      "title": "Stock — MYT4U Electronics Co.",
+      "description": "Weak market leads to sagging share price for this home electronics seller. Only you may buy as many shares as you want at this price. <u>Everyone may sell</u> at this price. Symbol MYT4U Today’s price: $10 No dividend (Yield or ROI = 0%)",
+      "details": {
+        "Trading Range": "5"
+      }
+    },
+    {
+      "title": "Stock — MYT4U Electronics Co.",
+      "description": "Low interest rates lead to substantial share price for this home electronics seller.",
+      "details": {
+        "Symbol": "MYT4U",
+        "Price": "$30",
+        "Trading Range": "$5 to $30",
+        "Dividend": "None (ROI = 0%)",
+        "Buy Permission": "Only you may buy as many shares as you want",
+        "Sell Permission": "<u>Everyone may sell</u> at this price"
+      }
+    },
+    {
+      "title": "Stock — MYT4U Electronics Co.",
+      "description": "Booming market leads to record share price of this home electronics seller! Only you may buy as many shares as you want at this price. <u>Everyone may sell</u> at this price. Symbol MYT4U Today’s price: $40 No dividend (Yield or ROI = 0%)",
+      "details": {
+        "Trading Range": "5"
+      }
+    },
+    {
+      "title": "Stock - MTY4U Electronics Co.",
+      "description": "Electronics manufacturer has new product ready for market. Stock rises. Use this yourself or sell to another player.",
+      "details": {
+        "Symbol": "MTY4U",
+        "Dividend (if held at time of pay)": "$0",
+        "Today's Price": "$40",
         "Trading Range": "$5 to $50"
       }
     },
@@ -654,12 +624,13 @@
       }
     },
     {
-      "title": "Stock - OK4U Drug Co.",
-      "description": "Company stock just split. Use this yourself or sell to another player.",
+      "title": "Stock — MYT4U Electronics Co.",
+      "description": "Company reorganizes! Massive losses due to over-expansion and recession. Stockholders lose 1/2 of their ownership rights.",
       "details": {
-        "Symbol": "OK4U",
-        "Dividend (if held at time of pay)": "$0",
-        "Split": "2 for 1"
+        "Symbol": "MYT4U",
+        "Action": "Reverse split 1 for 2",
+        "Dividend": "None",
+        "Buy/Sell": "No one may buy or sell at this time"
       }
     },
     {
@@ -672,22 +643,271 @@
       }
     },
     {
-      "title": "Stock - OK4U Drug Co.",
-      "description": "Company stock just split. Use this yourself or sell to another player.",
+      "title": "Stock — OK4U Drug Co.",
+      "description": "Market panic causes crash in the shares of this long-time maker of medicines.",
       "details": {
         "Symbol": "OK4U",
-        "Dividend (if held at time of pay)": "$0",
-        "Split": "2 for 1"
+        "Price": "$1",
+        "Trading Range": "$5 to $40",
+        "Dividend": "None (ROI = 0%)",
+        "Buy Permission": "Only you may buy as many shares as you want",
+        "Sell Permission": "<u>Everyone may sell</u> at this price"
       }
     },
     {
-      "title": "Certificate of Deposit",
-      "description": "A deposit in a commercial bank. A safe investment, protected with Federal insurance. Interest credited at end of month.",
+      "title": "Stock - OK4U Drug Co.",
+      "description": "Stock price now reflects recent study validating product effectiveness. Use this yourself or sell to another player.",
       "details": {
-        "Symbol": "CD",
-        "Today's Price": "$5,000",
-        "Yield": "12%/year ($50/month)",
-        "Trading Range": "$5,000 to $5,000"
+        "Symbol": "OK4U",
+        "Dividend (if held at time of pay)": "$0",
+        "Today's Price": "$5",
+        "Trading Range": "$10 to $50"
+      }
+    },
+    {
+      "title": "Stock — OK4U Drug Co.",
+      "description": "High interest rates cause poor share price of this long-time maker of medicines.",
+      "details": {
+        "Symbol": "OK4U",
+        "Price": "$10",
+        "Trading Range": "$5 to $40",
+        "Dividend": "None (ROI = 0%)",
+        "Buy Permission": "Only you may buy as many shares as you want",
+        "Sell Permission": "<u>Everyone may sell</u> at this price"
+      }
+    },
+    {
+      "title": "Stock — OK4U Drug Co.",
+      "description": "Inflation worries cause poor share price of this long-time maker of medicines.",
+      "details": {
+        "Symbol": "OK4U",
+        "Price": "$10",
+        "Trading Range": "$5 to $40",
+        "Dividend": "None (ROI = 0%)",
+        "Buy Permission": "Only you may buy as many shares as you want",
+        "Sell Permission": "<u>Everyone may sell</u> at this price"
+      }
+    },
+    {
+      "title": "Stock — OK4U Drug Co.",
+      "description": "Market strength leads to high share price for this long-time maker of medicines.",
+      "details": {
+        "Symbol": "OK4U",
+        "Price": "$40",
+        "Trading Range": "$5 to $40",
+        "Dividend": "None (ROI = 0%)",
+        "Buy Permission": "Only you may buy as many shares as you want",
+        "Sell Permission": "<u>Everyone may sell</u> at this price"
+      }
+    },
+    {
+      "title": "Stock — OK4U Drug Co.",
+      "description": "Large pharmaceutical firm. Specialty drug division expected to grow quickly.",
+      "details": "Symbol: OK4U / Added at: Today's price $40. Trading Range: $15 to $40. No dividends."
+    },
+    {
+      "title": "Stock — OK4U Drug Co.",
+      "description": "Low inflation leads to high share price for this long time maker of medicines. Only you may buy as many shares as you want at this price. <u>Everyone may sell</u> at this price. Symbol OK4U Today’s price: $40 No dividend (Yield or ROI = 0%)",
+      "details": {
+        "Trading Range": "5"
+      }
+    },
+    {
+      "title": "Stock — OK4U Drug Co.",
+      "description": "Booming market raises share price of this long time maker of medicines. Only you may buy as many shares as you want at this price. <u>Everyone may sell</u> at this price. Symbol OK4U Today’s price: $50 No dividend (Yield or ROI= 0%)",
+      "details": {
+        "Trading Range": "5"
+      }
+    },
+    {
+      "title": "Stock — OK4U Drug Co.",
+      "description": "Company flounders! Massive losses due to tainted drug scandal. All stockholders lose 1/2 of their ownership rights.",
+      "details": {
+        "Symbol": "OK4U",
+        "Action": "Reverse split 1 for 2",
+        "Dividend": "None",
+        "Buy/Sell": "No one may buy or sell at this time"
+      }
+    },
+    {
+      "title": "Stock — OK4U Drug Co.",
+      "description": "Things are going so well for the company that their shares have just split!",
+      "details": {
+        "Symbol": "OK4U",
+        "Action": "Split 2 for 1",
+        "Dividend": "None",
+        "Buy/Sell": "No one may buy or sell at this time"
+      }
+    },
+    {
+      "title": "Condo For Sale - 2Br/1Ba",
+      "description": "Parents selling 2/1 condo used by their child in college town. Lots of demand for rentals in this area. Use this yourself or sell to another player.",
+      "details": {
+        "cost": 40000,
+        "liability": 36000,
+        "down": 4000,
+        "cashflow": 140,
+        "ROI": "42%",
+        "Sell Range": "$45,000 to $65,000"
+      }
+    },
+    {
+      "title": "Condo For Sale — 2Br/1Ba",
+      "description": "Bank foreclosure! 2/1 condo in desirable neighborhood close to jobs and stores. Make offer, favorable financing by bank. Use this yourself or sell to another player. 53% ROI, may sell for $45,000 to $65,000.",
+      "details": {
+        "cost": 40000,
+        "liability": 35000,
+        "down": 5000
+      }
+    },
+    {
+      "title": "Condo For Sale — 2Br/1Ba",
+      "description": "Nice 2/1 condo available due to marriage of owner. Bad area. Needs work. Use this yourself or sell to another player. 24% ROI, may sell for $45,000 to $65,000.",
+      "details": {
+        "cost": 50000,
+        "liability": 45000,
+        "down": 5000,
+        "cashflow": 100
+      }
+    },
+    {
+      "title": "Condo For Sale — 2Br/1Ba",
+      "description": "Older 2/1 condo offered by young couple who want to move up to a 3/2 house due to growing family.",
+      "details": {
+        "cost": 55000,
+        "liability": 50000,
+        "down": 5000,
+        "cashflow": 160,
+        "ROI": "38%",
+        "Usage": "Use this yourself or sell to another player"
+      }
+    },
+    {
+      "title": "Condo For Sale — 2Br/1Ba",
+      "description": "Older 2/1 condo offered by young couple who want to move up to a 3/2 house due to growing family.",
+      "details": {
+        "cost": 55000,
+        "liability": 50000,
+        "down": 5000,
+        "cashflow": 160,
+        "ROI": "38%",
+        "Usage": "Use this yourself or sell to another player"
+      }
+    },
+    {
+      "title": "House For Sale — 3Br/2Ba",
+      "description": "Low down payment to pick up this 3/2 house, owner /seller unexpectedly moving out of town. Right person will do well. Use this yourself or sell to another player. 40% ROI, may sell for $65,000 to $135,000.",
+      "details": {
+        "cost": 50000,
+        "liability": 47000,
+        "down": 3000,
+        "cashflow": 100
+      }
+    },
+    {
+      "title": "House For Sale — 3Br/2Ba",
+      "description": "Low down payment to pick up this 3/2 house, owner /seller unexpectedly moving out of town. Right person will do well. Use this yourself or sell to another player. 40% ROI, may sell for $65,000 to $135,000.",
+      "details": {
+        "cost": 50000,
+        "liability": 47000,
+        "down": 3000,
+        "cashflow": 100
+      }
+    },
+    {
+      "title": "House For Sale — 3Br/2Ba",
+      "description": "Low down payment to pick up this 3/2 house, owner /seller unexpectedly moving out of town. Right person will do well. Use this yourself or sell to another player. 40% ROI, may sell for $65,000 to $135,000.",
+      "details": {
+        "cost": 50000,
+        "liability": 47000,
+        "down": 3000,
+        "cashflow": 100
+      }
+    },
+    {
+      "title": "House for Sale — 3 Br/2Ba",
+      "description": "Nice 3/2 house available in depressed market due to layoffs. Would make good investment property for right buyer. Use this yourself or sell to another player. 60% ROI, may sell for $65,000 to $135,000.",
+      "details": {
+        "cost": 50000,
+        "liability": 46000,
+        "down": 4000,
+        "cashflow": 200
+      }
+    },
+    {
+      "title": "House For Sale — 3Br/2Ba",
+      "description": "Nice 3/2 rental house suddenly available due to estate closing. Well maintained older property with existing tenant. Use this yourself or sell to another player. 38% ROI, may sell for $65,000 to $135,000.",
+      "details": {
+        "cost": 65000,
+        "liability": 60000,
+        "down": 5000,
+        "cashflow": 160
+      }
+    },
+    {
+      "title": "You Find a Great Deal",
+      "description": "Offer to buy 3/2 house from your brother-in-law. Bank says you must bring the downment.",
+      "details": {
+        "cost": 50000,
+        "liability": 45000,
+        "down": 5000,
+        "cashflow": 200
+      }
+    },
+    {
+      "title": "You Find a Great Deal!",
+      "description": "Company bought transferred manager's 3/2 house. No current tenant, has been on market 6 months, just reduced. Borrow from the Bank if you must, but... BUY THIS!",
+      "details": {
+        "cost": 45000,
+        "liability": 43000,
+        "down": 2000,
+        "cashflow": 250,
+        "ROI": "150%",
+        "Sell Range": "$65,000 to $135,000"
+      }
+    },
+    {
+      "title": "Start a Company Part Time",
+      "description": "Invent new way of making widgets, so you start a company to produce and sell them. No profits during startup, long hours, no extra pay. Use this yourself or sell to another player. 0% ROI, may sell for ??, if anything.",
+      "details": {
+        "cost": 3000,
+        "liability": 0,
+        "down": 3000,
+        "cashflow": 0
+      }
+    },
+    {
+      "title": "Start a Company Part Time",
+      "description": "Develop interesting idea for a software program. You start a company to produce and sell it. No profits during startup, long hours, no extra pay.",
+      "details": {
+        "cost": 5000,
+        "down": 5000,
+        "liability": 0,
+        "cashflow": 0,
+        "ROI": "0%",
+        "Usage": "Use this yourself or sell to another player"
+      }
+    },
+    {
+      "title": "10 Acres Raw Land",
+      "description": "Wonderful park-like setting with stream on acres in undeveloped area. No roads, no utilities, no noise. Use this yourself or sell to another player.",
+      "details": {
+        "cost": 5000,
+        "down": 5000,
+        "liability": 0,
+        "cashflow": 0
+      }
+    },
+    {
+      "title": "Friend Needs Cash... Quick",
+      "description": "A friend has urgent need for money. Will sell you 10 one-ounce gold Krugerrands, well below going rate, for $300 each.",
+      "details": {
+        "cost": 3000,
+        "down": 3000,
+        "liability": 0,
+        "cashflow": 0,
+        "ROI": "0%",
+        "Usage": "Use it for yourself or sell to another player"
       }
     },
     {
@@ -700,392 +920,237 @@
       }
     },
     {
-      "title": "Mutual Fund - GRO4US Fund",
-      "description": "Well-diversified stock mutual fund. Watch for price trends before buying. Use this yourself or sell to another player.",
+      "title": "Sister-In-Law Borrows Money",
+      "description": "Sister-In-Law is downsized. Needs $5,000 to make house payments. She promises to pay you back $10,000 after she finds a new job. Use it for yourself or sell to another player. 2? % ROI",
       "details": {
-        "Symbol": "GRO4US",
-        "Dividend (if held at time of pay)": "$0",
-        "Today's Price": "$20",
-        "Trading Range": "$10 to $50"
+        "cost": 5000,
+        "down": 5000,
+        "liability": 0,
+        "cashflow": 0
       }
     },
     {
-      "title": "Stock - MTY4U Electronics Co.",
-      "description": "Electronics manufacturer has new product ready for market. Stock rises. Use this yourself or sell to another player.",
-      "details": {
-        "Symbol": "MTY4U",
-        "Dividend (if held at time of pay)": "$0",
-        "Today's Price": "$40",
-        "Trading Range": "$5 to $50"
-      }
+      "title": "Tenant Damages Your Property",
+      "description": "Tenant fails to pay rent for 2 months and then skips toan leaving damaage to your rental property.\nInsurance covers most damage and costs, but you still are out of pocket $500. Pay $500 if you own any rental property. (Bank will lend you the money on usual terms.) Only the person who draws this card pays.",
+      "details": ""
     }
   ],
   "market": [
     {
-      "title": "House Buyer — 3Br/2Ba",
-      "description": "You are offered $90,000 for a 3/2 rental house. Buyer has own financing.\nEveryone may sell at this price.\n",
-      "details": "If you sell at this time, the sale price is added to your cash balance and you must pay off the related mortgage and remove the property from your current assets."
-    },
-    {
-      "title": "House Buyer — 3Br/2Ba",
-      "description": "You are offered $90,000 for a 3/2 rental house. Buyer has own financing.\nEveryone may sell at this price.\n",
-      "details": "If you sell at this time, the sale price is added to your cash balance and you must pay off the related mortgage and remove the property from your current assets."
-    },
-    {
-      "title": "Plex Buyer",
-      "description": "Buyer offers $35,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\nEveryone may sell at this price.\nIf you sell at this time, the sale price is added to your cash balance and you must pay off the related mortgage and remove the property from your current assets.",
+      "title": "Apartment House Buyer",
+      "description": "Buyer offers $25,000 per unit for all units in apartment houses of any size. Has own financing. [His 1031 tax deferred exchange time is running out.]\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
       "details": ""
     },
     {
-      "title": "House For Sale — 3Br/2Ba",
-      "description": "City planner’s son transferred, NO QUALIFYING loan available if buyer assumes your mortgage.",
-      "details": "Use this yourself or sell to another player. Cost: $50,000 Mortgage: $40,000 Down: $10,000 Cash Flow: $0"
+      "title": "Apartment House Buyer",
+      "description": "REIT offers $30,000 per unit for all units in apartment houses of 12 units or more. Has own financing. Buyer has funds from sale of complex in another city.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "details": ""
     },
     {
-      "title": "Builder Wants Land",
-      "description": "A builder is offering to buy land from you.",
-      "details": "If you sell at this time, remove the property from your assets. Cash: $15,000 to the seller of raw land or $20,000 to the seller of commercial land."
+      "title": "Apartment House Buyer",
+      "description": "Buyer offers $40,000 per unit on all units in apartment houses. Has own financing, needs to invest now.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "details": ""
     },
     {
-      "title": "Shopping Mall Wanted",
-      "description": "Major developer wants to build a shopping mall. They are assembling land in your area.",
-      "details": "They will pay $100,000 to everyone owning raw land. If you sell, add the cash to your balance and remove the property from your assets."
+      "title": "Apartment House Buyer",
+      "description": "Buyer offers $45,000 per unit for all units in apartment houses of any size. Has own financing. [His 1031 tax deferred exchange time is running out.]\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "details": ""
+    },
+    {
+      "title": "Condo Buyer — 2Br/1Ba",
+      "description": "You are offered $45,000 for a 2/1 rental condo. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
+      "details": ""
+    },
+    {
+      "title": "Condo Buyer — 2Br/1Ba",
+      "description": "You are offered $55,000 for a 2/1 rental condo. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "details": ""
+    },
+    {
+      "title": "Condo Buyer — 2Br/1Ba",
+      "description": "You are offered $55,000 for a 2/1 rental condo. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
+      "details": ""
+    },
+    {
+      "title": "Condo Buyer — 2Br/1Ba",
+      "description": "You are offered $65,000 for a 2/1 rental condo. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
+      "details": ""
+    },
+    {
+      "title": "House Buyer — 3Br/2Ba",
+      "description": "Your brother-in-law lost his job and wants to buy your 3/2 rental house. He promises to pay you $100,000 four years from now, but has no income or savings. He can pay a small monthly amount, but no down payment...\nIf you sell at his terms, your cashflow goes down by $500 per month, until you collect the $100,000.",
+      "details": ""
+    },
+    {
+      "title": "House Buyer — 3Br/2Ba",
+      "description": "You are offered $65,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "details": ""
+    },
+    {
+      "title": "House Buyer — 3Br/2Ba",
+      "description": "You are offered $90,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "details": ""
+    },
+    {
+      "title": "House Buyer — 3Br/2Ba",
+      "description": "You are offered $100,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
+      "details": ""
+    },
+    {
+      "title": "House Buyer — 3Br/2Ba",
+      "description": "You are offered $100,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "details": ""
+    },
+    {
+      "title": "House Buyer — 3Br/2Ba",
+      "description": "You are offered $110,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
+      "details": ""
+    },
+    {
+      "title": "House Buyer — 3Br/2Ba",
+      "description": "You are offered $135,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "details": ""
+    },
+    {
+      "title": "House Buyer — 3Br/2Ba",
+      "description": "You are offered $135,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "details": ""
+    },
+    {
+      "title": "Plex Buyer",
+      "description": "Buyer offers $25,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "details": ""
+    },
+    {
+      "title": "Plex Buyer",
+      "description": "Buyer offers $25,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "details": ""
+    },
+    {
+      "title": "Plex Buyer",
+      "description": "Buyer offers $30,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "details": ""
+    },
+    {
+      "title": "Plex Buyer",
+      "description": "Buyer offers $30,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes.\nBuyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "details": ""
+    },
+    {
+      "title": "Plex Buyer",
+      "description": "Buyer offers $30,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "details": ""
+    },
+    {
+      "title": "Plex Buyer",
+      "description": "Buyer offers $35,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "details": ""
+    },
+    {
+      "title": "Plex Buyer",
+      "description": "Buyer offers $35,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes.\nBuyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "details": ""
+    },
+    {
+      "title": "Plex Buyer",
+      "description": "Buyer offers $35,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "details": ""
+    },
+    {
+      "title": "Plex Buyer",
+      "description": "Buyer offers $40,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes.\nHas own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "details": ""
+    },
+    {
+      "title": "Plex Buyer",
+      "description": "Buyer offers $40,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "details": ""
     },
     {
       "title": "Limited Partnership Sold",
-      "description": "The limited partnership you own has been sold off to a public real estate investment trust.",
-      "details": "You immediately receive a lump-sum payout based on the current cash flow. Multiply the current cash flow you receive from this property by 25 and add that amount to your cash balance. Remove the partnership from your assets."
+      "description": "The business has been sold and you receive <u>twice your original cost</u> for your share of it.\nYou agreed to sell if and when the founder sold out, as she just did. New owners have their own financing.\n<u>Every limited partnership is affected</u>. If you own a limited partnership, receive cash and reduce your cashflows immediately.",
+      "details": ""
+    },
+    {
+      "title": "Limited Partnership Sold",
+      "description": "The business has been sold and you receive <u>twice your original cost</u> for your share of it.\nYou agreed to sell if and when the founder sold out, as she just did. New owners have their own financing.\n<u>Every limited partnership is affected</u>. If you own a limited partnership, receive cash and reduce your cashflows immediately.",
+      "details": ""
+    },
+    {
+      "title": "Limited Partnership Sold",
+      "description": "The business has been sold and you receive <u>three times your original cost</u> for your share of it.\nYou agreed to sell if and when the founder sold out, as he just did. New owners have their own financing.\n<u>Every limited partnership is affected</u>. If you own a limited partnership, receive cash and reduce your cashflows immediately.",
+      "details": ""
     },
     {
       "title": "Small Business Improves",
-      "description": "The small business you hold has increased its profitability.",
-      "details": "The improved business now pays an additional $250 per month in cash flow. Update your monthly cash flow accordingly."
+      "description": "The small business you founded won an industry award for its product innovation. Great publicity causes your sales to double.\nThis brings more problems and requires more time from you, but Monthly Net Income goes up $250.\n<u>Everyone</u> who owns a business they started is affected and <u>increases</u> their cashflows by $250 per month on all such businesses.",
+      "details": ""
     },
     {
       "title": "Small Business Improves",
-      "description": "The small business you hold has increased its profitability.",
-      "details": "The improved business now pays an additional $250 per month in cash flow. Update your monthly cash flow accordingly."
-    },
-    {
-      "title": "House Buyer — 3Br/2Ba",
-      "description": "You are offered $95,000 for a 3/2 rental house. Buyer has own financing.\nEveryone may sell at this price.\n",
-      "details": "If you sell at this time, the sale price is added to your cash balance and you must pay off the related mortgage and remove the property from your current assets."
-    },
-    {
-      "title": "Plex Buyer",
-      "description": "Buyer offers $35,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\nEveryone may sell at this price.\nIf you sell at this time, the sale price is added to your cash balance and you must pay off the related mortgage and remove the property from your current assets.",
+      "description": "The small business you founded has found a major company to distribute its product. Your sales increase 150%.\nThis brings more problems and requires more time from you, but Monthly Net Income goes up $400.\n<u>Everyone</u> who owns a business they started is affected and <u>increases</u> their cashflows by $400 per month on all such businesses.",
       "details": ""
     },
     {
-      "title": "Car Wash Buyer",
-      "description": "Real estate investor wants to buy a car wash you own for a personal buyer.",
-      "details": "If you sell at this time, you may sell it at full price and remove the property from your current assets. If there is a mortgage on it, you must pay it off."
-    },
-    {
-      "title": "Plex Buyer",
-      "description": "Buyer offers $35,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\nEveryone may sell at this price.\nIf you sell at this time, the sale price is added to your cash balance and you must pay off the related mortgage and remove the property from your current assets.",
-      "details": ""
-    },
-    {
-      "title": "House Buyer — 3Br/2Ba",
-      "description": "You are offered $85,000 for a 3/2 rental house. Buyer has own financing.\nEveryone may sell at this price.\n",
-      "details": "If you sell at this time, the sale price is added to your cash balance and you must pay off the related mortgage and remove the property from your current assets."
-    },
-    {
-      "title": "Plex Buyer",
-      "description": "Buyer offers $35,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\nEveryone may sell at this price.\nIf you sell at this time, the sale price is added to your cash balance and you must pay off the related mortgage and remove the property from your current assets.",
-      "details": ""
-    },
-    {
-      "title": "House Buyer — 3Br/2Ba",
-      "description": "You are offered $95,000 for a 3/2 rental house. Buyer has own financing.\nEveryone may sell at this price.\n",
-      "details": "If you sell at this time, the sale price is added to your cash balance and you must pay off the related mortgage and remove the property from your current assets."
-    },
-    {
-      "title": "House Buyer — 3Br/2Ba",
-      "description": "You are offered $95,000 for a 3/2 rental house. Buyer has own financing.\nEveryone may sell at this price.\n",
-      "details": "If you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets."
-    },
-    {
-      "title": "Plex Buyer",
-      "description": "Buyer offers $35,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\nEveryone may sell at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
-      "details": ""
-    },
-    {
-      "title": "Plex Buyer",
-      "description": "Buyer offers $35,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\nEveryone may sell at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
-      "details": ""
-    },
-    {
-      "title": "Plex Buyer",
-      "description": "Buyer offers $35,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\nEveryone may sell at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
+      "title": "Builder Wants Land",
+      "description": "City planners require builder to put in 10 acre park or they will not approve new subdivision. Builder needs 10 acres with stream.\nCash offer of $150,000 to <u>everyone</u> who owns such a property.\nIf you sell, give up teh cashflow you currently receive from this property.",
       "details": ""
     },
     {
       "title": "Buyer for 20 Acres",
-      "description": "Buyer is a wealthy individual who wants to build a mansion in the country.",
-      "details": "If you sell, add $20,000 to your cash and remove the raw land property from your current assets."
-    },
-    {
-      "title": "Widget Company Buyer",
-      "description": "A small start-up widget manufacturing company wants to buy your small business.",
-      "details": "If you sell, add $40,000 to your cash and remove your small business from your current assets."
-    },
-    {
-      "title": "Condo Buyer — 2Br/1Ba",
-      "description": "You are offered $65,000 for a 2/1 rental condo. Buyer has own financing.\nEveryone may sell at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
+      "description": "Builder wants a 20-acre parcel of land. He will re-zone it from residential to commercial.\nCash offer of $200,000 to <u>everyone</u> who owns 20 acres of residential land.\nIf you sell, give up the cashflow you currently receive from this property.",
       "details": ""
     },
     {
-      "title": "Condo Buyer — 2Br/1Ba",
-      "description": "You are offered $55,000 for a 2/1 rental condo. Buyer has own financing.\nEveryone may sell at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
-      "details": ""
-    },
-    {
-      "title": "House Buyer — 3Br/2Ba",
-      "description": "You are offered $110,000 for a 3/2 rental house. Buyer has own financing.\nEveryone may sell at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
-      "details": ""
-    },
-    {
-      "title": "House Buyer — 3Br/2Ba",
-      "description": "You are offered $100,000 for a 3/2 rental house. Buyer has own financing.\nEveryone may sell at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
-      "details": ""
-    },
-    {
-      "title": "Condo Buyer — 2Br/1Ba",
-      "description": "You are offered $45,000 for a 2/1 rental condo. Buyer has own financing.\nEveryone may sell at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
-      "details": ""
-    },
-    {
-      "title": "Software Company Buyer",
-      "description": "Large integrated software company offers $100,000 cash for inventive software program and related company.\nEveryone may sell at this price.\nIf you sell, give up the cash flow you currently receive from this company.",
-      "details": ""
-    },
-    {
-      "title": "Limited Partnership Sold",
-      "description": "The business has been sold and you receive twice your original cost for your share of it.\nYou agreed to sell if and when the founder sold out, as she just did. New owners have their own financing.\nEvery limited partnership is affected. If you own a limited partnership, receive cash and reduce your cash flows immediately.",
-      "details": ""
-    },
-    {
-      "title": "Limited Partnership Sold",
-      "description": "The business has been sold and you receive three times your original cost for your share of it.\nYou agreed to sell if and when the founder sold out, as he just did. New owners have their own financing.\nEvery limited partnership is affected. If you own a limited partnership, receive cash and reduce your cash flows immediately.",
+      "title": "Car Wash Buyer",
+      "description": "Red hot buyer looking for a car wash bargain. Has $250,000 cash ready to spend. That's his limit.\n<u>Everyone</u> who owns a car wash may sell at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
       "details": ""
     },
     {
       "title": "Collector Wants Gold Coins",
-      "description": "Collector looking for authentic 1500's Royal Spanish New World (Havana mint only) \"pieces of eight\" gold coins.\nEveryone may sell at this price.\nCash offer of $5,000 for each coin.",
-      "details": ""
-    },
-    {
-      "title": "Apartment House Buyer",
-      "description": "Buyer offers $40,000 per unit on all units in apartment houses. Has own financing, needs to invest now.\nEveryone may sell at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
-    },
-    {
-      "title": "Plex Buyer",
-      "description": "Buyer offers $35,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\nEveryone may sell at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
-    },
-    {
-      "title": "Interest Rates Drop!",
-      "description": "Interest rates on home loans drop to 5%.\nIf you (no other players) own any 3Br/2Ba rental houses you may sell them for $50,000 more than the original cost.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on each property.",
-      "details": ""
-    },
-    {
-      "title": "Price of Gold Soars",
-      "description": "Rioting in Middle East. Oil prices threatened. Price of gold skyrockets to $600 per ounce.\nEveryone who owns 1 ounce Krugerrands may sell at this price.",
-      "details": ""
-    },
-    {
-      "title": "Plex Buyer",
-      "description": "Buyer offers $25,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\nEveryone may sell at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
-    },
-    {
-      "title": "Condo Buyer — 2Br/1Ba",
-      "description": "You are offered $55,000 for a 2/1 rental condo. Buyer has own financing.\nEveryone may sell at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
-    },
-    {
-      "title": "Inflation Hits!",
-      "description": "Inflation goes to 10%. Interest rates climb to 20% on home loans.\nAll 3Br/2Ba rental houses that you (no other players) own are now in foreclosure. You financed with variable rate mortgages.\nYou must give your 3Br/2Ba house(s) back to the bank. You lose your cash flow from these properties.",
-      "details": ""
-    },
-    {
-      "title": "Apartment House Buyer",
-      "description": "Buyer offers $45,000 per unit for all units in apartment houses of any size. Has own financing. [His 1031 tax deferred exchange time is running out.]\nEveryone may sell at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
-    },
-    {
-      "title": "Apartment House Buyer",
-      "description": "REIT offers $30,000 per unit for all units in apartment houses of 12 units or more. Has own financing. Buyer has funds from sale of complex in another city.\nEveryone may sell at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "description": "Collector looking for authentic 1500's Royal Spanish New World (Havana mint only) \"pieces of eight\" gold coins.\nCash offer of $5,000 for <u>each</u> coin to everyone.",
       "details": ""
     },
     {
       "title": "Demand for Bed & Breakfast",
-      "description": "Couple burned out from their corporate jobs are ready for a change. Have lots of cash. Looking for a profitable Bed & Breakfast. They will pay $250,000 today.\nEveryone with a Bed & Breakfast that is making money may sell at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "description": "Couple burned out from their corporate jobs are ready for a change. Have lots of cash. Looking for a profitable Bed & Breakfast. They will pay $250,000 today.\n<u>Everyone</u> with a Bed & Breakfast that is making money may sell at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
       "details": ""
     },
     {
-      "title": "House Buyer — 3Br/2Ba",
-      "description": "You are offered $65,000 for a 3/2 rental house. Buyer has own financing.\nEveryone may sell at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "title": "Inflation Hits!",
+      "description": "Inflation goes to 10%. Interest rates climb to 20% on home loans.\nAll 3Br/2Ba rental houses that you (no other players) own are now in foreclosure. You financed with variable rate mortgages.\nYou must give your 3Br/2Ba house(s) back to the bank. You lose your cashflow from these properties.",
       "details": ""
     },
     {
-      "title": "Apartment House Buyer",
-      "description": "Buyer offers $25,000 per unit for all units in apartment houses of any size. Has own financing. [His 1031 tax deferred exchange time is running out.]\nEveryone may sell at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "title": "Interest Rates Drop!",
+      "description": "Interest rates on home loans drop to 5%.\n If you (no other players) own any 3Br/2Ba rental houses you may sell them for $50,000 more than the original cost.\nIf you sell, pay off the related liability and give up the cashflow you currently receive on each property.",
+      "details": ""
+    },
+    {
+      "title": "Price of Gold Soars",
+      "description": "Rioting in Middle East. Oil prices threatened. Price of gold skyrockets to $600 per ounce.\n<u>Everyone</u> who owns 1 ounce Krugerrands may sell at this price.",
+      "details": ""
+    },
+    {
+      "title": "Shopping Mall Wanted",
+      "description": "Major retailer is moving to your town. Looking for small shopping mall to purchase.\nThey are willing to pay $100,000 to <u>everyone</u> who owns a small shopping mall.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
+      "details": ""
+    },
+    {
+      "title": "Software Company Buyer",
+      "description": "Large integrated software company offers $100,000 cash for inventive software program and related company.\n<u>Anyone</u> who owns a software company may sell at this price.\nIf you sell, give up the cashflow you currently receive from this company.",
+      "details": ""
+    },
+    {
+      "title": "Widget Company Buyer",
+      "description": "Engineer/Inventor who owns machinery company offers $50,000 cash for inventive method of making widgets.\n<u>Anyone who owns a widget company</u> may sell at this price.\nIf you sell, give up the cashflow you currently receive from this company.",
       "details": ""
     }
   ],
   "doodad": [
     {
-      "title": "Couldn't Resist New Painting By Local Artist",
-      "description": "Costs you $200",
-      "details": ""
-    },
-    {
-      "title": "Visit Dentist",
-      "description": "Filling costs $100",
-      "details": ""
-    },
-    {
-      "title": "Buy Toys for Your Kids",
-      "description": "Spend $50 for every child",
-      "details": ""
-    },
-    {
-      "title": "Family Vacation!",
-      "description": "Costs $2000",
-      "details": ""
-    },
-    {
-      "title": "Your Anniversary!",
-      "description": "Spend $200",
-      "details": ""
-    },
-    {
-      "title": "Your Daughter's Wedding",
-      "description": "Costs you $2000\n(if you have a child)",
-      "details": ""
-    },
-    {
-      "title": "Son's College Tuition",
-      "description": "Pay $1500\n(if you have a child)",
-      "details": ""
-    },
-    {
-      "title": "Go to a Concert!",
-      "description": "Dinner, Tickets, & Coffee\nSets you back $180",
-      "details": ""
-    },
-    {
-      "title": "Buy New Cellular Phone",
-      "description": "Pay $100",
-      "details": ""
-    },
-    {
-      "title": "High School Reunion",
-      "description": "You spend $250",
-      "details": ""
-    },
-    {
-      "title": "Furniture Sale",
-      "description": "Replace that old chair\nPay $300",
-      "details": ""
-    },
-    {
-      "title": "Water Heater Leaks",
-      "description": "Pay $450 for new one",
-      "details": ""
-    },
-    {
-      "title": "Go to the Air Show",
-      "description": "Pay $120",
-      "details": ""
-    },
-    {
-      "title": "Car Needs Tires",
-      "description": "Pay $300",
-      "details": ""
-    },
-    {
-      "title": "Buy Big Screen TV",
-      "description": "Pay $4000\n(Credit cards OK. If you buy on credit add $4000 to credit cards liability and add $120 to your monthly expenses.)",
-      "details": ""
-    },
-    {
-      "title": "Buy New Music CDs",
-      "description": "Pay $100",
-      "details": ""
-    },
-    {
-      "title": "Buy Cappuccino Machine",
-      "description": "Pay $150",
-      "details": ""
-    },
-    {
-      "title": "Play Your Lucky Lottery Number!",
-      "description": "Lose $100",
-      "details": ""
-    },
-    {
-      "title": "Lunch with Friends",
-      "description": "Pay $40",
-      "details": ""
-    },
-    {
-      "title": "Buy New Speakers for Stereo",
-      "description": "Pay $500",
-      "details": ""
-    },
-    {
-      "title": "Go Out to Dinner",
-      "description": "Spend $80",
-      "details": ""
-    },
-    {
-      "title": "Go to Ball Game",
-      "description": "Pay $50",
-      "details": ""
-    },
-    {
-      "title": "Tax Audit",
-      "description": "Ouch!\nPay Tax Authority $350",
-      "details": ""
-    },
-    {
-      "title": "Buy a Food Processor",
-      "description": "Pay $150",
-      "details": ""
-    },
-    {
-      "title": "Buy New Fishing Rod",
-      "description": "Pay $100",
-      "details": ""
-    },
-    {
-      "title": "Repaint House",
-      "description": "Costs you $600",
-      "details": ""
-    },
-    {
-      "title": "Rumor of Layoff",
-      "description": "Go back to school for added skills.\nPay $220 for tuition & books.",
-      "details": ""
-    },
-    {
-      "title": "Park in Handicapped Zone",
-      "description": "Pay $100 fine",
-      "details": ""
-    },
-    {
-      "title": "Birthday!",
-      "description": "Take kids to the amusement park and spend $100\n(if you have a child)",
-      "details": ""
-    },
-    {
-      "title": "Shopping Spree!",
-      "description": "Buy new wristwatch (even though you already have 3)\nPay $150",
+      "title": "Buy a Café Latte & Cappuccino for You & a Friend",
+      "description": "Pay $20",
       "details": ""
     },
     {
@@ -1094,28 +1159,18 @@
       "details": ""
     },
     {
-      "title": "Buy New Clothes",
-      "description": "Pay $250",
+      "title": "Lunch with Friends",
+      "description": "Pay $40",
       "details": ""
     },
     {
-      "title": "Go to Casino!",
-      "description": "Lose $200 at the tables",
+      "title": "Buy Toys for Your Kids",
+      "description": "Spend $50 for every child",
       "details": ""
     },
     {
-      "title": "Car’s Air Conditioning Dies",
-      "description": "Pay $700",
-      "details": ""
-    },
-    {
-      "title": "Buy New Tennis Racket",
-      "description": "You spend $200",
-      "details": ""
-    },
-    {
-      "title": "New Boat!",
-      "description": "Pay $1,000 down and $17,000 on time.\n(Add a $17,000 boat loan as a new Liability and add a new boat loan payment of $340 to Expenses.)",
+      "title": "Go to Ball Game",
+      "description": "Pay $50",
       "details": ""
     },
     {
@@ -1124,18 +1179,163 @@
       "details": ""
     },
     {
+      "title": "Buy New Bowling Ball",
+      "description": "Pay $80",
+      "details": ""
+    },
+    {
+      "title": "Go Out to Dinner",
+      "description": "Spend $80",
+      "details": ""
+    },
+    {
+      "title": "Birthday!",
+      "description": "Take kids to the amusement park and spend $100\n(if you have a child)",
+      "details": ""
+    },
+    {
+      "title": "Buy New Cellular Phone",
+      "description": "Pay $100",
+      "details": ""
+    },
+    {
+      "title": "Buy New Fishing Rod",
+      "description": "Pay $100",
+      "details": ""
+    },
+    {
+      "title": "Buy New Music CDs",
+      "description": "Pay $100",
+      "details": ""
+    },
+    {
+      "title": "Park in Handicapped Zone",
+      "description": "Pay $100 fine",
+      "details": ""
+    },
+    {
+      "title": "Play 2 Rounds of Golf",
+      "description": "Pay $100",
+      "details": ""
+    },
+    {
+      "title": "Play Your Lucky Lottery Number!",
+      "description": "Lose $100",
+      "details": ""
+    },
+    {
+      "title": "Visit Dentist",
+      "description": "Filling costs $100",
+      "details": ""
+    },
+    {
+      "title": "Go to the Air Show",
+      "description": "Pay $120",
+      "details": ""
+    },
+    {
+      "title": "Buy a Food Processor",
+      "description": "Pay $150",
+      "details": ""
+    },
+    {
+      "title": "Buy Cappuccino Machine",
+      "description": "Pay $150",
+      "details": ""
+    },
+    {
+      "title": "Shopping Spree!",
+      "description": "Buy new wristwatch (even though you already have 3)\nPay $150",
+      "details": ""
+    },
+    {
+      "title": "Go to a Concert!",
+      "description": "Dinner, Tickets, & Coffee\nSets you back $180",
+      "details": ""
+    },
+    {
+      "title": "Buy New Tennis Racket",
+      "description": "You spend $200",
+      "details": ""
+    },
+    {
+      "title": "Couldn't Resist New Painting By Local Artist",
+      "description": "Costs you $200",
+      "details": ""
+    },
+    {
+      "title": "Go to Casino!",
+      "description": "Lose $200 at the tables",
+      "details": ""
+    },
+    {
+      "title": "Your Anniversary!",
+      "description": "Spend $200",
+      "details": ""
+    },
+    {
+      "title": "Rumor of Layoff",
+      "description": "Go back to school for added skills.\nPay $220 for tuition & books.",
+      "details": ""
+    },
+    {
+      "title": "Buy New Clothes",
+      "description": "Pay $250",
+      "details": ""
+    },
+    {
+      "title": "High School Reunion",
+      "description": "You spend $250",
+      "details": ""
+    },
+    {
+      "title": "Car Needs Tires",
+      "description": "Pay $300",
+      "details": ""
+    },
+    {
+      "title": "Furniture Sale",
+      "description": "Replace that old chair\nPay $300",
+      "details": ""
+    },
+    {
       "title": "Shopping!",
       "description": "Pay $350 for fabulous fake jewels",
       "details": ""
     },
     {
-      "title": "Buy a Café Latte & Cappuccino for You & a Friend",
-      "description": "Pay $20",
+      "title": "Tax Audit",
+      "description": "Ouch!\nPay Tax Authority $350",
       "details": ""
     },
     {
-      "title": "Buy New Bowling Ball",
-      "description": "Pay $80",
+      "title": "Water Heater Leaks",
+      "description": "Pay $450 for new one",
+      "details": ""
+    },
+    {
+      "title": "Buy New Speakers for Stereo",
+      "description": "Pay $500",
+      "details": ""
+    },
+    {
+      "title": "Repaint House",
+      "description": "Costs you $600",
+      "details": ""
+    },
+    {
+      "title": "Car’s Air Conditioning Dies",
+      "description": "Pay $700",
+      "details": ""
+    },
+    {
+      "title": "Son's College Tuition",
+      "description": "Pay $1500\n(if you have a child)",
+      "details": ""
+    },
+    {
+      "title": "Family Vacation!",
+      "description": "Costs $2000",
       "details": ""
     },
     {
@@ -1144,8 +1344,18 @@
       "details": ""
     },
     {
-      "title": "Play 2 Rounds of Golf",
-      "description": "Pay $100",
+      "title": "Your Daughter's Wedding",
+      "description": "Costs you $2000\n(if you have a child)",
+      "details": ""
+    },
+    {
+      "title": "Buy Big Screen TV",
+      "description": "Pay $4000\n(Credit cards OK. If you buy on credit add $4000 to credit cards liability and add $120 to your monthly expenses.)",
+      "details": ""
+    },
+    {
+      "title": "New Boat!",
+      "description": "Pay $1,000 down and $17,000 on time.\n(Add a $17,000 boat loan as a new liability and add a new boat loan payment of $340 to Expenses.)",
       "details": ""
     }
   ]
