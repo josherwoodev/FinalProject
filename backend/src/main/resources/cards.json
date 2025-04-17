@@ -1,6 +1,6 @@
 {
   "temp": "\nUse this yourself or sell to another player.\n100% ROI. No other buyers in sight.",
-  "temp2": "\nUse this yourself or sell to another player.\n100% ROI, may sell for $500,000 to $600,000.",
+  "temp2": "\nUse this yourself or sell to another player.\n100% ROI, may sell for $50,000 to $60,000.",
   "bigOpps": [
     {
       "title": "Automated Business for Sale",
@@ -26,10 +26,10 @@
       "title": "Automated Business for Sale",
       "description": "Personal bankruptcy sale of busy, successful laundromat on busy highway. Absentee owner, contract cleaning.\nUse this yourself or sell to another player.\n100% ROI. No other buyers in sight.",
       "details": {
-        "cost": 90000,
-        "liability": 50000,
-        "down": 40000,
-        "cashflow": 1500
+        "cost": 150000,
+        "liability": 120000,
+        "down": 30000,
+        "cashflow": 2500
       }
     },
     {
@@ -64,7 +64,7 @@
     },
     {
       "title": "Apartment Houses for Sale",
-      "description": "2 buildings totaling 24 units for sale. Owner managed with on-site assistant. Retirement prompts sale.",
+      "description": "2 buildings totaling 24 units for sale. Owner managed with on-site assistant. Retirement prompts sale.\nUse this yourself or sell to another player.\n54% ROI, may sell for $600,000 to $960,000.",
       "details": {
         "cost": 575000,
         "liability": 500000,
@@ -74,7 +74,7 @@
     },
     {
       "title": "Apartment Complex for Sale",
-      "description": "60 unit complex available from pension fund that foreclosed on builder/owner. On-site management in place.",
+      "description": "60 unit complex available from pension fund that foreclosed on builder/owner. On-site management in place.\nUse this yourself or sell to another player.\n66% ROI, may sell for $1,500,000 to $2,700,000.",
       "details": {
         "cost": 1200000,
         "liability": 1000000,
@@ -84,17 +84,17 @@
     },
     {
       "title": "Duplex for Sale",
-      "description": "Owner has income tax problems, needs to sell quickly. Property in good condition, priced below market.",
+      "description": "Tenants in place at this investment duplex! Owner has income tax problems, needs to sell quickly.\nUse this yourself or sell to another player.\n48% ROI, may sell for $50,000 to $80,000.",
       "details": {
-        "cost": 65000,
-        "liability": 50000,
-        "down": 15000,
-        "cashflow": 250
+        "cost": 45000,
+        "liability": 37000,
+        "down": 8000,
+        "cashflow": 320
       }
     },
     {
       "title": "Duplex for Sale",
-      "description": "Owner moving out of this duplex due to growing family. Tenant remains, well maintained, excellent landscaping.",
+      "description": "Owner moving out of this duplex due to growing family. Tenant remains, well maintained, excellent landscaping.\nUse this yourself or sell to another player.\n36% ROI, may sell for $50,000 to $70,000.",
       "details": {
         "cost": 50000,
         "liability": 42000,
@@ -104,7 +104,7 @@
     },
     {
       "title": "Duplex for Sale",
-      "description": "Well maintained duplex in desirable area available due to transfer of owner. Excellent investment opportunity for right buyer.",
+      "description": "Well maintained duplex in desirable area available due to transfer of owner. Excellent investment opportunity for right buyer.\nUse this yourself or sell to another player.\n60% ROI, may sell for $50,000 to $80,000.",
       "details": {
         "cost": 60000,
         "liability": 54000,
@@ -114,17 +114,17 @@
     },
     {
       "title": "Duplex for Sale",
-      "description": "2 unit house in a stable neighborhood. Painted last year. Long-term tenants. Good cashflow.",
+      "description": "Duplex owner must sell to pay hospital bills. Two tenants in place, all records, good investment opportunity.\nUse this yourself or sell to another player.\n40% ROI, may sell for $50,000 to $80,000.",
       "details": {
         "cost": 60000,
-        "liability": 50000,
-        "down": 10000,
-        "cashflow": 220
+        "liability": 48000,
+        "down": 12000,
+        "cashflow": 400
       }
     },
     {
       "title": "Duplex for Sale",
-      "description": "Proud owner retiring to another state to be near children. Best duplex in the neighborhood!",
+      "description": "This duplex is the best in the neighborhood! Proud owner retiring to another state to be near her grandchildren.\nUse this yourself or sell to another player.\n24% ROI, may sell for $50,000 to $80,000.",
       "details": {
         "cost": 70000,
         "liability": 63000,
@@ -134,17 +134,57 @@
     },
     {
       "title": "4-plex for Sale",
-      "description": "Retired owner of this 4-plex wants to move into a retirement home. Property well maintained and managed.",
+      "description": "\"Project\" 4-plex for sale in rehabilitating neighborhood. Owner being forces out by income tax liens.\nUse this yourself or sell to another player.\n24% ROI, may sell for $100,000 to $140,000.",
       "details": {
-        "cost": 90000,
-        "liability": 75000,
-        "down": 15000,
-        "cashflow": 700
+        "cost": 80000,
+        "liability": 60000,
+        "down": 20000,
+        "cashflow": 400
       }
     },
     {
       "title": "4-plex for Sale",
-      "description": "4-plex available — forced sale. Out-of-state, financially distressed owner years behind on taxes. Some records available.",
+      "description": "4-plex available — forced sale. Out-of-state, financially distressed owner years behind on taxes. Some records available.\nUse this yourself or sell to another player.\n56% ROI, may sell for $100,000 to $140,000.",
+      "details": {
+        "cost": 80000,
+        "liability": 64000,
+        "down": 16000,
+        "cashflow": 750
+      }
+    },
+    {
+      "title": "4-plex for Sale",
+      "description": "Older 4-plex next to new highway for sale. Owner/occupant moving to quieter area. Priced for quick sale.\nUse this yourself or sell to another player.\n40% ROI, may sell for $100,000 to $140,000.",
+      "details": {
+        "cost": 90000,
+        "liability": 75000,
+        "down": 15000,
+        "cashflow": 500
+      }
+    },
+    {
+      "title": "4-plex for Sale",
+      "description": "4-plex in recovering neighborhood. Fully rented, repairs kept up. Needs your down payment and patience.\nUse this yourself or sell to another player.\n48% ROI, may sell for $100,000 to $140,000.",
+      "details": {
+        "cost": 100000,
+        "liability": 80000,
+        "down": 20000,
+        "cashflow": 800
+      }
+    },
+    {
+      "title": "4-plex for Sale",
+      "description": "Nice, well maintained 4-plex in good neighborhood. Stable tenants, positive cash flow, few problems. Full records.\nUse this yourself or sell to another player.\n48% ROI, may sell for $100,000 to $140,000.",
+      "details": {
+        "cost": 125000,
+        "liability": 110000,
+        "down": 15000,
+        "cashflow": 600
+      }
+    },
+    {
+      "title": "4-plex for Sale",
+      "description": "4-plex for sale by owner, moving to another state. Full records, fully rented, low occupant turnover in good neighborhood.\nUse this yourself or sell to another player.\n75% ROI, may sell for $100,000 to $140,000.",
       "details": {
         "cost": 140000,
         "liability": 108000,
@@ -153,58 +193,8 @@
       }
     },
     {
-      "title": "4-plex for Sale",
-      "description": "Older 4-plex in older neighborhood. Decent shape, fully rented. Good tenant history. Great starter property.",
-      "details": {
-        "cost": 80000,
-        "liability": 70000,
-        "down": 10000,
-        "cashflow": 400
-      }
-    },
-    {
-      "title": "4-plex for Sale",
-      "description": "4-plex in recovering neighborhood. Fully rented, repairs kept up. Needs your down payment and a new manager.",
-      "details": {
-        "cost": 100000,
-        "liability": 80000,
-        "down": 20000,
-        "cashflow": 400
-      }
-    },
-    {
-      "title": "4-plex for Sale",
-      "description": "Nice 4-plex in quiet suburban neighborhood. Owner retiring. Good long-term tenants.",
-      "details": {
-        "cost": 100000,
-        "liability": 90000,
-        "down": 10000,
-        "cashflow": 500
-      }
-    },
-    {
-      "title": "4-plex for Sale",
-      "description": "4-plex for sale by owner, moving to another state. Full records, fully rented, low occupant turnover in good neighborhood.",
-      "details": {
-        "cost": 150000,
-        "liability": 120000,
-        "down": 30000,
-        "cashflow": 500
-      }
-    },
-    {
       "title": "8-plex for Sale",
-      "description": "Professional person urgently needs cash to save partnership. 8-plex sale to raise capital. Good opportunity for right person.",
-      "details": {
-        "cost": 75000,
-        "liability": 68000,
-        "down": 7000,
-        "cashflow": 300
-      }
-    },
-    {
-      "title": "8-plex for Sale",
-      "description": "Owner’s legal troubles lead to forced sale of this 8-plex. No qualifying on this loan, as mortgage holder is cooperating.",
+      "description": "Professional person urgently needs cash to save partnership. 8-plex sale to raise capital. Good opportunity for right person.\nUse this yourself or sell to another player.\n64% ROI, may sell for $200,000 to $280,000.",
       "details": {
         "cost": 160000,
         "liability": 128000,
@@ -214,27 +204,37 @@
     },
     {
       "title": "8-plex for Sale",
-      "description": "Retiring investor offers 8-plex in older part of town. Fully rented. Some repairs needed.",
+      "description": "Owner’s legal troubles lead to forced sale of this 8-plex. No qualifying on this loan, as mortgage holder is cooperating.\nUse this yourself or sell to another player.\n48% ROI, may sell for $200,000 to $280,000.",
       "details": {
-        "cost": 250000,
-        "liability": 200000,
-        "down": 50000,
+        "cost": 200000,
+        "liability": 160000,
+        "down": 40000,
+        "cashflow": 1600
+      }
+    },
+    {
+      "title": "8-plex for Sale",
+      "description": "Reinvesting owner offers 8-plex for sale at reasonable price. Financing already in place. All it needs is your down payment.\nUse this yourself or sell to another player.\n51% ROI, may sell for $200,000 to $280,000.",
+      "details": {
+        "cost": 220000,
+        "liability": 180000,
+        "down": 40000,
         "cashflow": 1700
       }
     },
     {
       "title": "8-plex for Sale",
-      "description": "Retiring investor/owner offers his 8-plex at current appraisal value. Professional lawn service and management. Full records.",
+      "description": "Retiring investor/owner offers his 8-plex at current appraisal value. Professional lawn service and management. Full records.\nUse this yourself or sell to another player.\n29% ROI, may sell for $200,000 to $280,000.",
       "details": {
-        "cost": 200000,
-        "liability": 170000,
-        "down": 30000,
-        "cashflow": 500
+        "cost": 240000,
+        "liability": 200000,
+        "down": 40000,
+        "cashflow": 950
       }
     },
     {
       "title": "House for Sale — 3Br/2Ba",
-      "description": "Businessman liquidating this 3/2 house, needs cash to save his business. Currently occupied by happy tenant.",
+      "description": "Businessman liquidating this 3/2 house, needs cash to save his business. Currently occupied by happy tenant.\nUse this yourself or sell to another player.\n26% ROI, may sell for $65,000 to $135,000.",
       "details": {
         "cost": 65000,
         "liability": 58000,
@@ -244,17 +244,17 @@
     },
     {
       "title": "House for Sale — 3Br/2Ba",
-      "description": "Good investment potential in this 3/2 house if you can be patient. Positive cashflow even though rents are weak.",
+      "description": "Good investment potential in this 3/2 house if you can be patient. Positive cash flow even though rents are weak.\nUse this yourself or sell to another player.\n45% ROI, may sell for $65,000 to $135,000.",
       "details": {
-        "cost": 60000,
-        "liability": 54000,
-        "down": 6000,
-        "cashflow": 100
+        "cost": 65000,
+        "liability": 57000,
+        "down": 8000,
+        "cashflow": 300
       }
     },
     {
       "title": "House for Sale — 3Br/2Ba",
-      "description": "Transferred skilled tradesman kept this 3/2 house in excellent condition, so it commands top dollar rentals in older neighborhood.",
+      "description": "Transferred skilled tradesman kept this 3/2 house in excellent condition, so it commands top dollar rentals in older neighborhood.\nUse this yourself or sell to another player.\n40% ROI, may sell for $65,000 to $135,000.",
       "details": {
         "cost": 67000,
         "liability": 55000,
@@ -264,7 +264,7 @@
     },
     {
       "title": "House for Sale — 3Br/2Ba",
-      "description": "Downsized manager must sell this 3/2 house, cannot afford payments on new salary. Area in transition.",
+      "description": "Downsized manager must sell this 3/2 house, cannot afford payments on new salary. Area in transition.\nUse this yourself or sell to another player.\n40% ROI, may sell for $65,000 to $135,000.",
       "details": {
         "cost": 70000,
         "liability": 61000,
@@ -274,7 +274,7 @@
     },
     {
       "title": "House for Sale — 3Br/2Ba",
-      "description": "Divorce leads to sale of this 3/2 house in an area full of owner occupied homes.",
+      "description": "Divorce leads to sale of this 3/2 house in an area full of owner occupied homes. Has been on the market 5 months.\nUse this yourself or sell to another player.\n30% ROI, may sell for $65,000 to $135,000.",
       "details": {
         "cost": 70000,
         "liability": 50000,
@@ -284,47 +284,47 @@
     },
     {
       "title": "House for Sale — 3Br/2Ba",
-      "description": "3/2 house on golf course offers potential capital gain plus current cashflow. Good rentals and nice financing.",
+      "description": "3/2 house on golf course offers potential capital gain plus current cash flow. Good rentals and nice financing.\nUse this yourself or sell to another player.\n51% ROI, may sell for $65,000 to $135,000.",
       "details": {
-        "cost": 65000,
-        "liability": 56000,
-        "down": 9000,
-        "cashflow": 100
+        "cost": 75000,
+        "liability": 68000,
+        "down": 7000,
+        "cashflow": 300
       }
     },
     {
       "title": "House for Sale — 3Br/2ba",
-      "description": "Nice 3/2 house with in ground pool and full appliances available in upper middle class area. Good schools.",
+      "description": "Nice 3/2 house with in ground pool and full appliances available in upper middle class area. Good schools.\nUse this yourself or sell to another player.\n-6% ROI, may sell for $65,000 to $150,000.",
       "details": {
         "cost": 125000,
         "liability": 105000,
         "down": 20000,
-        "cashflow": 100
+        "cashflow": -100
       }
     },
     {
       "title": "Limited Partner Wanted",
-      "description": "Successful pizza chain expanding into production of frozen pizzas for grocery stores. Owner needs capital for equipment.",
+      "description": "Successful pizza chain expanding into production of frozen pizzas for grocery stores. Owner needs capital for equipment.\nUse this yourself or sell to another player.\n48% ROI, may sell for $40,000 to $60,000.",
       "details": {
-        "cost": 75000,
+        "cost": 20000,
         "liability": 0,
-        "down": 75000,
-        "cashflow": 2000
-      }
-    },
-    {
-      "title": "Limited Partner Wanted",
-      "description": "",
-      "details": {
-        "cost": 50000,
-        "liability": 0,
-        "down": 50000,
+        "down": 20000,
         "cashflow": 800
       }
     },
     {
       "title": "Limited Partner Wanted",
-      "description": "Auto Dealer wants to expand into leasing 2 and 3 year old cars. Needs capital as car maker’s finance company is not interested.",
+      "description": "Successful doctor expanding office and clinic. Needs partner to fund equity portion of construction costs.\nUse this yourself or sell to another player.\n48% ROI, may sell for $50,000 to $75,000.",
+      "details": {
+        "cost": 25000,
+        "liability": 0,
+        "down": 25000,
+        "cashflow": 1000
+      }
+    },
+    {
+      "title": "Limited Partner Wanted",
+      "description": "Auto Dealer wants to expand into leasing 2 and 3 year old cars. Needs capital as car maker’s finance company is not interested.\nUse this yourself or sell to another player.\n40% ROI, may sell for $60,000 to $90,000.",
       "details": {
         "cost": 30000,
         "liability": 0,
@@ -334,53 +334,55 @@
     },
     {
       "title": "Limited Partner Wanted",
-      "description": "Non-franchise sandwich shop doubling the number of locations. Owner needs additional equity capital to get operating loan.",
+      "description": "Non-franchise sandwich shop doubling the number of locations. Owner needs additional equity capital to get operating loan.\nUse this yourself or sell to another player.\n60% ROI, may sell for $60,000 to $90,000.",
       "cost": 30000,
-      "down": 30000
+      "liability": 0,
+      "down": 30000,
+      "cashflow": 1500
     },
     {
       "title": "20 Acres for Sale",
-      "description": "Family farm for sale to pay estate taxes. 20 acres zoned agricultural with excellent soil and drainage. Could be good investment.",
+      "description": "20 acres of vacant land, currently zoned residential. Possibility of good appreciation if re-zoned commercial.\nUse this yourself or sell to another player.\n0% ROI, may sell for ??.",
       "details": {
-        "cost": 75000,
+        "cost": 20000,
         "liability": 0,
-        "down": 75000,
+        "down": 20000,
         "cashflow": 0
       }
     },
     {
       "title": "Small Shopping Mall for Sale",
-      "description": "Owner retiring, selling small shopping mall in local suburb. Needs quick sale.",
+      "description": "Bank has taken back mall from bankrupt owner. Mall is currently 50% occupied. Just listed today.\nUse this yourself or sell to another player.\n19% ROI, may sell for $35,000 to $150,000.",
       "details": {
-        "cost": 500000,
-        "liability": 450000,
+        "cost": 50000,
+        "liability": 0,
         "down": 50000,
         "cashflow": 800
       }
     },
     {
       "title": "Bed & Breakfast for Sale",
-      "description": "Charming 6-room inn in a resort area. Owner retiring. Guests come back year after year.",
+      "description": "Owner retiring, wants out NOW. Great clientele in resort community. 5Br/3Ba.\nUse this yourself or sell to another player.\n40% ROI, may sell for $100,000 to $300,000.",
       "details": {
         "cost": 150000,
         "liability": 120000,
         "down": 30000,
-        "cashflow": 1200
+        "cashflow": 1000
       }
     },
     {
       "title": "Car Wash for Sale",
-      "description": "Small 4-bay car wash on a busy street. Turnkey. As is. Price firm. Health forces retirement.",
+      "description": "Family car wash for sale. Family feuding. Wants out ASAP. Prime location in high-growth area.\nUse this yourself or sell to another player.\n36% ROI, may sell for 12-25 times annual cash flow.",
       "details": {
-        "cost": 50000,
-        "liability": 30000,
-        "down": 20000,
-        "cashflow": 450
+        "cost": 350000,
+        "liability": 300000,
+        "down": 50000,
+        "cashflow": 1500
       }
     },
     {
       "title": "Pizza Franchise for Sale",
-      "description": "Healthy-pizza company franchise. Trend in nutritious fast-food booming. Next to college. High traffic.",
+      "description": "Healthy-pizza company franchise. Trend in nutritious fast-food booming. Next to college. High traffic.\nUse this yourself or sell to another player.\n60% ROI, may sell for $520,000 to $800,000.",
       "details": {
         "cost": 500000,
         "liability": 400000,
@@ -390,12 +392,12 @@
     },
     {
       "title": "Sewer Line Breaks",
-      "description": "Water everywhere at your 8-plex! Broken sewer line needs repair immediately.",
-      "details": "If you own an 8-plex, pay $2,000 for new line. (Bank loan available on usual terms.)"
+      "description": "Water everywhere at your 8-plex! Broken sewer line needs repair immediately.\nIf you own an 8-plex, pay $2,000 for new line. (Bank loan available on usual terms.)\nIf you own more than 1 8-plex, pay repairs on only 1.",
+      "details": {}
     },
     {
       "title": "Tenant Damages Your Property",
-      "description": "Tenant trashed your rental property. Repair estimate is $1,000. Insurance does not cover damages due to tenant neglect. Pay $1,000 or arrange a forced sale. Only the person who draws this card pays.",
+      "description": "Tenant refuses to pay rent after losing job. When you get him evicted you discover significant damages to your property.\nInsurance covers most damages and costs, but you still are out of pocket $1,000.\nPay $1,000 if you own any rental real estate. (Bank loan available on usual terms.)\nOnly the person who draws this card pays.",
       "details": {}
     }
   ],
@@ -932,431 +934,431 @@
     {
       "title": "Tenant Damages Your Property",
       "description": "Tenant fails to pay rent for 2 months and then skips toan leaving damaage to your rental property.\nInsurance covers most damage and costs, but you still are out of pocket $500. Pay $500 if you own any rental property. (Bank will lend you the money on usual terms.) Only the person who draws this card pays.",
-      "details": ""
+      "details": {}
     }
   ],
   "market": [
     {
       "title": "Apartment House Buyer",
       "description": "Buyer offers $25,000 per unit for all units in apartment houses of any size. Has own financing. [His 1031 tax deferred exchange time is running out.]\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Apartment House Buyer",
       "description": "REIT offers $30,000 per unit for all units in apartment houses of 12 units or more. Has own financing. Buyer has funds from sale of complex in another city.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Apartment House Buyer",
       "description": "Buyer offers $40,000 per unit on all units in apartment houses. Has own financing, needs to invest now.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Apartment House Buyer",
       "description": "Buyer offers $45,000 per unit for all units in apartment houses of any size. Has own financing. [His 1031 tax deferred exchange time is running out.]\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Condo Buyer — 2Br/1Ba",
       "description": "You are offered $45,000 for a 2/1 rental condo. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Condo Buyer — 2Br/1Ba",
       "description": "You are offered $55,000 for a 2/1 rental condo. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Condo Buyer — 2Br/1Ba",
       "description": "You are offered $55,000 for a 2/1 rental condo. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Condo Buyer — 2Br/1Ba",
       "description": "You are offered $65,000 for a 2/1 rental condo. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "House Buyer — 3Br/2Ba",
-      "description": "Your brother-in-law lost his job and wants to buy your 3/2 rental house. He promises to pay you $100,000 four years from now, but has no income or savings. He can pay a small monthly amount, but no down payment...\nIf you sell at his terms, your cashflow goes down by $500 per month, until you collect the $100,000.",
-      "details": ""
+      "description": "Your brother-in-law lost his job and wants to buy your 3/2 rental house. He promises to pay you $100,000 four years from now, but has no income or savings. He can pay a small monthly amount, but no down payment...\nIf you sell at his terms, your cash flow goes down by $500 per month, until you collect the $100,000.",
+      "details": {}
     },
     {
       "title": "House Buyer — 3Br/2Ba",
       "description": "You are offered $65,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "House Buyer — 3Br/2Ba",
       "description": "You are offered $90,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "House Buyer — 3Br/2Ba",
       "description": "You are offered $100,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "House Buyer — 3Br/2Ba",
       "description": "You are offered $100,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "House Buyer — 3Br/2Ba",
       "description": "You are offered $110,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "House Buyer — 3Br/2Ba",
       "description": "You are offered $135,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "House Buyer — 3Br/2Ba",
       "description": "You are offered $135,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Plex Buyer",
       "description": "Buyer offers $25,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Plex Buyer",
       "description": "Buyer offers $25,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Plex Buyer",
       "description": "Buyer offers $30,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Plex Buyer",
       "description": "Buyer offers $30,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes.\nBuyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Plex Buyer",
       "description": "Buyer offers $30,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Plex Buyer",
       "description": "Buyer offers $35,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Plex Buyer",
       "description": "Buyer offers $35,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes.\nBuyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Plex Buyer",
       "description": "Buyer offers $35,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Plex Buyer",
       "description": "Buyer offers $40,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes.\nHas own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Plex Buyer",
       "description": "Buyer offers $40,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Limited Partnership Sold",
-      "description": "The business has been sold and you receive <u>twice your original cost</u> for your share of it.\nYou agreed to sell if and when the founder sold out, as she just did. New owners have their own financing.\n<u>Every limited partnership is affected</u>. If you own a limited partnership, receive cash and reduce your cashflows immediately.",
-      "details": ""
+      "description": "The business has been sold and you receive <u>twice your original cost</u> for your share of it.\nYou agreed to sell if and when the founder sold out, as she just did. New owners have their own financing.\n<u>Every limited partnership is affected</u>. If you own a limited partnership, receive cash and reduce your cash flows immediately.",
+      "details": {}
     },
     {
       "title": "Limited Partnership Sold",
-      "description": "The business has been sold and you receive <u>twice your original cost</u> for your share of it.\nYou agreed to sell if and when the founder sold out, as she just did. New owners have their own financing.\n<u>Every limited partnership is affected</u>. If you own a limited partnership, receive cash and reduce your cashflows immediately.",
-      "details": ""
+      "description": "The business has been sold and you receive <u>twice your original cost</u> for your share of it.\nYou agreed to sell if and when the founder sold out, as she just did. New owners have their own financing.\n<u>Every limited partnership is affected</u>. If you own a limited partnership, receive cash and reduce your cash flows immediately.",
+      "details": {}
     },
     {
       "title": "Limited Partnership Sold",
-      "description": "The business has been sold and you receive <u>three times your original cost</u> for your share of it.\nYou agreed to sell if and when the founder sold out, as he just did. New owners have their own financing.\n<u>Every limited partnership is affected</u>. If you own a limited partnership, receive cash and reduce your cashflows immediately.",
-      "details": ""
+      "description": "The business has been sold and you receive <u>three times your original cost</u> for your share of it.\nYou agreed to sell if and when the founder sold out, as he just did. New owners have their own financing.\n<u>Every limited partnership is affected</u>. If you own a limited partnership, receive cash and reduce your cash flows immediately.",
+      "details": {}
     },
     {
       "title": "Small Business Improves",
-      "description": "The small business you founded won an industry award for its product innovation. Great publicity causes your sales to double.\nThis brings more problems and requires more time from you, but Monthly Net Income goes up $250.\n<u>Everyone</u> who owns a business they started is affected and <u>increases</u> their cashflows by $250 per month on all such businesses.",
-      "details": ""
+      "description": "The small business you founded won an industry award for its product innovation. Great publicity causes your sales to double.\nThis brings more problems and requires more time from you, but Monthly Net Income goes up $250.\n<u>Everyone</u> who owns a business they started is affected and <u>increases</u> their cash flows by $250 per month on all such businesses.",
+      "details": {}
     },
     {
       "title": "Small Business Improves",
-      "description": "The small business you founded has found a major company to distribute its product. Your sales increase 150%.\nThis brings more problems and requires more time from you, but Monthly Net Income goes up $400.\n<u>Everyone</u> who owns a business they started is affected and <u>increases</u> their cashflows by $400 per month on all such businesses.",
-      "details": ""
+      "description": "The small business you founded has found a major company to distribute its product. Your sales increase 150%.\nThis brings more problems and requires more time from you, but Monthly Net Income goes up $400.\n<u>Everyone</u> who owns a business they started is affected and <u>increases</u> their cash flows by $400 per month on all such businesses.",
+      "details": {}
     },
     {
       "title": "Builder Wants Land",
-      "description": "City planners require builder to put in 10 acre park or they will not approve new subdivision. Builder needs 10 acres with stream.\nCash offer of $150,000 to <u>everyone</u> who owns such a property.\nIf you sell, give up teh cashflow you currently receive from this property.",
-      "details": ""
+      "description": "City planners require builder to put in 10 acre park or they will not approve new subdivision. Builder needs 10 acres with stream.\nCash offer of $150,000 to <u>everyone</u> who owns such a property.\nIf you sell, give up teh cash flow you currently receive from this property.",
+      "details": {}
     },
     {
       "title": "Buyer for 20 Acres",
-      "description": "Builder wants a 20-acre parcel of land. He will re-zone it from residential to commercial.\nCash offer of $200,000 to <u>everyone</u> who owns 20 acres of residential land.\nIf you sell, give up the cashflow you currently receive from this property.",
-      "details": ""
+      "description": "Builder wants a 20-acre parcel of land. He will re-zone it from residential to commercial.\nCash offer of $200,000 to <u>everyone</u> who owns 20 acres of residential land.\nIf you sell, give up the cash flow you currently receive from this property.",
+      "details": {}
     },
     {
       "title": "Car Wash Buyer",
       "description": "Red hot buyer looking for a car wash bargain. Has $250,000 cash ready to spend. That's his limit.\n<u>Everyone</u> who owns a car wash may sell at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Collector Wants Gold Coins",
       "description": "Collector looking for authentic 1500's Royal Spanish New World (Havana mint only) \"pieces of eight\" gold coins.\nCash offer of $5,000 for <u>each</u> coin to everyone.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Demand for Bed & Breakfast",
       "description": "Couple burned out from their corporate jobs are ready for a change. Have lots of cash. Looking for a profitable Bed & Breakfast. They will pay $250,000 today.\n<u>Everyone</u> with a Bed & Breakfast that is making money may sell at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Inflation Hits!",
-      "description": "Inflation goes to 10%. Interest rates climb to 20% on home loans.\nAll 3Br/2Ba rental houses that you (no other players) own are now in foreclosure. You financed with variable rate mortgages.\nYou must give your 3Br/2Ba house(s) back to the bank. You lose your cashflow from these properties.",
-      "details": ""
+      "description": "Inflation goes to 10%. Interest rates climb to 20% on home loans.\nAll 3Br/2Ba rental houses that you (no other players) own are now in foreclosure. You financed with variable rate mortgages.\nYou must give your 3Br/2Ba house(s) back to the bank. You lose your cash flow from these properties.",
+      "details": {}
     },
     {
       "title": "Interest Rates Drop!",
-      "description": "Interest rates on home loans drop to 5%.\n If you (no other players) own any 3Br/2Ba rental houses you may sell them for $50,000 more than the original cost.\nIf you sell, pay off the related liability and give up the cashflow you currently receive on each property.",
-      "details": ""
+      "description": "Interest rates on home loans drop to 5%.\n If you (no other players) own any 3Br/2Ba rental houses you may sell them for $50,000 more than the original cost.\nIf you sell, pay off the related liability and give up the cash flow you currently receive on each property.",
+      "details": {}
     },
     {
       "title": "Price of Gold Soars",
       "description": "Rioting in Middle East. Oil prices threatened. Price of gold skyrockets to $600 per ounce.\n<u>Everyone</u> who owns 1 ounce Krugerrands may sell at this price.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Shopping Mall Wanted",
       "description": "Major retailer is moving to your town. Looking for small shopping mall to purchase.\nThey are willing to pay $100,000 to <u>everyone</u> who owns a small shopping mall.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Software Company Buyer",
-      "description": "Large integrated software company offers $100,000 cash for inventive software program and related company.\n<u>Anyone</u> who owns a software company may sell at this price.\nIf you sell, give up the cashflow you currently receive from this company.",
-      "details": ""
+      "description": "Large integrated software company offers $100,000 cash for inventive software program and related company.\n<u>Anyone</u> who owns a software company may sell at this price.\nIf you sell, give up the cash flow you currently receive from this company.",
+      "details": {}
     },
     {
       "title": "Widget Company Buyer",
-      "description": "Engineer/Inventor who owns machinery company offers $50,000 cash for inventive method of making widgets.\n<u>Anyone who owns a widget company</u> may sell at this price.\nIf you sell, give up the cashflow you currently receive from this company.",
-      "details": ""
+      "description": "Engineer/Inventor who owns machinery company offers $50,000 cash for inventive method of making widgets.\n<u>Anyone who owns a widget company</u> may sell at this price.\nIf you sell, give up the cash flow you currently receive from this company.",
+      "details": {}
     }
   ],
   "doodad": [
     {
       "title": "Buy a Café Latte & Cappuccino for You & a Friend",
       "description": "Pay $20",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Buy New Golf Balls",
       "description": "Pay $20",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Lunch with Friends",
       "description": "Pay $40",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Buy Toys for Your Kids",
       "description": "Spend $50 for every child",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Go to Ball Game",
       "description": "Pay $50",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Must Have New Sunglasses",
       "description": "Pay $80",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Buy New Bowling Ball",
       "description": "Pay $80",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Go Out to Dinner",
       "description": "Spend $80",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Birthday!",
       "description": "Take kids to the amusement park and spend $100\n(if you have a child)",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Buy New Cellular Phone",
       "description": "Pay $100",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Buy New Fishing Rod",
       "description": "Pay $100",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Buy New Music CDs",
       "description": "Pay $100",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Park in Handicapped Zone",
       "description": "Pay $100 fine",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Play 2 Rounds of Golf",
       "description": "Pay $100",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Play Your Lucky Lottery Number!",
       "description": "Lose $100",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Visit Dentist",
       "description": "Filling costs $100",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Go to the Air Show",
       "description": "Pay $120",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Buy a Food Processor",
       "description": "Pay $150",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Buy Cappuccino Machine",
       "description": "Pay $150",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Shopping Spree!",
       "description": "Buy new wristwatch (even though you already have 3)\nPay $150",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Go to a Concert!",
       "description": "Dinner, Tickets, & Coffee\nSets you back $180",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Buy New Tennis Racket",
       "description": "You spend $200",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Couldn't Resist New Painting By Local Artist",
       "description": "Costs you $200",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Go to Casino!",
       "description": "Lose $200 at the tables",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Your Anniversary!",
       "description": "Spend $200",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Rumor of Layoff",
       "description": "Go back to school for added skills.\nPay $220 for tuition & books.",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Buy New Clothes",
       "description": "Pay $250",
-      "details": ""
+      "details": {}
     },
     {
       "title": "High School Reunion",
       "description": "You spend $250",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Car Needs Tires",
       "description": "Pay $300",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Furniture Sale",
       "description": "Replace that old chair\nPay $300",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Shopping!",
       "description": "Pay $350 for fabulous fake jewels",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Tax Audit",
       "description": "Ouch!\nPay Tax Authority $350",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Water Heater Leaks",
       "description": "Pay $450 for new one",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Buy New Speakers for Stereo",
       "description": "Pay $500",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Repaint House",
       "description": "Costs you $600",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Car’s Air Conditioning Dies",
       "description": "Pay $700",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Son's College Tuition",
       "description": "Pay $1500\n(if you have a child)",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Family Vacation!",
       "description": "Costs $2000",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Your Child Needs Braces",
       "description": "Pay $2000 (if you have a child)",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Your Daughter's Wedding",
       "description": "Costs you $2000\n(if you have a child)",
-      "details": ""
+      "details": {}
     },
     {
       "title": "Buy Big Screen TV",
       "description": "Pay $4000\n(Credit cards OK. If you buy on credit add $4000 to credit cards liability and add $120 to your monthly expenses.)",
-      "details": ""
+      "details": {}
     },
     {
       "title": "New Boat!",
       "description": "Pay $1,000 down and $17,000 on time.\n(Add a $17,000 boat loan as a new liability and add a new boat loan payment of $340 to Expenses.)",
-      "details": ""
+      "details": {}
     }
   ]
 }
