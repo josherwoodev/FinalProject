@@ -1,390 +1,509 @@
 {
   "bigOpps": [
     {
-      "title": "Automated Business for Sale",
+      "title": "Automated Business For Sale",
       "description": "30 video/pinball machines at long term contract locations for sale by overextended owner. Owner is desperate.\nUse this yourself or sell to another player.\n96% ROI. No other buyers in sight.",
-      "details": {
+      "holding": {
+        "type": "BUSINESS",
+        "subtype": "AUTO",
+        "name": "Automated (30 Pinball)",
+        "down": 20000,
         "cost": 100000,
         "liability": 80000,
-        "down": 20000,
         "cashflow": 1600
       }
     },
     {
-      "title": "Automated Business for Sale",
+      "title": "Automated Business For Sale",
       "description": "Successful 4 bay coin operated auto wash near busy intersection. Seller is moving to retirement community out of state.\nUse this yourself or sell to another player.\n86% ROI. No other buyers in sight.",
-      "details": {
-        "cost": 125000,
+      "holding": {
+        "type": "BUSINESS",
+        "subtype": "AUTO",
+        "name": "Automated (Car Wash)",
         "down": 25000,
+        "cost": 125000,
         "liability": 100000,
         "cashflow": 1800
       }
     },
     {
-      "title": "Automated Business for Sale",
+      "title": "Automated Business For Sale",
       "description": "Personal bankruptcy sale of busy, successful laundromat on busy highway. Absentee owner, contract cleaning.\nUse this yourself or sell to another player.\n100% ROI. No other buyers in sight.",
-      "details": {
+      "holding": {
+        "type": "BUSINESS",
+        "subtype": "AUTO",
+        "name": "Automated (Laundromat)",
+        "down": 30000,
         "cost": 150000,
         "liability": 120000,
-        "down": 30000,
         "cashflow": 2500
       }
     },
     {
-      "title": "Automated Business for Sale",
+      "title": "Automated Business For Sale",
       "description": "Successful coin telephone business available due to death of owner. Heirs live out of state. All locations on long term contract.\nUse this yourself or sell to another player.\n81% ROI. No other buyers in sight.",
-      "details": {
+      "holding": {
+        "type": "BUSINESS",
+        "subtype": "AUTO",
+        "name": "Automated (Payphone)",
+        "down": 40000,
         "cost": 200000,
         "liability": 160000,
-        "down": 40000,
         "cashflow": 2700
       }
     },
     {
-      "title": "Apartment House for Sale",
+      "title": "Apartment House For Sale",
       "description": "12 unit apartment house offered by out-of-state heirs of handyman/owner. Long waiting list for apartments in this building.\nUse this yourself or sell to another player.\n58% ROI, may sell for $300,000 to $480,000",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "APT",
+        "name": "Apartment(12)",
+        "down": 50000,
         "cost": 350000,
         "liability": 300000,
-        "down": 50000,
         "cashflow": 2400
       }
     },
     {
-      "title": "Apartment House for Sale",
+      "title": "Apartment House For Sale",
       "description": "24 unit older building near community college available from retiring owner/builder. Fully rented, nice cash flow.\nUse this yourself or sell to another player.\n67% ROI, may sell for $600,000 to $960,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "APT",
+        "name": "Apartment(24)",
+        "down": 50000,
         "cost": 550000,
         "liability": 500000,
-        "down": 50000,
         "cashflow": 2800
       }
     },
     {
-      "title": "Apartment Houses for Sale",
+      "title": "Apartment Houses For Sale",
       "description": "2 buildings totaling 24 units for sale. Owner managed with on-site assistant. Retirement prompts sale.\nUse this yourself or sell to another player.\n54% ROI, may sell for $600,000 to $960,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "APT",
+        "name": "Apartment(24)",
+        "down": 75000,
         "cost": 575000,
         "liability": 500000,
-        "down": 75000,
         "cashflow": 3400
       }
     },
     {
-      "title": "Apartment Complex for Sale",
+      "title": "Apartment Complex For Sale",
       "description": "60 unit complex available from pension fund that foreclosed on builder/owner. On-site management in place.\nUse this yourself or sell to another player.\n66% ROI, may sell for $1,500,000 to $2,700,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "APT",
+        "name": "Apartment(60)",
+        "down": 200000,
         "cost": 1200000,
         "liability": 1000000,
-        "down": 200000,
         "cashflow": 11000
       }
     },
     {
-      "title": "Duplex for Sale",
+      "title": "Duplex For Sale",
       "description": "Tenants in place at this investment duplex! Owner has income tax problems, needs to sell quickly.\nUse this yourself or sell to another player.\n48% ROI, may sell for $50,000 to $80,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "PLEX",
+        "name": "Duplex",
+        "down": 8000,
         "cost": 45000,
         "liability": 37000,
-        "down": 8000,
         "cashflow": 320
       }
     },
     {
-      "title": "Duplex for Sale",
+      "title": "Duplex For Sale",
       "description": "Owner moving out of this duplex due to growing family. Tenant remains, well maintained, excellent landscaping.\nUse this yourself or sell to another player.\n36% ROI, may sell for $50,000 to $70,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "PLEX",
+        "name": "Duplex",
+        "down": 8000,
         "cost": 50000,
         "liability": 42000,
-        "down": 8000,
         "cashflow": 240
       }
     },
     {
-      "title": "Duplex for Sale",
+      "title": "Duplex For Sale",
       "description": "Well maintained duplex in desirable area available due to transfer of owner. Excellent investment opportunity for right buyer.\nUse this yourself or sell to another player.\n60% ROI, may sell for $50,000 to $80,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "PLEX",
+        "name": "Duplex",
+        "down": 6000,
         "cost": 60000,
         "liability": 54000,
-        "down": 6000,
         "cashflow": 300
       }
     },
     {
-      "title": "Duplex for Sale",
+      "title": "Duplex For Sale",
       "description": "Duplex owner must sell to pay hospital bills. Two tenants in place, all records, good investment opportunity.\nUse this yourself or sell to another player.\n40% ROI, may sell for $50,000 to $80,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "PLEX",
+        "name": "Duplex",
+        "down": 12000,
         "cost": 60000,
         "liability": 48000,
-        "down": 12000,
         "cashflow": 400
       }
     },
     {
-      "title": "Duplex for Sale",
+      "title": "Duplex For Sale",
       "description": "This duplex is the best in the neighborhood! Proud owner retiring to another state to be near her grandchildren.\nUse this yourself or sell to another player.\n24% ROI, may sell for $50,000 to $80,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "PLEX",
+        "name": "Duplex",
+        "down": 7000,
         "cost": 70000,
         "liability": 63000,
-        "down": 7000,
         "cashflow": 140
       }
     },
     {
-      "title": "4-plex for Sale",
+      "title": "4-plex For Sale",
       "description": "\"Project\" 4-plex for sale in rehabilitating neighborhood. Owner being forces out by income tax liens.\nUse this yourself or sell to another player.\n24% ROI, may sell for $100,000 to $140,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "PLEX",
+        "name": "4-Plex",
+        "down": 20000,
         "cost": 80000,
         "liability": 60000,
-        "down": 20000,
         "cashflow": 400
       }
     },
     {
-      "title": "4-plex for Sale",
+      "title": "4-plex For Sale",
       "description": "4-plex available — forced sale. Out-of-state, financially distressed owner years behind on taxes. Some records available.\nUse this yourself or sell to another player.\n56% ROI, may sell for $100,000 to $140,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "PLEX",
+        "name": "4-Plex",
+        "down": 16000,
         "cost": 80000,
         "liability": 64000,
-        "down": 16000,
         "cashflow": 750
       }
     },
     {
-      "title": "4-plex for Sale",
+      "title": "4-plex For Sale",
       "description": "Older 4-plex next to new highway for sale. Owner/occupant moving to quieter area. Priced for quick sale.\nUse this yourself or sell to another player.\n40% ROI, may sell for $100,000 to $140,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "PLEX",
+        "name": "4-Plex",
+        "down": 15000,
         "cost": 90000,
         "liability": 75000,
-        "down": 15000,
         "cashflow": 500
       }
     },
     {
-      "title": "4-plex for Sale",
+      "title": "4-plex For Sale",
       "description": "4-plex in recovering neighborhood. Fully rented, repairs kept up. Needs your down payment and patience.\nUse this yourself or sell to another player.\n48% ROI, may sell for $100,000 to $140,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "PLEX",
+        "name": "4-Plex",
+        "down": 20000,
         "cost": 100000,
         "liability": 80000,
-        "down": 20000,
         "cashflow": 800
       }
     },
     {
-      "title": "4-plex for Sale",
+      "title": "4-plex For Sale",
       "description": "Nice, well maintained 4-plex in good neighborhood. Stable tenants, positive cash flow, few problems. Full records.\nUse this yourself or sell to another player.\n48% ROI, may sell for $100,000 to $140,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "PLEX",
+        "name": "4-Plex",
+        "down": 15000,
         "cost": 125000,
         "liability": 110000,
-        "down": 15000,
         "cashflow": 600
       }
     },
     {
-      "title": "4-plex for Sale",
+      "title": "4-plex For Sale",
       "description": "4-plex for sale by owner, moving to another state. Full records, fully rented, low occupant turnover in good neighborhood.\nUse this yourself or sell to another player.\n75% ROI, may sell for $100,000 to $140,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "PLEX",
+        "name": "4-Plex",
+        "down": 32000,
         "cost": 140000,
         "liability": 108000,
-        "down": 32000,
         "cashflow": 2000
       }
     },
     {
-      "title": "8-plex for Sale",
+      "title": "8-plex For Sale",
       "description": "Professional person urgently needs cash to save partnership. 8-plex sale to raise capital. Good opportunity for right person.\nUse this yourself or sell to another player.\n64% ROI, may sell for $200,000 to $280,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "PLEX",
+        "name": "8-Plex",
+        "down": 32000,
         "cost": 160000,
         "liability": 128000,
-        "down": 32000,
         "cashflow": 1700
       }
     },
     {
-      "title": "8-plex for Sale",
+      "title": "8-plex For Sale",
       "description": "Owner’s legal troubles lead to forced sale of this 8-plex. No qualifying on this loan, as mortgage holder is cooperating.\nUse this yourself or sell to another player.\n48% ROI, may sell for $200,000 to $280,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "PLEX",
+        "name": "8-Plex",
+        "down": 40000,
         "cost": 200000,
         "liability": 160000,
-        "down": 40000,
         "cashflow": 1600
       }
     },
     {
-      "title": "8-plex for Sale",
+      "title": "8-plex For Sale",
       "description": "Reinvesting owner offers 8-plex for sale at reasonable price. Financing already in place. All it needs is your down payment.\nUse this yourself or sell to another player.\n51% ROI, may sell for $200,000 to $280,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "PLEX",
+        "name": "8-Plex",
+        "down": 40000,
         "cost": 220000,
         "liability": 180000,
-        "down": 40000,
         "cashflow": 1700
       }
     },
     {
-      "title": "8-plex for Sale",
+      "title": "8-plex For Sale",
       "description": "Retiring investor/owner offers his 8-plex at current appraisal value. Professional lawn service and management. Full records.\nUse this yourself or sell to another player.\n29% ROI, may sell for $200,000 to $280,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "PLEX",
+        "name": "8-Plex",
+        "down": 40000,
         "cost": 240000,
         "liability": 200000,
-        "down": 40000,
         "cashflow": 950
       }
     },
     {
-      "title": "House for Sale — 3Br/2Ba",
+      "title": "House For Sale — 3Br/2Ba",
       "description": "Businessman liquidating this 3/2 house, needs cash to save his business. Currently occupied by happy tenant.\nUse this yourself or sell to another player.\n26% ROI, may sell for $65,000 to $135,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "HOUSE",
+        "name": "House 3/2",
+        "down": 7000,
         "cost": 65000,
         "liability": 58000,
-        "down": 7000,
         "cashflow": 150
       }
     },
     {
-      "title": "House for Sale — 3Br/2Ba",
+      "title": "House For Sale — 3Br/2Ba",
       "description": "Good investment potential in this 3/2 house if you can be patient. Positive cash flow even though rents are weak.\nUse this yourself or sell to another player.\n45% ROI, may sell for $65,000 to $135,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "HOUSE",
+        "name": "House 3/2",
+        "down": 8000,
         "cost": 65000,
         "liability": 57000,
-        "down": 8000,
         "cashflow": 300
       }
     },
     {
-      "title": "House for Sale — 3Br/2Ba",
+      "title": "House For Sale — 3Br/2Ba",
       "description": "Transferred skilled tradesman kept this 3/2 house in excellent condition, so it commands top dollar rentals in older neighborhood.\nUse this yourself or sell to another player.\n40% ROI, may sell for $65,000 to $135,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "HOUSE",
+        "name": "House 3/2",
+        "down": 12000,
         "cost": 67000,
         "liability": 55000,
-        "down": 12000,
         "cashflow": 400
       }
     },
     {
-      "title": "House for Sale — 3Br/2Ba",
+      "title": "House For Sale — 3Br/2Ba",
       "description": "Downsized manager must sell this 3/2 house, cannot afford payments on new salary. Area in transition.\nUse this yourself or sell to another player.\n40% ROI, may sell for $65,000 to $135,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "HOUSE",
+        "name": "House 3/2",
+        "down": 9000,
         "cost": 70000,
         "liability": 61000,
-        "down": 9000,
         "cashflow": 300
       }
     },
     {
-      "title": "House for Sale — 3Br/2Ba",
+      "title": "House For Sale — 3Br/2Ba",
       "description": "Divorce leads to sale of this 3/2 house in an area full of owner occupied homes. Has been on the market 5 months.\nUse this yourself or sell to another player.\n30% ROI, may sell for $65,000 to $135,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "HOUSE",
+        "name": "House 3/2",
+        "down": 20000,
         "cost": 70000,
         "liability": 50000,
-        "down": 20000,
         "cashflow": 500
       }
     },
     {
-      "title": "House for Sale — 3Br/2Ba",
+      "title": "House For Sale — 3Br/2Ba",
       "description": "3/2 house on golf course offers potential capital gain plus current cash flow. Good rentals and nice financing.\nUse this yourself or sell to another player.\n51% ROI, may sell for $65,000 to $135,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "HOUSE",
+        "name": "House 3/2",
+        "down": 7000,
         "cost": 75000,
         "liability": 68000,
-        "down": 7000,
         "cashflow": 300
       }
     },
     {
-      "title": "House for Sale — 3Br/2ba",
+      "title": "House For Sale — 3Br/2Ba",
       "description": "Nice 3/2 house with in ground pool and full appliances available in upper middle class area. Good schools.\nUse this yourself or sell to another player.\n-6% ROI, may sell for $65,000 to $150,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "HOUSE",
+        "name": "House 3/2",
+        "down": 20000,
         "cost": 125000,
         "liability": 105000,
-        "down": 20000,
         "cashflow": -100
       }
     },
     {
       "title": "Limited Partner Wanted",
       "description": "Successful pizza chain expanding into production of frozen pizzas for grocery stores. Owner needs capital for equipment.\nUse this yourself or sell to another player.\n48% ROI, may sell for $40,000 to $60,000.",
-      "details": {
+      "holding": {
+        "type": "BUSINESS",
+        "subtype": "LTD",
+        "name": "Ltd. Partner (Pizza)",
+        "down": 20000,
         "cost": 20000,
         "liability": 0,
-        "down": 20000,
         "cashflow": 800
       }
     },
     {
       "title": "Limited Partner Wanted",
       "description": "Successful doctor expanding office and clinic. Needs partner to fund equity portion of construction costs.\nUse this yourself or sell to another player.\n48% ROI, may sell for $50,000 to $75,000.",
-      "details": {
+      "holding": {
+        "type": "BUSINESS",
+        "subtype": "LTD",
+        "name": "Ltd. Partner (Doctor)",
+        "down": 25000,
         "cost": 25000,
         "liability": 0,
-        "down": 25000,
         "cashflow": 1000
       }
     },
     {
       "title": "Limited Partner Wanted",
       "description": "Auto Dealer wants to expand into leasing 2 and 3 year old cars. Needs capital as car maker’s finance company is not interested.\nUse this yourself or sell to another player.\n40% ROI, may sell for $60,000 to $90,000.",
-      "details": {
+      "holding": {
+        "type": "BUSINESS",
+        "subtype": "LTD",
+        "name": "Ltd. Partner (Auto)",
+        "down": 30000,
         "cost": 30000,
         "liability": 0,
-        "down": 30000,
         "cashflow": 1000
       }
     },
     {
       "title": "Limited Partner Wanted",
       "description": "Non-franchise sandwich shop doubling the number of locations. Owner needs additional equity capital to get operating loan.\nUse this yourself or sell to another player.\n60% ROI, may sell for $60,000 to $90,000.",
-      "cost": 30000,
-      "liability": 0,
-      "down": 30000,
-      "cashflow": 1500
-    },
-    {
-      "title": "20 Acres for Sale",
-      "description": "20 acres of vacant land, currently zoned residential. Possibility of good appreciation if re-zoned commercial.\nUse this yourself or sell to another player.\n0% ROI, may sell for ??.",
-      "details": {
-        "cost": 20000,
+      "holding": {
+        "type": "BUSINESS",
+        "subtype": "LTD",
+        "name": "Ltd. Partner (Sandwich)",
+        "cost": 30000,
         "liability": 0,
-        "down": 20000,
-        "cashflow": 0
-      }
-    },
-    {
-      "title": "Small Shopping Mall for Sale",
-      "description": "Bank has taken back mall from bankrupt owner. Mall is currently 50% occupied. Just listed today.\nUse this yourself or sell to another player.\n19% ROI, may sell for $35,000 to $150,000.",
-      "details": {
-        "cost": 50000,
-        "liability": 0,
-        "down": 50000,
-        "cashflow": 800
-      }
-    },
-    {
-      "title": "Bed & Breakfast for Sale",
-      "description": "Owner retiring, wants out NOW. Great clientele in resort community. 5Br/3Ba.\nUse this yourself or sell to another player.\n40% ROI, may sell for $100,000 to $300,000.",
-      "details": {
-        "cost": 150000,
-        "liability": 120000,
         "down": 30000,
-        "cashflow": 1000
-      }
-    },
-    {
-      "title": "Car Wash for Sale",
-      "description": "Family car wash for sale. Family feuding. Wants out ASAP. Prime location in high-growth area.\nUse this yourself or sell to another player.\n36% ROI, may sell for 12-25 times annual cash flow.",
-      "details": {
-        "cost": 350000,
-        "liability": 300000,
-        "down": 50000,
         "cashflow": 1500
       }
     },
     {
-      "title": "Pizza Franchise for Sale",
+      "title": "20 Acres For Sale",
+      "description": "20 acres of vacant land, currently zoned residential. Possibility of good appreciation if re-zoned commercial.\nUse this yourself or sell to another player.\n0% ROI, may sell for ??.",
+      "holding": {
+        "type": "STOCK",
+        "subtype": "LAND",
+        "name": "20 Acres",
+        "down": 20000,
+        "cost": 20000,
+        "liability": 0,
+        "cashflow": 0
+      }
+    },
+    {
+      "title": "Small Shopping Mall For Sale",
+      "description": "Bank has taken back mall from bankrupt owner. Mall is currently 50% occupied. Just listed today.\nUse this yourself or sell to another player.\n19% ROI, may sell for $35,000 to $150,000.",
+      "holding": {
+        "type": "BUSINESS",
+        "subtype": "MALL",
+        "name": "Shopping Mall",
+        "down": 50000,
+        "cost": 50000,
+        "liability": 0,
+        "cashflow": 800
+      }
+    },
+    {
+      "title": "Bed & Breakfast For Sale",
+      "description": "Owner retiring, wants out NOW. Great clientele in resort community. 5Br/3Ba.\nUse this yourself or sell to another player.\n40% ROI, may sell for $100,000 to $300,000.",
+      "holding": {
+        "type": "BUSINESS",
+        "subtype": "BNB",
+        "name": "Bed & Breakfast",
+        "down": 30000,
+        "cost": 150000,
+        "liability": 120000,
+        "cashflow": 1000
+      }
+    },
+    {
+      "title": "Car Wash For Sale",
+      "description": "Family car wash for sale. Family feuding. Wants out ASAP. Prime location in high-growth area.\nUse this yourself or sell to another player.\n36% ROI, may sell for 12-25 times annual cash flow.",
+      "holding": {
+        "type": "BUSINESS",
+        "subtype": "CAR_WASH",
+        "name": "Car Wash",
+        "down": 50000,
+        "cost": 350000,
+        "liability": 300000,
+        "cashflow": 1500
+      }
+    },
+    {
+      "title": "Pizza Franchise For Sale",
       "description": "Healthy-pizza company franchise. Trend in nutritious fast-food booming. Next to college. High traffic.\nUse this yourself or sell to another player.\n60% ROI, may sell for $520,000 to $800,000.",
-      "details": {
+      "holding": {
+        "type": "BUSINESS",
+        "subtype": "PIZZA",
+        "name": "Pizza Franchise",
+        "down": 100000,
         "cost": 500000,
         "liability": 400000,
-        "down": 100000,
         "cashflow": 5000
       }
     },
@@ -393,7 +512,11 @@
       "description": "Water everywhere at your 8-plex! Broken sewer line needs repair immediately.\nIf you own an 8-plex, pay $2,000 for new line. (Bank loan available on usual terms.)\nIf you own more than 1 8-plex, pay repairs on only 1.",
       "effect": {
         "cost": 2000,
-        "condition": "8-plex owned"
+        "condition": {
+          "type": "RE",
+          "subtype": "PLEX",
+          "XXXX": ""
+        }
       }
     },
     {
@@ -401,7 +524,9 @@
       "description": "Tenant refuses to pay rent after losing job. When you get him evicted you discover significant damages to your property.\nInsurance covers most damages and costs, but you still are out of pocket $1,000.\nPay $1,000 if you own any rental real estate. (Bank loan available on usual terms.)\nOnly the person who draws this card pays.",
       "effect": {
         "cost": 1000,
-        "condition": "holding RE owned"
+        "condition": {
+          "type": "RE"
+        }
       }
     }
   ],
@@ -409,7 +534,9 @@
     {
       "title": "Certificates of Deposit",
       "description": "A leading bank offers this special Certificate of Deposit to its customers.\nGuaranteed interest and redeemable after any holding period.\n<u>Everyone may buy or sell</u> as many as they wish at this time.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "CD",
         "symbol": "CD",
         "price": 4000,
         "yield": "6%",
@@ -423,7 +550,9 @@
     {
       "title": "Certificate of Deposit",
       "description": "A leading bank offers this special Certificate of Deposit to its customers.\nGuaranteed interest and redeemable after any holding period.\n<u>Everyone may buy or sell</u> as many as they wish at this time.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "CD",
         "symbol": "CD",
         "price": 5000,
         "yield": "4.8%",
@@ -437,7 +566,9 @@
     {
       "title": "Mutual Fund — GRO4US Fund",
       "description": "Weak earnings by most companies lead to weak price of mutual fund.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "MUTUAL",
         "symbol": "GRO4US",
         "price": 10,
         "range": [
@@ -451,7 +582,9 @@
     {
       "title": "Mutual Fund — GRO4US Fund",
       "description": "Brilliant young fund manager. Everyone believes he has the Midas touch.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "MUTUAL",
         "symbol": "GRO4US",
         "price": 20,
         "range": [
@@ -465,7 +598,9 @@
     {
       "title": "Mutual Fund — GRO4US Fund",
       "description": "General market strength leads well managed fund's price to a strong level.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "MUTUAL",
         "symbol": "GRO4US",
         "price": 30,
         "range": [
@@ -479,7 +614,9 @@
     {
       "title": "Mutual Fund — GRO4US Fund",
       "description": "Lower interest rates drive market and fund to strong showing.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "MUTUAL",
         "symbol": "GRO4US",
         "price": 30,
         "range": [
@@ -491,9 +628,11 @@
       }
     },
     {
-      "title": "Mutual Fund - GRO4US Fund",
+      "title": "Mutual Fund — GRO4US Fund",
       "description": "Powerhouse market drives strong fund's price up to record high.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "MUTUAL",
         "symbol": "GRO4US",
         "dividend": 0,
         "price": 40,
@@ -507,7 +646,9 @@
     {
       "title": "Preferred Stock—2BIG Power",
       "description": "High yield, preferred shares of major domestic electric power company. Dividend and price fixed at “fair” level by state utility commission.\n<u>Everyone may buy or sell</u> as many shares as they wish at this time.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "PREFERRED",
         "symbol": "2BIG",
         "price": 1200,
         "dividend": 10,
@@ -521,7 +662,9 @@
     {
       "title": "Preferred Stock—2BIG Power",
       "description": "High yield, preferred shares of major domestic electric power company. Dividend and price fixed at “fair” level by state utility commission.\n<u>Everyone may buy or sell</u> as many shares as they want at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "PREFERRED",
         "symbol": "2BIG",
         "price": 1200,
         "dividend": 10,
@@ -535,7 +678,9 @@
     {
       "title": "Stock — ON2U Entertainment Co.",
       "description": "Movie buyer fired after third mega-flop! Shares sink. Chairman’s bonus canceled.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "ON2U",
         "price": 5,
         "range": [
@@ -549,7 +694,9 @@
     {
       "title": "Stock — ON2U Entertainment Co.",
       "description": "Box office flop by musical extravaganza in core division causes poor share price.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "ON2U",
         "price": 10,
         "range": [
@@ -561,9 +708,11 @@
       }
     },
     {
-      "title": "Stock - ON2U Entertainment Co.",
+      "title": "Stock — ON2U Entertainment Co.",
       "description": "Newest theme park loses record amount. Share price hits all-time low.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "ON2U",
         "price": 10,
         "range": [
@@ -577,7 +726,9 @@
     {
       "title": "Stock — ON2U Entertainment Co.",
       "description": "Recent merger strengthened market share of this leading company with good outlook.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "ON2U",
         "price": 20,
         "range": [
@@ -591,7 +742,9 @@
     {
       "title": "Stock — ON2U Entertainment Co.",
       "description": "New director of movie acquisitions brings revived prospects for share price.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "ON2U",
         "price": 20,
         "range": [
@@ -605,7 +758,9 @@
     {
       "title": "Stock — ON2U Entertainment Co.",
       "description": "Strong demand for company’s library of old movies on video leads to good share price.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "ON2U",
         "price": 30,
         "range": [
@@ -617,9 +772,11 @@
       }
     },
     {
-      "title": "Stock - ON2U Entertainment Co.",
+      "title": "Stock — ON2U Entertainment Co.",
       "description": "Box office smash hit in adult division causes strong share price.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "ON2U",
         "price": 30,
         "range": [
@@ -631,9 +788,11 @@
       }
     },
     {
-      "title": "Stock - ON2U Entertainment Co.",
+      "title": "Stock — ON2U Entertainment Co.",
       "description": "Box office hit by children's division causes record share price.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "ON2U",
         "price": 40,
         "range": [
@@ -645,9 +804,11 @@
       }
     },
     {
-      "title": "Stock - MTY4U Electronics Co.",
+      "title": "Stock — MYT4U Electronics Co.",
       "description": "Trade war panic leads to record low share price for this home electronics seller.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "MYT4U",
         "price": 1,
         "range": [
@@ -661,7 +822,9 @@
     {
       "title": "Stock — MYT4U Electronics Co.",
       "description": "Record interest rates lead to substandard share price for this home electronics seller.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "MYT4U",
         "price": 5,
         "range": [
@@ -675,7 +838,9 @@
     {
       "title": "Stock — MYT4U Electronics Co.",
       "description": "High inflation leads to poor share price for this home electronics seller.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "MYT4U",
         "price": 5,
         "range": [
@@ -689,7 +854,9 @@
     {
       "title": "Stock — MYT4U Electronics Co.",
       "description": "Weak market leads to sagging share price for this home electronics seller.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "MYT4U",
         "price": 10,
         "range": [
@@ -703,7 +870,9 @@
     {
       "title": "Stock — MYT4U Electronics Co.",
       "description": "Fast growing seller of home electronics headed by 32 year old Harvard grad.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "MYT4U",
         "price": 20,
         "range": [
@@ -717,7 +886,9 @@
     {
       "title": "Stock — MYT4U Electronics Co.",
       "description": "Strong market leads to strong share price for this home electronics seller.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "MYT4U",
         "price": 30,
         "range": [
@@ -729,9 +900,11 @@
       }
     },
     {
-      "title": "Stock - MTY4U Electronics Co.",
+      "title": "Stock — MYT4U Electronics Co.",
       "description": "Low interest rates lead to substantial share price for this home electronics seller.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "MYT4U",
         "price": 30,
         "range": [
@@ -743,9 +916,11 @@
       }
     },
     {
-      "title": "Stock - MTY4U Electronics Co.",
+      "title": "Stock — MYT4U Electronics Co.",
       "description": "Booming market leads to record share price of this home electronics seller!\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "MYT4U",
         "price": 40,
         "range": [
@@ -759,7 +934,9 @@
     {
       "title": "Stock — MYT4U Electronics Co.",
       "description": "Company reorganizes! Massive losses due to over-expansion and recession. Stockholders lose 1/2 of their ownership rights.\nEveryone who owns MYT4U shares cuts shares owned to 1/2 previous value. (Pay no money, your total cost does not change.)\nStill no dividends. No one may buy or sell at this time.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "XXXX",
         "symbol": "MYT4U",
         "flavor": "Reverse split 1 for 2",
         "effect": {
@@ -770,7 +947,9 @@
     {
       "title": "Stock — MYT4U Electronics Co.",
       "description": "Business is up dramatically and the company is doing so well their shares have just split!\n<u>Everyone who owns MYT4U shares</u> doubles the numbers of shares they own. (Pay no money, your total cost does not change.)\nStill no dividends. No one may buy or sell at this time.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "XXXX",
         "symbol": "MYT4U",
         "flavor": "Split 2 for 1",
         "effect": {
@@ -779,9 +958,11 @@
       }
     },
     {
-      "title": "Stock - OK4U Drug Co.",
+      "title": "Stock — OK4U Drug Co.",
       "description": "Market panic causes crash in the shares of this long time maker of medicines.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "OK4U",
         "price": 1,
         "range": [
@@ -795,7 +976,9 @@
     {
       "title": "Stock — OK4U Drug Co.",
       "description": "Interest rates cripple share price of this long time maker of medicines.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "OK4U",
         "price": 5,
         "range": [
@@ -809,7 +992,9 @@
     {
       "title": "Stock — OK4U Drug Co.",
       "description": "Inflation worries cause poor share price of this long time maker of medicines.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "OK4U",
         "price": 10,
         "range": [
@@ -823,7 +1008,9 @@
     {
       "title": "Stock — OK4U Drug Co.",
       "description": "High interest rates cause poor share price of this long time maker of medicines.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "OK4U",
         "price": 10,
         "range": [
@@ -835,9 +1022,11 @@
       }
     },
     {
-      "title": "Stock - OK4U Drug Co.",
+      "title": "Stock — OK4U Drug Co.",
       "description": "Long time maker of medicines; especially drugs for people over 70.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "OK4U",
         "price": 30,
         "range": [
@@ -851,7 +1040,9 @@
     {
       "title": "Stock — OK4U Drug Co.",
       "description": "Market strength leads to high share price for this long time maker of medicines.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "OK4U",
         "price": 40,
         "range": [
@@ -865,7 +1056,9 @@
     {
       "title": "Stock — OK4U Drug Co.",
       "description": "Low inflation leads to high share price for this long time maker of medicines.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "OK4U",
         "price": 40,
         "range": [
@@ -879,7 +1072,9 @@
     {
       "title": "Stock — OK4U Drug Co.",
       "description": "Booming market raises share price of this long time maker of medicines.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "STOCK",
         "symbol": "OK4U",
         "price": 50,
         "range": [
@@ -893,7 +1088,9 @@
     {
       "title": "Stock — OK4U Drug Co.",
       "description": "Company flounders! Massive losses due to tainted drug scandal. All stockholders lose 1/2 of their ownership rights.\nEveryone who owns OK4U shares cuts shares owned to 1/2 previous value. (Pay no money, your total cost does not change.)\nStill no dividends. No one may buy or sell at this time.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "XXXX",
         "symbol": "OK4U",
         "flavor": "Reverse split 1 for 2"
       }
@@ -901,176 +1098,228 @@
     {
       "title": "Stock — OK4U Drug Co.",
       "description": "Things are going so well for the company that their shares have just split!\n<u>Everyone who owns OK4U shares</u> doubles the numbers of shares they own. (Your total cost does not change.)\nNo dividends. No one may buy or sell at this time.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "XXXX",
         "symbol": "OK4U",
         "flavor": "Split 2 for 1"
       }
     },
     {
-      "title": "Condo For Sale - 2Br/1Ba",
+      "title": "Condo For Sale — 2Br/1Ba",
       "description": "Parents selling 2/1 condo used by their child in college town. Lots of demand for rentals in this area.\nUse this yourself or sell to another player.\n42% ROI, may sell for $45,000 to $65,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "CONDO",
+        "name": "Condo 2/1",
+        "down": 4000,
         "cost": 40000,
         "liability": 36000,
-        "down": 4000,
         "cashflow": 140
       }
     },
     {
       "title": "Condo For Sale — 2Br/1Ba",
       "description": "Bank foreclosure! 2/1 condo in desirable neighborhood close to jobs and stores. Make offer, favorable financing by bank.\nUse this yourself or sell to another player.\n53% ROI, may sell for $45,000 to $65,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "CONDO",
+        "name": "Condo 2/1",
+        "down": 5000,
         "cost": 40000,
         "liability": 35000,
-        "down": 5000,
         "cashflow": 220
       }
     },
     {
       "title": "Condo For Sale — 2Br/1Ba",
       "description": "Nice 2/1 condo available due to marriage of owner. Bad area. Needs work.\nUse this yourself or sell to another player.\n24% ROI, may sell for $45,000 to $65,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "CONDO",
+        "name": "Condo 2/1",
+        "down": 5000,
         "cost": 50000,
         "liability": 45000,
-        "down": 5000,
         "cashflow": 100
       }
     },
     {
       "title": "Condo For Sale — 2Br/1Ba",
       "description": "Older 2/1 condo offered by young couple who want to move up to a 3/2 house due to growing family. Available soon.\nUse this yourself or sell to another player.\n38% ROI, may sell for $45,000 to $65,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "CONDO",
+        "name": "Condo 2/1",
+        "down": 5000,
         "cost": 55000,
         "liability": 50000,
-        "down": 5000,
         "cashflow": 160
       }
     },
     {
       "title": "Condo For Sale — 2Br/1Ba",
       "description": "Excellent 2/1 condo with many extras. For sale due to business success of owner. She's moving up, so can you.\nUse this yourself or sell to another player.\n-24% ROI, may sell for $45,000 to $65,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "CONDO",
+        "name": "Condo 2/1",
+        "down": 5000,
         "cost": 60000,
         "liability": 55000,
-        "down": 5000,
         "cashflow": -100
       }
     },
     {
       "title": "House For Sale — 3Br/2Ba",
       "description": "3/2 house in older area offered by Highway Department. Market has crashed. NO bids at last week's auction.\nUse this yourself or sell to another player.\n??% ROI, may sell for $65,000 to $135,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "HOUSE",
+        "name": "House 3/2",
+        "down": 0,
         "cost": 50000,
         "liability": 50000,
-        "down": 0,
         "cashflow": -100
       }
     },
     {
       "title": "House For Sale — 3Br/2Ba",
       "description": "Not lived in for 6 months , this bank-foreclosed house just reduced. Loan includes estimated repair costs.\nUse this yourself or sell to another player.\n??% ROI, may sell for $65,000 to $135,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "HOUSE",
+        "name": "House 3/2",
+        "down": 0,
         "cost": 50000,
         "liability": 50000,
-        "down": 0,
         "cashflow": 100
       }
     },
     {
       "title": "House For Sale — 3Br/2Ba",
       "description": "Low down payment to pick up this 3/2 house, owner/seller unexpectedly moving out of town. Right person will do well.\nUse this yourself or sell to another player.\n40% ROI, may sell for $65,000 to $135,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "HOUSE",
+        "name": "House 3/2",
+        "down": 3000,
         "cost": 50000,
         "liability": 47000,
-        "down": 3000,
         "cashflow": 100
       }
     },
     {
-      "title": "House for Sale — 3 Br/2Ba",
+      "title": "House For Sale — 3Br/2Ba",
       "description": "Nice 3/2 house available in depressed market due to layoffs. Would make good investment property for right buyer.\nUse this yourself or sell to another player.\n60% ROI, may sell for $65,000 to $135,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "HOUSE",
+        "name": "House 3/2",
+        "down": 4000,
         "cost": 50000,
         "liability": 46000,
-        "down": 4000,
         "cashflow": 200
       }
     },
     {
       "title": "House For Sale — 3Br/2Ba",
       "description": "Nice 3/2 rental house suddenly available due to estate closing. Well maintained older property with existing tenant.\nUse this yourself or sell to another player.\n38% ROI, may sell for $65,000 to $135,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "HOUSE",
+        "name": "House 3/2",
+        "down": 5000,
         "cost": 65000,
         "liability": 60000,
-        "down": 5000,
         "cashflow": 160
       }
     },
     {
       "title": "You Find a Great Deal",
       "description": "Older 3/2 house, repossessed by government agency. Ready to go with government financing and a tenant.\nBorrow from the Bank if you must, but ... BUY THIS!\n132% ROI, may sell for $65,000 to $135,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "HOUSE",
+        "name": "House 3/2",
+        "down": 2000,
         "cost": 35000,
         "liability": 33000,
-        "down": 2000,
         "cashflow": 220
       }
     },
     {
       "title": "You Find a Great Deal!",
       "description": "Company bought transferred manager's 3/2 house. No current tenant, has been on market 6 months, just reduced.\nBorrow from the Bank if you must, but ... BUY THIS!\n150% ROI, may sell for $65,000 to $135,000.",
-      "details": {
+      "holding": {
+        "type": "RE",
+        "subtype": "HOUSE",
+        "name": "House 3/2",
+        "down": 2000,
         "cost": 45000,
         "liability": 43000,
-        "down": 2000,
         "cashflow": 250
       }
     },
     {
       "title": "Start a Company Part Time",
       "description": "Invent new way of making widgets, so you start a company to produce and sell them. No profits during startup, long hours, no extra pay.\nUse this yourself or sell to another player.\n0% ROI, may sell for ??, if anything.",
-      "details": {
+      "holding": {
+        "type": "BUSINESS",
+        "subtype": "STARTUP",
+        "name": "Part-Time Co. (Widgets)",
+        "down": 3000,
         "cost": 3000,
         "liability": 0,
-        "down": 3000,
         "cashflow": 0
       }
     },
     {
       "title": "Start a Company Part Time",
       "description": "Develop interesting idea for a software program, so you start a company to produce and sell it. No profits during startup, long hours, no extra pay.\nUse this yourself or sell to another player.\n0% ROI, may sell for ??, if anything.",
-      "details": {
+      "holding": {
+        "type": "BUSINESS",
+        "subtype": "STARTUP",
+        "name": "Part-Time Co. (Software)",
+        "down": 5000,
         "cost": 5000,
         "liability": 0,
-        "down": 5000,
         "cashflow": 0
       }
     },
     {
       "title": "10 Acres Raw Land",
       "description": "Wonderful park-like setting with stream on 10 acres in undeveloped area. No roads, no utilities, no noise.\nUse this yourself or sell to another player.\n0% ROI, may sell for ??, if anything.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "LAND",
+        "name": "10 Acres",
+        "down": 5000,
         "cost": 5000,
         "liability": 0,
-        "down": 5000,
         "cashflow": 0
       }
     },
     {
       "title": "Friend Needs Cash... Quick",
       "description": "A friend has urgent need for money. Will sell you 10 one-ounce gold Krugerrands, well below going rate, for $300 each.\nUse this yourself or sell to another player.\n0% ROI, may sell for ??, if anything.",
-      "details": {
+      "holding": {
+        "type": "STOCK",
+        "subtype": "GOLD",
+        "name": "Gold Krugerrand",
+        "down": 3000,
         "cost": 3000,
         "liability": 0,
-        "down": 3000,
         "cashflow": 0
       }
     },
     {
       "title": "Rare Gold Coin",
       "description": "You spot an unusual 1500's Royal Spanish New World (Havana Mint Only) \"pieces of eight\" gold coin in good condition at a swap meet. One only, seller asks $500.\nUse this yourself or sell to another player.\n0% ROI, may sell for ??, if anything.",
-      "details": {
-        "symbol": "GOLD",
+      "holding": {
+        "type": "STOCK",
+        "subtype": "GOLD",
+        "symbol": "Pieces of Eight",
         "liability": 0,
         "down": 500,
         "cashflow": 0
@@ -1079,10 +1328,12 @@
     {
       "title": "Sister-In-Law Borrows Money",
       "description": "Sister-In-Law is downsized. Needs $5,000 to make house payments. She promises to pay you back $10,000 after she finds a new job.\nUse it for yourself or sell to another player.\n??% ROI",
-      "details": {
+      "holding": {
+        "type": "NONE",
+        "name": null,
+        "down": 5000,
         "cost": 5000,
         "liability": 0,
-        "down": 5000,
         "cashflow": 0
       }
     },
@@ -1091,7 +1342,9 @@
       "description": "Tenant fails to pay rent for 2 months and then skips town leaving damage to your rental property.\nInsurance covers most damage and costs, but you still are out of pocket $500.\nPay $500 if you own any rental property. (Bank will lend you the money on usual terms.)\nOnly the person who draws this card pays.",
       "effect": {
         "cost": 500,
-        "condition": "holding RE own"
+        "condition": {
+          "type": "RE"
+        }
       }
     }
   ],
