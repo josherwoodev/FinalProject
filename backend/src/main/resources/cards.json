@@ -1,6 +1,4 @@
 {
-  "temp": "\nUse this yourself or sell to another player.\n100% ROI. No other buyers in sight.",
-  "temp2": "\nUse this yourself or sell to another player.\n100% ROI, may sell for $50,000 to $60,000.",
   "bigOpps": [
     {
       "title": "Automated Business for Sale",
@@ -393,378 +391,544 @@
     {
       "title": "Sewer Line Breaks",
       "description": "Water everywhere at your 8-plex! Broken sewer line needs repair immediately.\nIf you own an 8-plex, pay $2,000 for new line. (Bank loan available on usual terms.)\nIf you own more than 1 8-plex, pay repairs on only 1.",
-      "details": {}
+      "effect": {
+        "cost": 2000,
+        "condition": "8-plex owned"
+      }
     },
     {
       "title": "Tenant Damages Your Property",
       "description": "Tenant refuses to pay rent after losing job. When you get him evicted you discover significant damages to your property.\nInsurance covers most damages and costs, but you still are out of pocket $1,000.\nPay $1,000 if you own any rental real estate. (Bank loan available on usual terms.)\nOnly the person who draws this card pays.",
-      "details": {}
+      "effect": {
+        "cost": 1000,
+        "condition": "holding RE owned"
+      }
     }
   ],
   "smallOpps": [
     {
       "title": "Certificates of Deposit",
-      "description": "Certificates of deposit issued by regional bank. Pay interest at fixed rate, insured by FDIC.",
-      "details": {}
+      "description": "A leading bank offers this special Certificate of Deposit to its customers.\nGuaranteed interest and redeemable after any holding period.\n<u>Everyone may buy or sell</u> as many as they wish at this time.",
+      "details": {
+        "symbol": "CD",
+        "price": 4000,
+        "yield": "6%",
+        "dividend": 20,
+        "range": [
+          4000,
+          4000
+        ]
+      }
     },
     {
       "title": "Certificate of Deposit",
-      "description": "A deposit in a commercial bank. A safe investment, protected with Federal insurance. Interest credited at end of month.",
+      "description": "A leading bank offers this special Certificate of Deposit to its customers.\nGuaranteed interest and redeemable after any holding period.\n<u>Everyone may buy or sell</u> as many as they wish at this time.",
       "details": {
-        "Symbol": "CD",
-        "Today's Price": "$5,000",
-        "Yield": "12%/year ($50/month)",
-        "Trading Range": "$5,000 to $5,000"
+        "symbol": "CD",
+        "price": 5000,
+        "yield": "4.8%",
+        "dividend": 20,
+        "range": [
+          5000,
+          5000
+        ]
       }
     },
     {
       "title": "Mutual Fund — GRO4US Fund",
-      "description": "Weak earnings by most companies lead to weak price of mutual fund.",
+      "description": "Weak earnings by most companies lead to weak price of mutual fund.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
       "details": {
-        "Symbol": "GRO4US",
-        "Price": "$10",
-        "Trading Range": "$10 to $30",
-        "Dividend": "None (ROI = 0%)",
-        "Buy Permission": "Only you may buy as many units as you want",
-        "Sell Permission": "<u>Everyone may sell</u> at this price"
+        "symbol": "GRO4US",
+        "price": 10,
+        "range": [
+          10,
+          30
+        ],
+        "dividend": 0,
+        "yield": null
       }
     },
     {
       "title": "Mutual Fund — GRO4US Fund",
-      "description": "Diversified mutual fund, trending up. Long-term growth potential.",
-      "cost": 1000,
-      "down": 1000
-    },
-    {
-      "title": "Mutual Fund — GRO4US Fund",
-      "description": "Lower interest rates drive market and fund to strong showing. Only you may buy as many units as you want at this price. <u>Everyone may sell</u> at this price. Symbol GRO4US Today’s price: $30 No dividend (Yield or ROI = 0%)",
+      "description": "Brilliant young fund manager. Everyone believes he has the Midas touch.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
       "details": {
-        "Trading Range": "10"
+        "symbol": "GRO4US",
+        "price": 20,
+        "range": [
+          10,
+          30
+        ],
+        "dividend": 0,
+        "yield": null
       }
     },
     {
       "title": "Mutual Fund — GRO4US Fund",
-      "description": "Diversified mutual fund, trending up. Long-term growth potential.",
-      "cost": 1000,
-      "down": 1000
+      "description": "General market strength leads well managed fund's price to a strong level.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
+      "details": {
+        "symbol": "GRO4US",
+        "price": 30,
+        "range": [
+          10,
+          30
+        ],
+        "dividend": 0,
+        "yield": null
+      }
+    },
+    {
+      "title": "Mutual Fund — GRO4US Fund",
+      "description": "Lower interest rates drive market and fund to strong showing.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
+      "details": {
+        "symbol": "GRO4US",
+        "price": 30,
+        "range": [
+          10,
+          30
+        ],
+        "dividend": 0,
+        "yield": null
+      }
     },
     {
       "title": "Mutual Fund - GRO4US Fund",
-      "description": "Well-diversified stock mutual fund. Watch for price trends before buying. Use this yourself or sell to another player.",
+      "description": "Powerhouse market drives strong fund's price up to record high.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
       "details": {
-        "Symbol": "GRO4US",
-        "Dividend (if held at time of pay)": "$0",
-        "Today's Price": "$20",
-        "Trading Range": "$10 to $50"
+        "symbol": "GRO4US",
+        "dividend": 0,
+        "price": 40,
+        "range": [
+          10,
+          30
+        ],
+        "yield": null
       }
     },
     {
       "title": "Preferred Stock—2BIG Power",
-      "description": "High yield, preferred shares of major domestic electric power company. Dividend and price fixed at “fair” level by state utility commission. Everyone may buy or sell as many shares as they want at this price.",
+      "description": "High yield, preferred shares of major domestic electric power company. Dividend and price fixed at “fair” level by state utility commission.\n<u>Everyone may buy or sell</u> as many shares as they wish at this time.",
       "details": {
-        "Symbol": "2",
-        "Dividend": "10",
-        "Trading Range": "1,200"
+        "symbol": "2BIG",
+        "price": 1200,
+        "dividend": 10,
+        "range": [
+          1200,
+          1200
+        ],
+        "yield": "10%"
       }
     },
     {
-      "title": "Preferred Stock — 2BIG Power",
-      "description": "Preferred stock in power utility industry. Pays quarterly dividends and usually trades in narrow range.",
-      "details": "Symbol: 2BIG / Today's Price: $10. Yield: 12%. Trading Range: $9.00 to $11.00 minimum"
-    },
-    {
-      "title": "Stock — ON2U Entertainment Co.",
-      "description": "Movie buyer fired after third mega-flop! Shares sink. Chairman’s bonus canceled.",
+      "title": "Preferred Stock—2BIG Power",
+      "description": "High yield, preferred shares of major domestic electric power company. Dividend and price fixed at “fair” level by state utility commission.\n<u>Everyone may buy or sell</u> as many shares as they want at this price.",
       "details": {
-        "Symbol": "ON2U",
-        "Price": "$5",
-        "Trading Range": "$10 to $30",
-        "Dividend": "None (ROI = 0%)",
-        "Buy Permission": "Only you may buy as many shares as you want",
-        "Sell Permission": "<u>Everyone may sell</u> at this price"
+        "symbol": "2BIG",
+        "price": 1200,
+        "dividend": 10,
+        "range": [
+          1200,
+          1200
+        ],
+        "yield": "10%"
       }
     },
     {
       "title": "Stock — ON2U Entertainment Co.",
-      "description": "Box office flop by musical extravaganza in core division causes poor share price. Only you may buy as many shares as you want at this price. <u>Everyone may sell</u> at this price. Symbol ON2U Today’s price: $10 No dividend (Yield or ROI = 0%)",
+      "description": "Movie buyer fired after third mega-flop! Shares sink. Chairman’s bonus canceled.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
       "details": {
-        "Trading Range": "10"
+        "symbol": "ON2U",
+        "price": 5,
+        "range": [
+          10,
+          30
+        ],
+        "dividend": 0,
+        "yield": null
+      }
+    },
+    {
+      "title": "Stock — ON2U Entertainment Co.",
+      "description": "Box office flop by musical extravaganza in core division causes poor share price.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
+      "details": {
+        "symbol": "ON2U",
+        "price": 10,
+        "range": [
+          10,
+          30
+        ],
+        "dividend": 0,
+        "yield": null
       }
     },
     {
       "title": "Stock - ON2U Entertainment Co.",
-      "description": "Company owns a chain of 1st run theaters. Strong growth in revenues, some new product releases. Use this yourself or sell to another player.",
+      "description": "Newest theme park loses record amount. Share price hits all-time low.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
       "details": {
-        "Symbol": "ON2U",
-        "Dividend (if held at time of pay)": "$0",
-        "Today's Price": "$10",
-        "Trading Range": "$10 to $50"
+        "symbol": "ON2U",
+        "price": 10,
+        "range": [
+          10,
+          30
+        ],
+        "dividend": 0,
+        "yield": null
       }
     },
     {
       "title": "Stock — ON2U Entertainment Co.",
-      "description": "Recent merger strengthened market share of this leading company with good outlook.",
+      "description": "Recent merger strengthened market share of this leading company with good outlook.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
       "details": {
-        "Symbol": "ON2U",
-        "Price": "$20",
-        "Trading Range": "$10 to $40",
-        "Dividend": "None (ROI = 0%)",
-        "Buy Permission": "Only you may buy as many shares as you want",
-        "Sell Permission": "<u>Everyone may sell</u> at this price"
+        "symbol": "ON2U",
+        "price": 20,
+        "range": [
+          10,
+          30
+        ],
+        "dividend": 0,
+        "yield": null
       }
     },
     {
       "title": "Stock — ON2U Entertainment Co.",
-      "description": "New director of movie acquisitions brings revived prospects for share price. Only you may buy as many shares as you want at this price. <u>Everyone may sell</u> at this price. Symbol ON2U Today’s price: $20 No dividend (Yield or ROI = 0%)",
+      "description": "New director of movie acquisitions brings revived prospects for share price.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
       "details": {
-        "Trading Range": "10"
+        "symbol": "ON2U",
+        "price": 20,
+        "range": [
+          10,
+          30
+        ],
+        "dividend": 0,
+        "yield": null
       }
     },
     {
       "title": "Stock — ON2U Entertainment Co.",
-      "description": "Strong demand for company’s library of old movies on video leads to good share price.",
+      "description": "Strong demand for company’s library of old movies on video leads to good share price.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
       "details": {
-        "Symbol": "ON2U",
-        "Price": "$30",
-        "Trading Range": "$10 to $30",
-        "Dividend": "None (ROI = 0%)",
-        "Buy Permission": "Only you may buy as many shares as you want",
-        "Sell Permission": "<u>Everyone may sell</u> at this price"
+        "symbol": "ON2U",
+        "price": 30,
+        "range": [
+          10,
+          30
+        ],
+        "dividend": 0,
+        "yield": null
       }
     },
     {
       "title": "Stock - ON2U Entertainment Co.",
-      "description": "Company owns a chain of 1st run theaters. Strong growth in revenues, some new product releases. Use this yourself or sell to another player.",
+      "description": "Box office smash hit in adult division causes strong share price.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
       "details": {
-        "Symbol": "ON2U",
-        "Dividend (if held at time of pay)": "$0",
-        "Today's Price": "$5",
-        "Trading Range": "$10 to $50"
+        "symbol": "ON2U",
+        "price": 30,
+        "range": [
+          10,
+          30
+        ],
+        "dividend": 0,
+        "yield": null
+      }
+    },
+    {
+      "title": "Stock - ON2U Entertainment Co.",
+      "description": "Box office hit by children's division causes record share price.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
+      "details": {
+        "symbol": "ON2U",
+        "price": 40,
+        "range": [
+          10,
+          30
+        ],
+        "dividend": 0,
+        "yield": null
+      }
+    },
+    {
+      "title": "Stock - MTY4U Electronics Co.",
+      "description": "Trade war panic leads to record low share price for this home electronics seller.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
+      "details": {
+        "symbol": "MYT4U",
+        "price": 1,
+        "range": [
+          5,
+          30
+        ],
+        "dividend": 0,
+        "yield": null
+      }
+    },
+    {
+      "title": "Stock — MYT4U Electronics Co.",
+      "description": "Record interest rates lead to substandard share price for this home electronics seller.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
+      "details": {
+        "symbol": "MYT4U",
+        "price": 5,
+        "range": [
+          5,
+          30
+        ],
+        "dividend": 0,
+        "yield": null
+      }
+    },
+    {
+      "title": "Stock — MYT4U Electronics Co.",
+      "description": "High inflation leads to poor share price for this home electronics seller.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
+      "details": {
+        "symbol": "MYT4U",
+        "price": 5,
+        "range": [
+          5,
+          30
+        ],
+        "dividend": 0,
+        "yield": null
+      }
+    },
+    {
+      "title": "Stock — MYT4U Electronics Co.",
+      "description": "Weak market leads to sagging share price for this home electronics seller.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
+      "details": {
+        "symbol": "MYT4U",
+        "price": 10,
+        "range": [
+          5,
+          30
+        ],
+        "dividend": 0,
+        "yield": null
+      }
+    },
+    {
+      "title": "Stock — MYT4U Electronics Co.",
+      "description": "Fast growing seller of home electronics headed by 32 year old Harvard grad.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
+      "details": {
+        "symbol": "MYT4U",
+        "price": 20,
+        "range": [
+          5,
+          30
+        ],
+        "dividend": 0,
+        "yield": null
+      }
+    },
+    {
+      "title": "Stock — MYT4U Electronics Co.",
+      "description": "Strong market leads to strong share price for this home electronics seller.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
+      "details": {
+        "symbol": "MYT4U",
+        "price": 30,
+        "range": [
+          5,
+          30
+        ],
+        "dividend": 0,
+        "yield": null
+      }
+    },
+    {
+      "title": "Stock - MTY4U Electronics Co.",
+      "description": "Low interest rates lead to substantial share price for this home electronics seller.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
+      "details": {
+        "symbol": "MYT4U",
+        "price": 30,
+        "range": [
+          5,
+          30
+        ],
+        "dividend": 0,
+        "yield": null
+      }
+    },
+    {
+      "title": "Stock - MTY4U Electronics Co.",
+      "description": "Booming market leads to record share price of this home electronics seller!\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
+      "details": {
+        "symbol": "MYT4U",
+        "price": 40,
+        "range": [
+          5,
+          30
+        ],
+        "dividend": 0,
+        "yield": null
+      }
+    },
+    {
+      "title": "Stock — MYT4U Electronics Co.",
+      "description": "Company reorganizes! Massive losses due to over-expansion and recession. Stockholders lose 1/2 of their ownership rights.\nEveryone who owns MYT4U shares cuts shares owned to 1/2 previous value. (Pay no money, your total cost does not change.)\nStill no dividends. No one may buy or sell at this time.",
+      "details": {
+        "symbol": "MYT4U",
+        "flavor": "Reverse split 1 for 2",
+        "effect": {
+          "count": 0.5
+        }
+      }
+    },
+    {
+      "title": "Stock — MYT4U Electronics Co.",
+      "description": "Business is up dramatically and the company is doing so well their shares have just split!\n<u>Everyone who owns MYT4U shares</u> doubles the numbers of shares they own. (Pay no money, your total cost does not change.)\nStill no dividends. No one may buy or sell at this time.",
+      "details": {
+        "symbol": "MYT4U",
+        "flavor": "Split 2 for 1",
+        "effect": {
+          "count": 2
+        }
       }
     },
     {
       "title": "Stock - OK4U Drug Co.",
-      "description": "Major drug manufacturer. Price reflects recent media exposure of adverse side effects. Use this yourself or sell to another player.",
+      "description": "Market panic causes crash in the shares of this long time maker of medicines.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
       "details": {
-        "Symbol": "OK4U",
-        "Dividend (if held at time of pay)": "$0",
-        "Today's Price": "$40",
-        "Trading Range": "$10 to $50"
-      }
-    },
-    {
-      "title": "Stock - MTY4U Electronics Co.",
-      "description": "Electronics manufacturer missed 3rd quarter earnings estimate. Stock drops. Use this yourself or sell to another player.",
-      "details": {
-        "Symbol": "MTY4U",
-        "Dividend (if held at time of pay)": "$0",
-        "Today's Price": "$5",
-        "Trading Range": "$5 to $50"
-      }
-    },
-    {
-      "title": "Stock — MYT4U Electronics Co.",
-      "description": "High inflation leads to poor share price for this home electronics seller.",
-      "details": {
-        "Symbol": "MYT4U",
-        "Price": "$5",
-        "Trading Range": "$5 to $30",
-        "Dividend": "None (ROI = 0%)",
-        "Buy Permission": "Only you may buy as many shares as you want",
-        "Sell Permission": "<u>Everyone may sell</u> at this price"
-      }
-    },
-    {
-      "title": "Stock — MYT4U Electronics Co.",
-      "description": "High-tech consumer electronics firm. Known for innovating quickly and marketing well.",
-      "details": "Symbol: MYT4U / Added at: Today's price $5. Trading Range: $2 to $40"
-    },
-    {
-      "title": "Stock — MYT4U Electronics Co.",
-      "description": "Weak market leads to sagging share price for this home electronics seller. Only you may buy as many shares as you want at this price. <u>Everyone may sell</u> at this price. Symbol MYT4U Today’s price: $10 No dividend (Yield or ROI = 0%)",
-      "details": {
-        "Trading Range": "5"
-      }
-    },
-    {
-      "title": "Stock — MYT4U Electronics Co.",
-      "description": "Low interest rates lead to substantial share price for this home electronics seller.",
-      "details": {
-        "Symbol": "MYT4U",
-        "Price": "$30",
-        "Trading Range": "$5 to $30",
-        "Dividend": "None (ROI = 0%)",
-        "Buy Permission": "Only you may buy as many shares as you want",
-        "Sell Permission": "<u>Everyone may sell</u> at this price"
-      }
-    },
-    {
-      "title": "Stock — MYT4U Electronics Co.",
-      "description": "Booming market leads to record share price of this home electronics seller! Only you may buy as many shares as you want at this price. <u>Everyone may sell</u> at this price. Symbol MYT4U Today’s price: $40 No dividend (Yield or ROI = 0%)",
-      "details": {
-        "Trading Range": "5"
-      }
-    },
-    {
-      "title": "Stock - MTY4U Electronics Co.",
-      "description": "Electronics manufacturer has new product ready for market. Stock rises. Use this yourself or sell to another player.",
-      "details": {
-        "Symbol": "MTY4U",
-        "Dividend (if held at time of pay)": "$0",
-        "Today's Price": "$40",
-        "Trading Range": "$5 to $50"
-      }
-    },
-    {
-      "title": "Stock - MTY4U Electronics Co.",
-      "description": "Electronics manufacturer has new product ready for market. Stock rises. Use this yourself or sell to another player.",
-      "details": {
-        "Symbol": "MTY4U",
-        "Dividend (if held at time of pay)": "$0",
-        "Today's Price": "$40",
-        "Trading Range": "$5 to $50"
-      }
-    },
-    {
-      "title": "Stock — MYT4U Electronics Co.",
-      "description": "Company reorganizes! Massive losses due to over-expansion and recession. Stockholders lose 1/2 of their ownership rights.",
-      "details": {
-        "Symbol": "MYT4U",
-        "Action": "Reverse split 1 for 2",
-        "Dividend": "None",
-        "Buy/Sell": "No one may buy or sell at this time"
-      }
-    },
-    {
-      "title": "Stock - MTY4U Electronics Co.",
-      "description": "Company stock just split. Use this yourself or sell to another player.",
-      "details": {
-        "Symbol": "MTY4U",
-        "Dividend (if held at time of pay)": "$0",
-        "Split": "2 for 1"
+        "symbol": "OK4U",
+        "price": 1,
+        "range": [
+          5,
+          40
+        ],
+        "dividend": 0,
+        "yield": null
       }
     },
     {
       "title": "Stock — OK4U Drug Co.",
-      "description": "Market panic causes crash in the shares of this long-time maker of medicines.",
+      "description": "Interest rates cripple share price of this long time maker of medicines.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
       "details": {
-        "Symbol": "OK4U",
-        "Price": "$1",
-        "Trading Range": "$5 to $40",
-        "Dividend": "None (ROI = 0%)",
-        "Buy Permission": "Only you may buy as many shares as you want",
-        "Sell Permission": "<u>Everyone may sell</u> at this price"
+        "symbol": "OK4U",
+        "price": 5,
+        "range": [
+          5,
+          40
+        ],
+        "dividend": 0,
+        "yield": null
+      }
+    },
+    {
+      "title": "Stock — OK4U Drug Co.",
+      "description": "Inflation worries cause poor share price of this long time maker of medicines.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
+      "details": {
+        "symbol": "OK4U",
+        "price": 10,
+        "range": [
+          5,
+          40
+        ],
+        "dividend": 0,
+        "yield": null
+      }
+    },
+    {
+      "title": "Stock — OK4U Drug Co.",
+      "description": "High interest rates cause poor share price of this long time maker of medicines.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
+      "details": {
+        "symbol": "OK4U",
+        "price": 10,
+        "range": [
+          5,
+          40
+        ],
+        "dividend": 0,
+        "yield": null
       }
     },
     {
       "title": "Stock - OK4U Drug Co.",
-      "description": "Stock price now reflects recent study validating product effectiveness. Use this yourself or sell to another player.",
+      "description": "Long time maker of medicines; especially drugs for people over 70.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
       "details": {
-        "Symbol": "OK4U",
-        "Dividend (if held at time of pay)": "$0",
-        "Today's Price": "$5",
-        "Trading Range": "$10 to $50"
+        "symbol": "OK4U",
+        "price": 30,
+        "range": [
+          5,
+          40
+        ],
+        "dividend": 0,
+        "yield": null
       }
     },
     {
       "title": "Stock — OK4U Drug Co.",
-      "description": "High interest rates cause poor share price of this long-time maker of medicines.",
+      "description": "Market strength leads to high share price for this long time maker of medicines.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
       "details": {
-        "Symbol": "OK4U",
-        "Price": "$10",
-        "Trading Range": "$5 to $40",
-        "Dividend": "None (ROI = 0%)",
-        "Buy Permission": "Only you may buy as many shares as you want",
-        "Sell Permission": "<u>Everyone may sell</u> at this price"
+        "symbol": "OK4U",
+        "price": 40,
+        "range": [
+          5,
+          40
+        ],
+        "dividend": 0,
+        "yield": null
       }
     },
     {
       "title": "Stock — OK4U Drug Co.",
-      "description": "Inflation worries cause poor share price of this long-time maker of medicines.",
+      "description": "Low inflation leads to high share price for this long time maker of medicines.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
       "details": {
-        "Symbol": "OK4U",
-        "Price": "$10",
-        "Trading Range": "$5 to $40",
-        "Dividend": "None (ROI = 0%)",
-        "Buy Permission": "Only you may buy as many shares as you want",
-        "Sell Permission": "<u>Everyone may sell</u> at this price"
+        "symbol": "OK4U",
+        "price": 40,
+        "range": [
+          5,
+          40
+        ],
+        "dividend": 0,
+        "yield": null
       }
     },
     {
       "title": "Stock — OK4U Drug Co.",
-      "description": "Market strength leads to high share price for this long-time maker of medicines.",
+      "description": "Booming market raises share price of this long time maker of medicines.\n<u>Only you may buy</u> as many units as you want at this price.\n<u>Everyone may sell</u> at this price.",
       "details": {
-        "Symbol": "OK4U",
-        "Price": "$40",
-        "Trading Range": "$5 to $40",
-        "Dividend": "None (ROI = 0%)",
-        "Buy Permission": "Only you may buy as many shares as you want",
-        "Sell Permission": "<u>Everyone may sell</u> at this price"
+        "symbol": "OK4U",
+        "price": 50,
+        "range": [
+          5,
+          40
+        ],
+        "dividend": 0,
+        "yield": null
       }
     },
     {
       "title": "Stock — OK4U Drug Co.",
-      "description": "Large pharmaceutical firm. Specialty drug division expected to grow quickly.",
-      "details": "Symbol: OK4U / Added at: Today's price $40. Trading Range: $15 to $40. No dividends."
-    },
-    {
-      "title": "Stock — OK4U Drug Co.",
-      "description": "Low inflation leads to high share price for this long time maker of medicines. Only you may buy as many shares as you want at this price. <u>Everyone may sell</u> at this price. Symbol OK4U Today’s price: $40 No dividend (Yield or ROI = 0%)",
+      "description": "Company flounders! Massive losses due to tainted drug scandal. All stockholders lose 1/2 of their ownership rights.\nEveryone who owns OK4U shares cuts shares owned to 1/2 previous value. (Pay no money, your total cost does not change.)\nStill no dividends. No one may buy or sell at this time.",
       "details": {
-        "Trading Range": "5"
+        "symbol": "OK4U",
+        "flavor": "Reverse split 1 for 2"
       }
     },
     {
       "title": "Stock — OK4U Drug Co.",
-      "description": "Booming market raises share price of this long time maker of medicines. Only you may buy as many shares as you want at this price. <u>Everyone may sell</u> at this price. Symbol OK4U Today’s price: $50 No dividend (Yield or ROI= 0%)",
+      "description": "Things are going so well for the company that their shares have just split!\n<u>Everyone who owns OK4U shares</u> doubles the numbers of shares they own. (Your total cost does not change.)\nNo dividends. No one may buy or sell at this time.",
       "details": {
-        "Trading Range": "5"
-      }
-    },
-    {
-      "title": "Stock — OK4U Drug Co.",
-      "description": "Company flounders! Massive losses due to tainted drug scandal. All stockholders lose 1/2 of their ownership rights.",
-      "details": {
-        "Symbol": "OK4U",
-        "Action": "Reverse split 1 for 2",
-        "Dividend": "None",
-        "Buy/Sell": "No one may buy or sell at this time"
-      }
-    },
-    {
-      "title": "Stock — OK4U Drug Co.",
-      "description": "Things are going so well for the company that their shares have just split!",
-      "details": {
-        "Symbol": "OK4U",
-        "Action": "Split 2 for 1",
-        "Dividend": "None",
-        "Buy/Sell": "No one may buy or sell at this time"
+        "symbol": "OK4U",
+        "flavor": "Split 2 for 1"
       }
     },
     {
       "title": "Condo For Sale - 2Br/1Ba",
-      "description": "Parents selling 2/1 condo used by their child in college town. Lots of demand for rentals in this area. Use this yourself or sell to another player.",
+      "description": "Parents selling 2/1 condo used by their child in college town. Lots of demand for rentals in this area.\nUse this yourself or sell to another player.\n42% ROI, may sell for $45,000 to $65,000.",
       "details": {
         "cost": 40000,
         "liability": 36000,
         "down": 4000,
-        "cashflow": 140,
-        "ROI": "42%",
-        "Sell Range": "$45,000 to $65,000"
+        "cashflow": 140
       }
     },
     {
       "title": "Condo For Sale — 2Br/1Ba",
-      "description": "Bank foreclosure! 2/1 condo in desirable neighborhood close to jobs and stores. Make offer, favorable financing by bank. Use this yourself or sell to another player. 53% ROI, may sell for $45,000 to $65,000.",
+      "description": "Bank foreclosure! 2/1 condo in desirable neighborhood close to jobs and stores. Make offer, favorable financing by bank.\nUse this yourself or sell to another player.\n53% ROI, may sell for $45,000 to $65,000.",
       "details": {
         "cost": 40000,
         "liability": 35000,
-        "down": 5000
+        "down": 5000,
+        "cashflow": 220
       }
     },
     {
       "title": "Condo For Sale — 2Br/1Ba",
-      "description": "Nice 2/1 condo available due to marriage of owner. Bad area. Needs work. Use this yourself or sell to another player. 24% ROI, may sell for $45,000 to $65,000.",
+      "description": "Nice 2/1 condo available due to marriage of owner. Bad area. Needs work.\nUse this yourself or sell to another player.\n24% ROI, may sell for $45,000 to $65,000.",
       "details": {
         "cost": 50000,
         "liability": 45000,
@@ -774,51 +938,47 @@
     },
     {
       "title": "Condo For Sale — 2Br/1Ba",
-      "description": "Older 2/1 condo offered by young couple who want to move up to a 3/2 house due to growing family.",
+      "description": "Older 2/1 condo offered by young couple who want to move up to a 3/2 house due to growing family. Available soon.\nUse this yourself or sell to another player.\n38% ROI, may sell for $45,000 to $65,000.",
       "details": {
         "cost": 55000,
         "liability": 50000,
         "down": 5000,
-        "cashflow": 160,
-        "ROI": "38%",
-        "Usage": "Use this yourself or sell to another player"
+        "cashflow": 160
       }
     },
     {
       "title": "Condo For Sale — 2Br/1Ba",
-      "description": "Older 2/1 condo offered by young couple who want to move up to a 3/2 house due to growing family.",
+      "description": "Excellent 2/1 condo with many extras. For sale due to business success of owner. She's moving up, so can you.\nUse this yourself or sell to another player.\n-24% ROI, may sell for $45,000 to $65,000.",
       "details": {
-        "cost": 55000,
-        "liability": 50000,
+        "cost": 60000,
+        "liability": 55000,
         "down": 5000,
-        "cashflow": 160,
-        "ROI": "38%",
-        "Usage": "Use this yourself or sell to another player"
+        "cashflow": -100
       }
     },
     {
       "title": "House For Sale — 3Br/2Ba",
-      "description": "Low down payment to pick up this 3/2 house, owner /seller unexpectedly moving out of town. Right person will do well. Use this yourself or sell to another player. 40% ROI, may sell for $65,000 to $135,000.",
+      "description": "3/2 house in older area offered by Highway Department. Market has crashed. NO bids at last week's auction.\nUse this yourself or sell to another player.\n??% ROI, may sell for $65,000 to $135,000.",
       "details": {
         "cost": 50000,
-        "liability": 47000,
-        "down": 3000,
+        "liability": 50000,
+        "down": 0,
+        "cashflow": -100
+      }
+    },
+    {
+      "title": "House For Sale — 3Br/2Ba",
+      "description": "Not lived in for 6 months , this bank-foreclosed house just reduced. Loan includes estimated repair costs.\nUse this yourself or sell to another player.\n??% ROI, may sell for $65,000 to $135,000.",
+      "details": {
+        "cost": 50000,
+        "liability": 50000,
+        "down": 0,
         "cashflow": 100
       }
     },
     {
       "title": "House For Sale — 3Br/2Ba",
-      "description": "Low down payment to pick up this 3/2 house, owner /seller unexpectedly moving out of town. Right person will do well. Use this yourself or sell to another player. 40% ROI, may sell for $65,000 to $135,000.",
-      "details": {
-        "cost": 50000,
-        "liability": 47000,
-        "down": 3000,
-        "cashflow": 100
-      }
-    },
-    {
-      "title": "House For Sale — 3Br/2Ba",
-      "description": "Low down payment to pick up this 3/2 house, owner /seller unexpectedly moving out of town. Right person will do well. Use this yourself or sell to another player. 40% ROI, may sell for $65,000 to $135,000.",
+      "description": "Low down payment to pick up this 3/2 house, owner/seller unexpectedly moving out of town. Right person will do well.\nUse this yourself or sell to another player.\n40% ROI, may sell for $65,000 to $135,000.",
       "details": {
         "cost": 50000,
         "liability": 47000,
@@ -828,7 +988,7 @@
     },
     {
       "title": "House for Sale — 3 Br/2Ba",
-      "description": "Nice 3/2 house available in depressed market due to layoffs. Would make good investment property for right buyer. Use this yourself or sell to another player. 60% ROI, may sell for $65,000 to $135,000.",
+      "description": "Nice 3/2 house available in depressed market due to layoffs. Would make good investment property for right buyer.\nUse this yourself or sell to another player.\n60% ROI, may sell for $65,000 to $135,000.",
       "details": {
         "cost": 50000,
         "liability": 46000,
@@ -838,7 +998,7 @@
     },
     {
       "title": "House For Sale — 3Br/2Ba",
-      "description": "Nice 3/2 rental house suddenly available due to estate closing. Well maintained older property with existing tenant. Use this yourself or sell to another player. 38% ROI, may sell for $65,000 to $135,000.",
+      "description": "Nice 3/2 rental house suddenly available due to estate closing. Well maintained older property with existing tenant.\nUse this yourself or sell to another player.\n38% ROI, may sell for $65,000 to $135,000.",
       "details": {
         "cost": 65000,
         "liability": 60000,
@@ -848,29 +1008,27 @@
     },
     {
       "title": "You Find a Great Deal",
-      "description": "Offer to buy 3/2 house from your brother-in-law. Bank says you must bring the downment.",
+      "description": "Older 3/2 house, repossessed by government agency. Ready to go with government financing and a tenant.\nBorrow from the Bank if you must, but ... BUY THIS!\n132% ROI, may sell for $65,000 to $135,000.",
       "details": {
-        "cost": 50000,
-        "liability": 45000,
-        "down": 5000,
-        "cashflow": 200
+        "cost": 35000,
+        "liability": 33000,
+        "down": 2000,
+        "cashflow": 220
       }
     },
     {
       "title": "You Find a Great Deal!",
-      "description": "Company bought transferred manager's 3/2 house. No current tenant, has been on market 6 months, just reduced. Borrow from the Bank if you must, but... BUY THIS!",
+      "description": "Company bought transferred manager's 3/2 house. No current tenant, has been on market 6 months, just reduced.\nBorrow from the Bank if you must, but ... BUY THIS!\n150% ROI, may sell for $65,000 to $135,000.",
       "details": {
         "cost": 45000,
         "liability": 43000,
         "down": 2000,
-        "cashflow": 250,
-        "ROI": "150%",
-        "Sell Range": "$65,000 to $135,000"
+        "cashflow": 250
       }
     },
     {
       "title": "Start a Company Part Time",
-      "description": "Invent new way of making widgets, so you start a company to produce and sell them. No profits during startup, long hours, no extra pay. Use this yourself or sell to another player. 0% ROI, may sell for ??, if anything.",
+      "description": "Invent new way of making widgets, so you start a company to produce and sell them. No profits during startup, long hours, no extra pay.\nUse this yourself or sell to another player.\n0% ROI, may sell for ??, if anything.",
       "details": {
         "cost": 3000,
         "liability": 0,
@@ -880,61 +1038,61 @@
     },
     {
       "title": "Start a Company Part Time",
-      "description": "Develop interesting idea for a software program. You start a company to produce and sell it. No profits during startup, long hours, no extra pay.",
+      "description": "Develop interesting idea for a software program, so you start a company to produce and sell it. No profits during startup, long hours, no extra pay.\nUse this yourself or sell to another player.\n0% ROI, may sell for ??, if anything.",
       "details": {
         "cost": 5000,
-        "down": 5000,
         "liability": 0,
-        "cashflow": 0,
-        "ROI": "0%",
-        "Usage": "Use this yourself or sell to another player"
+        "down": 5000,
+        "cashflow": 0
       }
     },
     {
       "title": "10 Acres Raw Land",
-      "description": "Wonderful park-like setting with stream on acres in undeveloped area. No roads, no utilities, no noise. Use this yourself or sell to another player.",
+      "description": "Wonderful park-like setting with stream on 10 acres in undeveloped area. No roads, no utilities, no noise.\nUse this yourself or sell to another player.\n0% ROI, may sell for ??, if anything.",
       "details": {
         "cost": 5000,
-        "down": 5000,
         "liability": 0,
+        "down": 5000,
         "cashflow": 0
       }
     },
     {
       "title": "Friend Needs Cash... Quick",
-      "description": "A friend has urgent need for money. Will sell you 10 one-ounce gold Krugerrands, well below going rate, for $300 each.",
+      "description": "A friend has urgent need for money. Will sell you 10 one-ounce gold Krugerrands, well below going rate, for $300 each.\nUse this yourself or sell to another player.\n0% ROI, may sell for ??, if anything.",
       "details": {
         "cost": 3000,
-        "down": 3000,
         "liability": 0,
-        "cashflow": 0,
-        "ROI": "0%",
-        "Usage": "Use it for yourself or sell to another player"
+        "down": 3000,
+        "cashflow": 0
       }
     },
     {
       "title": "Rare Gold Coin",
-      "description": "You inherited this coin from your great-grandmother. It is very rare and is increasing in value each year.",
+      "description": "You spot an unusual 1500's Royal Spanish New World (Havana Mint Only) \"pieces of eight\" gold coin in good condition at a swap meet. One only, seller asks $500.\nUse this yourself or sell to another player.\n0% ROI, may sell for ??, if anything.",
       "details": {
-        "Symbol": "GOLD",
-        "Today's Price": "$500",
-        "Trading Range": "$500 to $900"
+        "symbol": "GOLD",
+        "liability": 0,
+        "down": 500,
+        "cashflow": 0
       }
     },
     {
       "title": "Sister-In-Law Borrows Money",
-      "description": "Sister-In-Law is downsized. Needs $5,000 to make house payments. She promises to pay you back $10,000 after she finds a new job. Use it for yourself or sell to another player. 2? % ROI",
+      "description": "Sister-In-Law is downsized. Needs $5,000 to make house payments. She promises to pay you back $10,000 after she finds a new job.\nUse it for yourself or sell to another player.\n??% ROI",
       "details": {
         "cost": 5000,
-        "down": 5000,
         "liability": 0,
+        "down": 5000,
         "cashflow": 0
       }
     },
     {
       "title": "Tenant Damages Your Property",
-      "description": "Tenant fails to pay rent for 2 months and then skips toan leaving damaage to your rental property.\nInsurance covers most damage and costs, but you still are out of pocket $500. Pay $500 if you own any rental property. (Bank will lend you the money on usual terms.) Only the person who draws this card pays.",
-      "details": {}
+      "description": "Tenant fails to pay rent for 2 months and then skips town leaving damage to your rental property.\nInsurance covers most damage and costs, but you still are out of pocket $500.\nPay $500 if you own any rental property. (Bank will lend you the money on usual terms.)\nOnly the person who draws this card pays.",
+      "effect": {
+        "cost": 500,
+        "condition": "holding RE own"
+      }
     }
   ],
   "market": [
@@ -1362,12 +1520,3 @@
     }
   ]
 }
-
-
-
-
-
-
-
-
-
