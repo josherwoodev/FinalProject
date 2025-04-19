@@ -1,5 +1,27 @@
 {
-  "bigOpps": [
+  "card": {
+    "title": "",
+    "description": "",
+    "holding": {
+      "type": "RE|BUSINESS|STOCK|NONE",
+      "subtype": "AUTO|APT|PLEX|HOUSE|CONDO|LTD|LAND|MALL|BNB|CAR_WASH|PIZZA|CD|MUTUAL|PREFERRED|STOCK|STARTUP|GOLD",
+      "count": 0,
+      "yield": "",
+      "name|symbol": "",
+      "down": 0,
+      "cost|price": 0,
+      "liability": 0,
+      "cashflow|dividend": 0
+    },
+    "offer": {},
+    "effect": {},
+    "child": 0,
+    "tradeable": false,
+    "canBuy": "SELF|ALL",
+    "canSell": "NONE|ALL",
+    "target": "SELF|ALL"
+  },
+  "bigDeal": [
     {
       "title": "Automated Business For Sale",
       "description": "30 video/pinball machines at long term contract locations for sale by overextended owner. Owner is desperate.\nUse this yourself or sell to another player.\n96% ROI. No other buyers in sight.",
@@ -11,7 +33,10 @@
         "cost": 100000,
         "liability": 80000,
         "cashflow": 1600
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Automated Business For Sale",
@@ -24,7 +49,10 @@
         "cost": 125000,
         "liability": 100000,
         "cashflow": 1800
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Automated Business For Sale",
@@ -37,7 +65,10 @@
         "cost": 150000,
         "liability": 120000,
         "cashflow": 2500
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Automated Business For Sale",
@@ -50,7 +81,10 @@
         "cost": 200000,
         "liability": 160000,
         "cashflow": 2700
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Apartment House For Sale",
@@ -59,11 +93,15 @@
         "type": "RE",
         "subtype": "APT",
         "name": "Apartment(12)",
+        "count": 12,
         "down": 50000,
         "cost": 350000,
         "liability": 300000,
         "cashflow": 2400
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Apartment House For Sale",
@@ -72,11 +110,15 @@
         "type": "RE",
         "subtype": "APT",
         "name": "Apartment(24)",
+        "count": 24,
         "down": 50000,
         "cost": 550000,
         "liability": 500000,
         "cashflow": 2800
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Apartment Houses For Sale",
@@ -85,11 +127,15 @@
         "type": "RE",
         "subtype": "APT",
         "name": "Apartment(24)",
+        "count": 24,
         "down": 75000,
         "cost": 575000,
         "liability": 500000,
         "cashflow": 3400
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Apartment Complex For Sale",
@@ -98,11 +144,15 @@
         "type": "RE",
         "subtype": "APT",
         "name": "Apartment(60)",
+        "count": 60,
         "down": 200000,
         "cost": 1200000,
         "liability": 1000000,
         "cashflow": 11000
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Duplex For Sale",
@@ -110,12 +160,16 @@
       "holding": {
         "type": "RE",
         "subtype": "PLEX",
+        "count": 2,
         "name": "Duplex",
         "down": 8000,
         "cost": 45000,
         "liability": 37000,
         "cashflow": 320
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Duplex For Sale",
@@ -123,12 +177,16 @@
       "holding": {
         "type": "RE",
         "subtype": "PLEX",
+        "count": 2,
         "name": "Duplex",
         "down": 8000,
         "cost": 50000,
         "liability": 42000,
         "cashflow": 240
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Duplex For Sale",
@@ -136,12 +194,16 @@
       "holding": {
         "type": "RE",
         "subtype": "PLEX",
+        "count": 2,
         "name": "Duplex",
         "down": 6000,
         "cost": 60000,
         "liability": 54000,
         "cashflow": 300
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Duplex For Sale",
@@ -149,12 +211,16 @@
       "holding": {
         "type": "RE",
         "subtype": "PLEX",
+        "count": 2,
         "name": "Duplex",
         "down": 12000,
         "cost": 60000,
         "liability": 48000,
         "cashflow": 400
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Duplex For Sale",
@@ -162,12 +228,16 @@
       "holding": {
         "type": "RE",
         "subtype": "PLEX",
+        "count": 2,
         "name": "Duplex",
         "down": 7000,
         "cost": 70000,
         "liability": 63000,
         "cashflow": 140
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "4-plex For Sale",
@@ -175,12 +245,16 @@
       "holding": {
         "type": "RE",
         "subtype": "PLEX",
+        "count": 4,
         "name": "4-Plex",
         "down": 20000,
         "cost": 80000,
         "liability": 60000,
         "cashflow": 400
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "4-plex For Sale",
@@ -188,12 +262,16 @@
       "holding": {
         "type": "RE",
         "subtype": "PLEX",
+        "count": 4,
         "name": "4-Plex",
         "down": 16000,
         "cost": 80000,
         "liability": 64000,
         "cashflow": 750
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "4-plex For Sale",
@@ -201,12 +279,16 @@
       "holding": {
         "type": "RE",
         "subtype": "PLEX",
+        "count": 4,
         "name": "4-Plex",
         "down": 15000,
         "cost": 90000,
         "liability": 75000,
         "cashflow": 500
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "4-plex For Sale",
@@ -214,12 +296,16 @@
       "holding": {
         "type": "RE",
         "subtype": "PLEX",
+        "count": 4,
         "name": "4-Plex",
         "down": 20000,
         "cost": 100000,
         "liability": 80000,
         "cashflow": 800
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "4-plex For Sale",
@@ -227,12 +313,16 @@
       "holding": {
         "type": "RE",
         "subtype": "PLEX",
+        "count": 4,
         "name": "4-Plex",
         "down": 15000,
         "cost": 125000,
         "liability": 110000,
         "cashflow": 600
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "4-plex For Sale",
@@ -240,12 +330,16 @@
       "holding": {
         "type": "RE",
         "subtype": "PLEX",
+        "count": 4,
         "name": "4-Plex",
         "down": 32000,
         "cost": 140000,
         "liability": 108000,
         "cashflow": 2000
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "8-plex For Sale",
@@ -253,12 +347,16 @@
       "holding": {
         "type": "RE",
         "subtype": "PLEX",
+        "count": 8,
         "name": "8-Plex",
         "down": 32000,
         "cost": 160000,
         "liability": 128000,
         "cashflow": 1700
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "8-plex For Sale",
@@ -266,12 +364,16 @@
       "holding": {
         "type": "RE",
         "subtype": "PLEX",
+        "count": 8,
         "name": "8-Plex",
         "down": 40000,
         "cost": 200000,
         "liability": 160000,
         "cashflow": 1600
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "8-plex For Sale",
@@ -279,12 +381,16 @@
       "holding": {
         "type": "RE",
         "subtype": "PLEX",
+        "count": 8,
         "name": "8-Plex",
         "down": 40000,
         "cost": 220000,
         "liability": 180000,
         "cashflow": 1700
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "8-plex For Sale",
@@ -292,12 +398,16 @@
       "holding": {
         "type": "RE",
         "subtype": "PLEX",
+        "count": 8,
         "name": "8-Plex",
         "down": 40000,
         "cost": 240000,
         "liability": 200000,
         "cashflow": 950
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "House For Sale — 3Br/2Ba",
@@ -310,7 +420,10 @@
         "cost": 65000,
         "liability": 58000,
         "cashflow": 150
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "House For Sale — 3Br/2Ba",
@@ -323,7 +436,10 @@
         "cost": 65000,
         "liability": 57000,
         "cashflow": 300
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "House For Sale — 3Br/2Ba",
@@ -336,7 +452,10 @@
         "cost": 67000,
         "liability": 55000,
         "cashflow": 400
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "House For Sale — 3Br/2Ba",
@@ -349,7 +468,10 @@
         "cost": 70000,
         "liability": 61000,
         "cashflow": 300
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "House For Sale — 3Br/2Ba",
@@ -362,7 +484,10 @@
         "cost": 70000,
         "liability": 50000,
         "cashflow": 500
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "House For Sale — 3Br/2Ba",
@@ -375,7 +500,10 @@
         "cost": 75000,
         "liability": 68000,
         "cashflow": 300
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "House For Sale — 3Br/2Ba",
@@ -388,7 +516,10 @@
         "cost": 125000,
         "liability": 105000,
         "cashflow": -100
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Limited Partner Wanted",
@@ -401,7 +532,10 @@
         "cost": 20000,
         "liability": 0,
         "cashflow": 800
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Limited Partner Wanted",
@@ -414,7 +548,10 @@
         "cost": 25000,
         "liability": 0,
         "cashflow": 1000
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Limited Partner Wanted",
@@ -427,7 +564,10 @@
         "cost": 30000,
         "liability": 0,
         "cashflow": 1000
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Limited Partner Wanted",
@@ -440,7 +580,10 @@
         "liability": 0,
         "down": 30000,
         "cashflow": 1500
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "20 Acres For Sale",
@@ -449,11 +592,15 @@
         "type": "STOCK",
         "subtype": "LAND",
         "name": "20 Acres",
+        "count": 20,
         "down": 20000,
         "cost": 20000,
         "liability": 0,
         "cashflow": 0
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Small Shopping Mall For Sale",
@@ -466,7 +613,10 @@
         "cost": 50000,
         "liability": 0,
         "cashflow": 800
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Bed & Breakfast For Sale",
@@ -479,7 +629,10 @@
         "cost": 150000,
         "liability": 120000,
         "cashflow": 1000
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Car Wash For Sale",
@@ -492,7 +645,10 @@
         "cost": 350000,
         "liability": 300000,
         "cashflow": 1500
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Pizza Franchise For Sale",
@@ -505,18 +661,20 @@
         "cost": 500000,
         "liability": 400000,
         "cashflow": 5000
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Sewer Line Breaks",
       "description": "Water everywhere at your 8-plex! Broken sewer line needs repair immediately.\nIf you own an 8-plex, pay $2,000 for new line. (Bank loan available on usual terms.)\nIf you own more than 1 8-plex, pay repairs on only 1.",
       "effect": {
         "cost": 2000,
-        "condition": {
-          "type": "RE",
-          "subtype": "PLEX",
-          "XXXX": ""
-        }
+        "type": "RE",
+        "subtype": "PLEX",
+        "count": 8,
+        "target": "SELF"
       }
     },
     {
@@ -524,28 +682,30 @@
       "description": "Tenant refuses to pay rent after losing job. When you get him evicted you discover significant damages to your property.\nInsurance covers most damages and costs, but you still are out of pocket $1,000.\nPay $1,000 if you own any rental real estate. (Bank loan available on usual terms.)\nOnly the person who draws this card pays.",
       "effect": {
         "cost": 1000,
-        "condition": {
-          "type": "RE"
-        }
+        "type": "RE",
+        "target": "SELF"
       }
     }
   ],
-  "smallOpps": [
+  "smallDeal": [
     {
       "title": "Certificates of Deposit",
       "description": "A leading bank offers this special Certificate of Deposit to its customers.\nGuaranteed interest and redeemable after any holding period.\n<u>Everyone may buy or sell</u> as many as they wish at this time.",
       "holding": {
         "type": "STOCK",
         "subtype": "CD",
-        "symbol": "CD",
-        "price": 4000,
+        "name": "CD",
+        "cost": 4000,
         "yield": "6%",
-        "dividend": 20,
+        "cashflow": 20,
         "range": [
           4000,
           4000
         ]
-      }
+      },
+      "tradeable": false,
+      "canBuy": "ALL",
+      "canSell": "ALL"
     },
     {
       "title": "Certificate of Deposit",
@@ -553,15 +713,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "CD",
-        "symbol": "CD",
-        "price": 5000,
+        "name": "CD",
+        "cost": 5000,
         "yield": "4.8%",
-        "dividend": 20,
+        "cashflow": 20,
         "range": [
           5000,
           5000
         ]
-      }
+      },
+      "tradeable": false,
+      "canBuy": "ALL",
+      "canSell": "ALL"
     },
     {
       "title": "Mutual Fund — GRO4US Fund",
@@ -569,15 +732,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "MUTUAL",
-        "symbol": "GRO4US",
-        "price": 10,
+        "name": "GRO4US",
+        "cost": 10,
         "range": [
           10,
           30
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Mutual Fund — GRO4US Fund",
@@ -585,15 +751,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "MUTUAL",
-        "symbol": "GRO4US",
-        "price": 20,
+        "name": "GRO4US",
+        "cost": 20,
         "range": [
           10,
           30
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Mutual Fund — GRO4US Fund",
@@ -601,15 +770,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "MUTUAL",
-        "symbol": "GRO4US",
-        "price": 30,
+        "name": "GRO4US",
+        "cost": 30,
         "range": [
           10,
           30
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Mutual Fund — GRO4US Fund",
@@ -617,15 +789,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "MUTUAL",
-        "symbol": "GRO4US",
-        "price": 30,
+        "name": "GRO4US",
+        "cost": 30,
         "range": [
           10,
           30
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Mutual Fund — GRO4US Fund",
@@ -633,15 +808,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "MUTUAL",
-        "symbol": "GRO4US",
-        "dividend": 0,
-        "price": 40,
+        "name": "GRO4US",
+        "cashflow": 0,
+        "cost": 40,
         "range": [
           10,
           30
         ],
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Preferred Stock—2BIG Power",
@@ -649,15 +827,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "PREFERRED",
-        "symbol": "2BIG",
-        "price": 1200,
-        "dividend": 10,
+        "name": "2BIG",
+        "cost": 1200,
+        "cashflow": 10,
         "range": [
           1200,
           1200
         ],
         "yield": "10%"
-      }
+      },
+      "tradeable": false,
+      "canBuy": "ALL",
+      "canSell": "ALL"
     },
     {
       "title": "Preferred Stock—2BIG Power",
@@ -665,15 +846,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "PREFERRED",
-        "symbol": "2BIG",
-        "price": 1200,
-        "dividend": 10,
+        "name": "2BIG",
+        "cost": 1200,
+        "cashflow": 10,
         "range": [
           1200,
           1200
         ],
         "yield": "10%"
-      }
+      },
+      "tradeable": false,
+      "canBuy": "ALL",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — ON2U Entertainment Co.",
@@ -681,15 +865,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "ON2U",
-        "price": 5,
+        "name": "ON2U",
+        "cost": 5,
         "range": [
           10,
           30
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — ON2U Entertainment Co.",
@@ -697,15 +884,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "ON2U",
-        "price": 10,
+        "name": "ON2U",
+        "cost": 10,
         "range": [
           10,
           30
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — ON2U Entertainment Co.",
@@ -713,15 +903,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "ON2U",
-        "price": 10,
+        "name": "ON2U",
+        "cost": 10,
         "range": [
           10,
           30
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — ON2U Entertainment Co.",
@@ -729,15 +922,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "ON2U",
-        "price": 20,
+        "name": "ON2U",
+        "cost": 20,
         "range": [
           10,
           30
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — ON2U Entertainment Co.",
@@ -745,15 +941,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "ON2U",
-        "price": 20,
+        "name": "ON2U",
+        "cost": 20,
         "range": [
           10,
           30
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — ON2U Entertainment Co.",
@@ -761,15 +960,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "ON2U",
-        "price": 30,
+        "name": "ON2U",
+        "cost": 30,
         "range": [
           10,
           30
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — ON2U Entertainment Co.",
@@ -777,15 +979,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "ON2U",
-        "price": 30,
+        "name": "ON2U",
+        "cost": 30,
         "range": [
           10,
           30
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — ON2U Entertainment Co.",
@@ -793,15 +998,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "ON2U",
-        "price": 40,
+        "name": "ON2U",
+        "cost": 40,
         "range": [
           10,
           30
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — MYT4U Electronics Co.",
@@ -809,15 +1017,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "MYT4U",
-        "price": 1,
+        "name": "MYT4U",
+        "cost": 1,
         "range": [
           5,
           30
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — MYT4U Electronics Co.",
@@ -825,15 +1036,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "MYT4U",
-        "price": 5,
+        "name": "MYT4U",
+        "cost": 5,
         "range": [
           5,
           30
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — MYT4U Electronics Co.",
@@ -841,15 +1055,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "MYT4U",
-        "price": 5,
+        "name": "MYT4U",
+        "cost": 5,
         "range": [
           5,
           30
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — MYT4U Electronics Co.",
@@ -857,15 +1074,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "MYT4U",
-        "price": 10,
+        "name": "MYT4U",
+        "cost": 10,
         "range": [
           5,
           30
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — MYT4U Electronics Co.",
@@ -873,15 +1093,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "MYT4U",
-        "price": 20,
+        "name": "MYT4U",
+        "cost": 20,
         "range": [
           5,
           30
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — MYT4U Electronics Co.",
@@ -889,15 +1112,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "MYT4U",
-        "price": 30,
+        "name": "MYT4U",
+        "cost": 30,
         "range": [
           5,
           30
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — MYT4U Electronics Co.",
@@ -905,15 +1131,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "MYT4U",
-        "price": 30,
+        "name": "MYT4U",
+        "cost": 30,
         "range": [
           5,
           30
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — MYT4U Electronics Co.",
@@ -921,40 +1150,41 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "MYT4U",
-        "price": 40,
+        "name": "MYT4U",
+        "cost": 40,
         "range": [
           5,
           30
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — MYT4U Electronics Co.",
       "description": "Company reorganizes! Massive losses due to over-expansion and recession. Stockholders lose 1/2 of their ownership rights.\nEveryone who owns MYT4U shares cuts shares owned to 1/2 previous value. (Pay no money, your total cost does not change.)\nStill no dividends. No one may buy or sell at this time.",
-      "holding": {
+      "flavor": "Reverse split 1 for 2",
+      "effect": {
         "type": "STOCK",
-        "subtype": "XXXX",
-        "symbol": "MYT4U",
-        "flavor": "Reverse split 1 for 2",
-        "effect": {
-          "count": 0.5
-        }
+        "subtype": "STOCK",
+        "name": "MYT4U",
+        "multiplier": 0.5,
+        "target": "ALL"
       }
     },
     {
       "title": "Stock — MYT4U Electronics Co.",
       "description": "Business is up dramatically and the company is doing so well their shares have just split!\n<u>Everyone who owns MYT4U shares</u> doubles the numbers of shares they own. (Pay no money, your total cost does not change.)\nStill no dividends. No one may buy or sell at this time.",
-      "holding": {
+      "flavor": "Split 2 for 1",
+      "effect": {
         "type": "STOCK",
-        "subtype": "XXXX",
-        "symbol": "MYT4U",
-        "flavor": "Split 2 for 1",
-        "effect": {
-          "count": 2
-        }
+        "subtype": "STOCK",
+        "name": "MYT4U",
+        "multiplier": 2,
+        "target": "ALL"
       }
     },
     {
@@ -963,15 +1193,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "OK4U",
-        "price": 1,
+        "name": "OK4U",
+        "cost": 1,
         "range": [
           5,
           40
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — OK4U Drug Co.",
@@ -979,15 +1212,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "OK4U",
-        "price": 5,
+        "name": "OK4U",
+        "cost": 5,
         "range": [
           5,
           40
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — OK4U Drug Co.",
@@ -995,15 +1231,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "OK4U",
-        "price": 10,
+        "name": "OK4U",
+        "cost": 10,
         "range": [
           5,
           40
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — OK4U Drug Co.",
@@ -1011,15 +1250,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "OK4U",
-        "price": 10,
+        "name": "OK4U",
+        "cost": 10,
         "range": [
           5,
           40
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — OK4U Drug Co.",
@@ -1027,15 +1269,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "OK4U",
-        "price": 30,
+        "name": "OK4U",
+        "cost": 30,
         "range": [
           5,
           40
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — OK4U Drug Co.",
@@ -1043,15 +1288,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "OK4U",
-        "price": 40,
+        "name": "OK4U",
+        "cost": 40,
         "range": [
           5,
           40
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — OK4U Drug Co.",
@@ -1059,15 +1307,18 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "OK4U",
-        "price": 40,
+        "name": "OK4U",
+        "cost": 40,
         "range": [
           5,
           40
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — OK4U Drug Co.",
@@ -1075,35 +1326,42 @@
       "holding": {
         "type": "STOCK",
         "subtype": "STOCK",
-        "symbol": "OK4U",
-        "price": 50,
+        "name": "OK4U",
+        "cost": 50,
         "range": [
           5,
           40
         ],
-        "dividend": 0,
+        "cashflow": 0,
         "yield": null
-      }
+      },
+      "tradeable": false,
+      "canBuy": "SELF",
+      "canSell": "ALL"
     },
     {
       "title": "Stock — OK4U Drug Co.",
       "description": "Company flounders! Massive losses due to tainted drug scandal. All stockholders lose 1/2 of their ownership rights.\nEveryone who owns OK4U shares cuts shares owned to 1/2 previous value. (Pay no money, your total cost does not change.)\nStill no dividends. No one may buy or sell at this time.",
-      "holding": {
+      "flavor": "Reverse split 1 for 2",
+      "effect": {
         "type": "STOCK",
-        "subtype": "XXXX",
-        "symbol": "OK4U",
-        "flavor": "Reverse split 1 for 2"
-      }
+        "subtype": "STOCK",
+        "name": "OK4U",
+        "multiplier": 0.5
+      },
+      "target": "ALL"
     },
     {
       "title": "Stock — OK4U Drug Co.",
       "description": "Things are going so well for the company that their shares have just split!\n<u>Everyone who owns OK4U shares</u> doubles the numbers of shares they own. (Your total cost does not change.)\nNo dividends. No one may buy or sell at this time.",
-      "holding": {
+      "flavor": "Split 2 for 1",
+      "effect": {
         "type": "STOCK",
-        "subtype": "XXXX",
-        "symbol": "OK4U",
-        "flavor": "Split 2 for 1"
-      }
+        "subtype": "STOCK",
+        "name": "OK4U",
+        "multiplier": 2
+      },
+      "target": "ALL"
     },
     {
       "title": "Condo For Sale — 2Br/1Ba",
@@ -1116,7 +1374,10 @@
         "cost": 40000,
         "liability": 36000,
         "cashflow": 140
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Condo For Sale — 2Br/1Ba",
@@ -1129,7 +1390,10 @@
         "cost": 40000,
         "liability": 35000,
         "cashflow": 220
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Condo For Sale — 2Br/1Ba",
@@ -1142,7 +1406,10 @@
         "cost": 50000,
         "liability": 45000,
         "cashflow": 100
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Condo For Sale — 2Br/1Ba",
@@ -1155,7 +1422,10 @@
         "cost": 55000,
         "liability": 50000,
         "cashflow": 160
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Condo For Sale — 2Br/1Ba",
@@ -1168,7 +1438,10 @@
         "cost": 60000,
         "liability": 55000,
         "cashflow": -100
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "House For Sale — 3Br/2Ba",
@@ -1181,7 +1454,10 @@
         "cost": 50000,
         "liability": 50000,
         "cashflow": -100
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "House For Sale — 3Br/2Ba",
@@ -1194,7 +1470,10 @@
         "cost": 50000,
         "liability": 50000,
         "cashflow": 100
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "House For Sale — 3Br/2Ba",
@@ -1207,7 +1486,10 @@
         "cost": 50000,
         "liability": 47000,
         "cashflow": 100
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "House For Sale — 3Br/2Ba",
@@ -1220,7 +1502,10 @@
         "cost": 50000,
         "liability": 46000,
         "cashflow": 200
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "House For Sale — 3Br/2Ba",
@@ -1233,7 +1518,10 @@
         "cost": 65000,
         "liability": 60000,
         "cashflow": 160
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "You Find a Great Deal",
@@ -1246,7 +1534,10 @@
         "cost": 35000,
         "liability": 33000,
         "cashflow": 220
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "You Find a Great Deal!",
@@ -1259,7 +1550,10 @@
         "cost": 45000,
         "liability": 43000,
         "cashflow": 250
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Start a Company Part Time",
@@ -1272,7 +1566,10 @@
         "cost": 3000,
         "liability": 0,
         "cashflow": 0
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Start a Company Part Time",
@@ -1285,7 +1582,10 @@
         "cost": 5000,
         "liability": 0,
         "cashflow": 0
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "10 Acres Raw Land",
@@ -1294,11 +1594,15 @@
         "type": "STOCK",
         "subtype": "LAND",
         "name": "10 Acres",
+        "count": 10,
         "down": 5000,
         "cost": 5000,
         "liability": 0,
         "cashflow": 0
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Friend Needs Cash... Quick",
@@ -1307,11 +1611,15 @@
         "type": "STOCK",
         "subtype": "GOLD",
         "name": "Gold Krugerrand",
+        "count": 10,
         "down": 3000,
         "cost": 3000,
         "liability": 0,
         "cashflow": 0
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Rare Gold Coin",
@@ -1319,11 +1627,15 @@
       "holding": {
         "type": "STOCK",
         "subtype": "GOLD",
-        "symbol": "Pieces of Eight",
+        "name": "Pieces of Eight",
+        "count": 1,
         "liability": 0,
         "down": 500,
         "cashflow": 0
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Sister-In-Law Borrows Money",
@@ -1335,16 +1647,18 @@
         "cost": 5000,
         "liability": 0,
         "cashflow": 0
-      }
+      },
+      "tradeable": true,
+      "canBuy": "SELF",
+      "canSell": "NONE"
     },
     {
       "title": "Tenant Damages Your Property",
       "description": "Tenant fails to pay rent for 2 months and then skips town leaving damage to your rental property.\nInsurance covers most damage and costs, but you still are out of pocket $500.\nPay $500 if you own any rental property. (Bank will lend you the money on usual terms.)\nOnly the person who draws this card pays.",
       "effect": {
         "cost": 500,
-        "condition": {
-          "type": "RE"
-        }
+        "type": "RE",
+        "target": "SELF"
       }
     }
   ],
@@ -1352,424 +1666,702 @@
     {
       "title": "Apartment House Buyer",
       "description": "Buyer offers $25,000 per unit for all units in apartment houses of any size. Has own financing. [His 1031 tax deferred exchange time is running out.]\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 25000,
+        "type": "RE",
+        "subtype": "APT"
+      }
     },
     {
       "title": "Apartment House Buyer",
       "description": "REIT offers $30,000 per unit for all units in apartment houses of 12 units or more. Has own financing. Buyer has funds from sale of complex in another city.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 30000,
+        "type": "RE",
+        "subtype": "APT"
+      }
     },
     {
       "title": "Apartment House Buyer",
       "description": "Buyer offers $40,000 per unit on all units in apartment houses. Has own financing, needs to invest now.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 40000,
+        "type": "RE",
+        "subtype": "APT"
+      }
     },
     {
       "title": "Apartment House Buyer",
       "description": "Buyer offers $45,000 per unit for all units in apartment houses of any size. Has own financing. [His 1031 tax deferred exchange time is running out.]\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 45000,
+        "type": "RE",
+        "subtype": "APT"
+      }
     },
     {
       "title": "Condo Buyer — 2Br/1Ba",
       "description": "You are offered $45,000 for a 2/1 rental condo. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
-      "details": {}
+      "offer": {
+        "cost": 45000,
+        "type": "RE",
+        "subtype": "CONDO"
+      }
     },
     {
       "title": "Condo Buyer — 2Br/1Ba",
       "description": "You are offered $55,000 for a 2/1 rental condo. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 55000,
+        "type": "RE",
+        "subtype": "CONDO"
+      }
     },
     {
       "title": "Condo Buyer — 2Br/1Ba",
       "description": "You are offered $55,000 for a 2/1 rental condo. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
-      "details": {}
+      "offer": {
+        "cost": 55000,
+        "type": "RE",
+        "subtype": "CONDO"
+      }
     },
     {
       "title": "Condo Buyer — 2Br/1Ba",
       "description": "You are offered $65,000 for a 2/1 rental condo. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
-      "details": {}
+      "offer": {
+        "cost": 65000,
+        "type": "RE",
+        "subtype": "CONDO"
+      }
     },
     {
       "title": "House Buyer — 3Br/2Ba",
       "description": "Your brother-in-law lost his job and wants to buy your 3/2 rental house. He promises to pay you $100,000 four years from now, but has no income or savings. He can pay a small monthly amount, but no down payment...\nIf you sell at his terms, your cash flow goes down by $500 per month, until you collect the $100,000.",
-      "details": {}
+      "effect": {
+        "cashflow": -500,
+        "action": "ADJUST"
+      },
+      "offer": {
+        "type": "RE",
+        "subtype": "HOUSE"
+      }
     },
     {
       "title": "House Buyer — 3Br/2Ba",
       "description": "You are offered $65,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 65000,
+        "type": "RE",
+        "subtype": "HOUSE"
+      }
     },
     {
       "title": "House Buyer — 3Br/2Ba",
       "description": "You are offered $90,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 90000,
+        "type": "RE",
+        "subtype": "HOUSE"
+      }
     },
     {
       "title": "House Buyer — 3Br/2Ba",
       "description": "You are offered $100,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
-      "details": {}
+      "offer": {
+        "cost": 100000,
+        "type": "RE",
+        "subtype": "HOUSE"
+      }
     },
     {
       "title": "House Buyer — 3Br/2Ba",
       "description": "You are offered $100,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 100000,
+        "type": "RE",
+        "subtype": "HOUSE"
+      }
     },
     {
       "title": "House Buyer — 3Br/2Ba",
       "description": "You are offered $110,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, add the sale price to your cash, pay off the related mortgage, and remove this property from your current assets.",
-      "details": {}
+      "offer": {
+        "cost": 110000,
+        "type": "RE",
+        "subtype": "HOUSE"
+      }
     },
     {
       "title": "House Buyer — 3Br/2Ba",
       "description": "You are offered $135,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 135000,
+        "type": "RE",
+        "subtype": "HOUSE"
+      }
     },
     {
       "title": "House Buyer — 3Br/2Ba",
       "description": "You are offered $135,000 for a 3/2 rental house. Buyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 135000,
+        "type": "RE",
+        "subtype": "HOUSE"
+      }
     },
     {
       "title": "Plex Buyer",
       "description": "Buyer offers $25,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 25000,
+        "type": "RE",
+        "subtype": "PLEX"
+      }
     },
     {
       "title": "Plex Buyer",
       "description": "Buyer offers $25,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 25000,
+        "type": "RE",
+        "subtype": "PLEX"
+      }
     },
     {
       "title": "Plex Buyer",
       "description": "Buyer offers $30,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 30000,
+        "type": "RE",
+        "subtype": "PLEX"
+      }
     },
     {
       "title": "Plex Buyer",
       "description": "Buyer offers $30,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes.\nBuyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 30000,
+        "type": "RE",
+        "subtype": "PLEX"
+      }
     },
     {
       "title": "Plex Buyer",
       "description": "Buyer offers $30,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 30000,
+        "type": "RE",
+        "subtype": "PLEX"
+      }
     },
     {
       "title": "Plex Buyer",
       "description": "Buyer offers $35,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 35000,
+        "type": "RE",
+        "subtype": "PLEX"
+      }
     },
     {
       "title": "Plex Buyer",
       "description": "Buyer offers $35,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes.\nBuyer has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 35000,
+        "type": "RE",
+        "subtype": "PLEX"
+      }
     },
     {
       "title": "Plex Buyer",
       "description": "Buyer offers $35,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 35000,
+        "type": "RE",
+        "subtype": "PLEX"
+      }
     },
     {
       "title": "Plex Buyer",
       "description": "Buyer offers $40,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes.\nHas own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 40000,
+        "type": "RE",
+        "subtype": "PLEX"
+      }
     },
     {
       "title": "Plex Buyer",
       "description": "Buyer offers $40,000 per unit for all units in any combination of duplexes, 4-plexes, or 8-plexes. Has own financing.\n<u>Everyone may sell</u> at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 40000,
+        "type": "RE",
+        "subtype": "PLEX"
+      }
     },
     {
       "title": "Limited Partnership Sold",
       "description": "The business has been sold and you receive <u>twice your original cost</u> for your share of it.\nYou agreed to sell if and when the founder sold out, as she just did. New owners have their own financing.\n<u>Every limited partnership is affected</u>. If you own a limited partnership, receive cash and reduce your cash flows immediately.",
-      "details": {}
+      "effect": {
+        "multiplier": 2,
+        "type": "BUSINESS",
+        "subtype": "LTD",
+        "action": "SALE"
+      }
     },
     {
       "title": "Limited Partnership Sold",
       "description": "The business has been sold and you receive <u>twice your original cost</u> for your share of it.\nYou agreed to sell if and when the founder sold out, as she just did. New owners have their own financing.\n<u>Every limited partnership is affected</u>. If you own a limited partnership, receive cash and reduce your cash flows immediately.",
-      "details": {}
+      "effect": {
+        "multiplier": 2,
+        "type": "BUSINESS",
+        "subtype": "LTD",
+        "action": "SALE"
+      }
     },
     {
       "title": "Limited Partnership Sold",
       "description": "The business has been sold and you receive <u>three times your original cost</u> for your share of it.\nYou agreed to sell if and when the founder sold out, as he just did. New owners have their own financing.\n<u>Every limited partnership is affected</u>. If you own a limited partnership, receive cash and reduce your cash flows immediately.",
-      "details": {}
+      "effect": {
+        "multiplier": 3,
+        "type": "BUSINESS",
+        "subtype": "LTD",
+        "action": "SALE"
+      }
     },
     {
       "title": "Small Business Improves",
       "description": "The small business you founded won an industry award for its product innovation. Great publicity causes your sales to double.\nThis brings more problems and requires more time from you, but Monthly Net Income goes up $250.\n<u>Everyone</u> who owns a business they started is affected and <u>increases</u> their cash flows by $250 per month on all such businesses.",
-      "details": {}
+      "effect": {
+        "cashflow": 250,
+        "type": "BUSINESS",
+        "subtype": "STARTUP",
+        "action": "ADJUST"
+      }
     },
     {
       "title": "Small Business Improves",
       "description": "The small business you founded has found a major company to distribute its product. Your sales increase 150%.\nThis brings more problems and requires more time from you, but Monthly Net Income goes up $400.\n<u>Everyone</u> who owns a business they started is affected and <u>increases</u> their cash flows by $400 per month on all such businesses.",
-      "details": {}
+      "effect": {
+        "cashflow": 400,
+        "type": "BUSINESS",
+        "subtype": "STARTUP",
+        "action": "ADJUST"
+      }
     },
     {
       "title": "Builder Wants Land",
-      "description": "City planners require builder to put in 10 acre park or they will not approve new subdivision. Builder needs 10 acres with stream.\nCash offer of $150,000 to <u>everyone</u> who owns such a property.\nIf you sell, give up teh cash flow you currently receive from this property.",
-      "details": {}
+      "description": "City planners require builder to put in 10 acre park or they will not approve new subdivision. Builder needs 10 acres with stream.\nCash offer of $150,000 to <u>everyone</u> who owns such a property.\nIf you sell, give up the cash flow you currently receive from this property.",
+      "offer": {
+        "cost": 150000,
+        "type": "STOCK",
+        "subtype": "LAND",
+        "count": 10
+      }
     },
     {
       "title": "Buyer for 20 Acres",
       "description": "Builder wants a 20-acre parcel of land. He will re-zone it from residential to commercial.\nCash offer of $200,000 to <u>everyone</u> who owns 20 acres of residential land.\nIf you sell, give up the cash flow you currently receive from this property.",
-      "details": {}
+      "offer": {
+        "cost": 200000,
+        "type": "STOCK",
+        "subtype": "LAND",
+        "count": 20
+      }
     },
     {
       "title": "Car Wash Buyer",
       "description": "Red hot buyer looking for a car wash bargain. Has $250,000 cash ready to spend. That's his limit.\n<u>Everyone</u> who owns a car wash may sell at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 250000,
+        "type": "BUSINESS",
+        "subtype": "CAR_WASH"
+      }
     },
     {
       "title": "Collector Wants Gold Coins",
       "description": "Collector looking for authentic 1500's Royal Spanish New World (Havana mint only) \"pieces of eight\" gold coins.\nCash offer of $5,000 for <u>each</u> coin to everyone.",
-      "details": {}
+      "offer": {
+        "cost": 5000,
+        "type": "STOCK",
+        "subtype": "GOLD",
+        "count": 1
+      }
     },
     {
       "title": "Demand for Bed & Breakfast",
       "description": "Couple burned out from their corporate jobs are ready for a change. Have lots of cash. Looking for a profitable Bed & Breakfast. They will pay $250,000 today.\n<u>Everyone</u> with a Bed & Breakfast that is making money may sell at this price.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 250000,
+        "type": "BUSINESS",
+        "subtype": "BNB"
+      }
     },
     {
       "title": "Inflation Hits!",
       "description": "Inflation goes to 10%. Interest rates climb to 20% on home loans.\nAll 3Br/2Ba rental houses that you (no other players) own are now in foreclosure. You financed with variable rate mortgages.\nYou must give your 3Br/2Ba house(s) back to the bank. You lose your cash flow from these properties.",
-      "details": {}
+      "effect": {
+        "multiplier": 0,
+        "type": "RE",
+        "subtype": "HOUSE",
+        "action": "SALE"
+      }
     },
     {
       "title": "Interest Rates Drop!",
       "description": "Interest rates on home loans drop to 5%.\n If you (no other players) own any 3Br/2Ba rental houses you may sell them for $50,000 more than the original cost.\nIf you sell, pay off the related liability and give up the cash flow you currently receive on each property.",
-      "details": {}
+      "offer": {
+        "type": "RE",
+        "subtype": "HOUSE"
+      },
+      "effect": {
+        "cost": 50000,
+        "action": "ADJUST"
+      }
     },
     {
       "title": "Price of Gold Soars",
       "description": "Rioting in Middle East. Oil prices threatened. Price of gold skyrockets to $600 per ounce.\n<u>Everyone</u> who owns 1 ounce Krugerrands may sell at this price.",
-      "details": {}
+      "offer": {
+        "cost": 600,
+        "type": "STOCK",
+        "subtype": "GOLD",
+        "count": 10
+      }
     },
     {
       "title": "Shopping Mall Wanted",
       "description": "Major retailer is moving to your town. Looking for small shopping mall to purchase.\nThey are willing to pay $100,000 to <u>everyone</u> who owns a small shopping mall.\nIf you sell, pay off the related mortgage and give up the cash flow you currently receive on this property.",
-      "details": {}
+      "offer": {
+        "cost": 100000,
+        "type": "BUSINESS",
+        "subtype": "MALL"
+      }
     },
     {
       "title": "Software Company Buyer",
       "description": "Large integrated software company offers $100,000 cash for inventive software program and related company.\n<u>Anyone</u> who owns a software company may sell at this price.\nIf you sell, give up the cash flow you currently receive from this company.",
-      "details": {}
+      "offer": {
+        "cost": 100000,
+        "type": "BUSINESS",
+        "subtype": "STARTUP"
+      }
     },
     {
       "title": "Widget Company Buyer",
       "description": "Engineer/Inventor who owns machinery company offers $50,000 cash for inventive method of making widgets.\n<u>Anyone who owns a widget company</u> may sell at this price.\nIf you sell, give up the cash flow you currently receive from this company.",
-      "details": {}
+      "offer": {
+        "cost": 50000,
+        "type": "BUSINESS",
+        "subtype": "STARTUP"
+      }
     }
   ],
   "doodad": [
     {
       "title": "Buy a Café Latte & Cappuccino for You & a Friend",
       "description": "Pay $20",
-      "details": {}
+      "effect": {
+        "cost": 20
+      }
     },
     {
       "title": "Buy New Golf Balls",
       "description": "Pay $20",
-      "details": {}
+      "effect": {
+        "cost": 20
+      }
     },
     {
       "title": "Lunch with Friends",
       "description": "Pay $40",
-      "details": {}
+      "effect": {
+        "cost": 40
+      }
     },
     {
       "title": "Buy Toys for Your Kids",
       "description": "Spend $50 for every child",
-      "details": {}
+      "effect": {
+        "cost": 50
+      }
     },
     {
       "title": "Go to Ball Game",
       "description": "Pay $50",
-      "details": {}
+      "effect": {
+        "cost": 50
+      }
     },
     {
       "title": "Must Have New Sunglasses",
       "description": "Pay $80",
-      "details": {}
+      "effect": {
+        "cost": 80
+      }
     },
     {
       "title": "Buy New Bowling Ball",
       "description": "Pay $80",
-      "details": {}
+      "effect": {
+        "cost": 80
+      }
     },
     {
       "title": "Go Out to Dinner",
       "description": "Spend $80",
-      "details": {}
+      "effect": {
+        "cost": 80
+      }
     },
     {
       "title": "Birthday!",
       "description": "Take kids to the amusement park and spend $100\n(if you have a child)",
-      "details": {}
+      "effect": {
+        "cost": 100,
+        "child": 1
+      }
     },
     {
       "title": "Buy New Cellular Phone",
       "description": "Pay $100",
-      "details": {}
+      "effect": {
+        "cost": 100
+      }
     },
     {
       "title": "Buy New Fishing Rod",
       "description": "Pay $100",
-      "details": {}
+      "effect": {
+        "cost": 100
+      }
     },
     {
       "title": "Buy New Music CDs",
       "description": "Pay $100",
-      "details": {}
+      "effect": {
+        "cost": 100
+      }
     },
     {
       "title": "Park in Handicapped Zone",
       "description": "Pay $100 fine",
-      "details": {}
+      "effect": {
+        "cost": 100
+      }
     },
     {
       "title": "Play 2 Rounds of Golf",
       "description": "Pay $100",
-      "details": {}
+      "effect": {
+        "cost": 100
+      }
     },
     {
       "title": "Play Your Lucky Lottery Number!",
       "description": "Lose $100",
-      "details": {}
+      "effect": {
+        "cost": 100
+      }
     },
     {
       "title": "Visit Dentist",
       "description": "Filling costs $100",
-      "details": {}
+      "effect": {
+        "cost": 100
+      }
     },
     {
       "title": "Go to the Air Show",
       "description": "Pay $120",
-      "details": {}
+      "effect": {
+        "cost": 120
+      }
     },
     {
       "title": "Buy a Food Processor",
       "description": "Pay $150",
-      "details": {}
+      "effect": {
+        "cost": 150
+      }
     },
     {
       "title": "Buy Cappuccino Machine",
       "description": "Pay $150",
-      "details": {}
+      "effect": {
+        "cost": 150
+      }
     },
     {
       "title": "Shopping Spree!",
       "description": "Buy new wristwatch (even though you already have 3)\nPay $150",
-      "details": {}
+      "effect": {
+        "cost": 150
+      }
     },
     {
       "title": "Go to a Concert!",
       "description": "Dinner, Tickets, & Coffee\nSets you back $180",
-      "details": {}
+      "effect": {
+        "cost": 180
+      }
     },
     {
       "title": "Buy New Tennis Racket",
       "description": "You spend $200",
-      "details": {}
+      "effect": {
+        "cost": 200
+      }
     },
     {
       "title": "Couldn't Resist New Painting By Local Artist",
       "description": "Costs you $200",
-      "details": {}
+      "effect": {
+        "cost": 200
+      }
     },
     {
       "title": "Go to Casino!",
       "description": "Lose $200 at the tables",
-      "details": {}
+      "effect": {
+        "cost": 200
+      }
     },
     {
       "title": "Your Anniversary!",
       "description": "Spend $200",
-      "details": {}
+      "effect": {
+        "cost": 200
+      }
     },
     {
       "title": "Rumor of Layoff",
       "description": "Go back to school for added skills.\nPay $220 for tuition & books.",
-      "details": {}
+      "effect": {
+        "cost": 220
+      }
     },
     {
       "title": "Buy New Clothes",
       "description": "Pay $250",
-      "details": {}
+      "effect": {
+        "cost": 250
+      }
     },
     {
       "title": "High School Reunion",
       "description": "You spend $250",
-      "details": {}
+      "effect": {
+        "cost": 250
+      }
     },
     {
       "title": "Car Needs Tires",
       "description": "Pay $300",
-      "details": {}
+      "effect": {
+        "cost": 300
+      }
     },
     {
       "title": "Furniture Sale",
       "description": "Replace that old chair\nPay $300",
-      "details": {}
+      "effect": {
+        "cost": 300
+      }
     },
     {
       "title": "Shopping!",
       "description": "Pay $350 for fabulous fake jewels",
-      "details": {}
+      "effect": {
+        "cost": 350
+      }
     },
     {
       "title": "Tax Audit",
       "description": "Ouch!\nPay Tax Authority $350",
-      "details": {}
+      "effect": {
+        "cost": 350
+      }
     },
     {
       "title": "Water Heater Leaks",
       "description": "Pay $450 for new one",
-      "details": {}
+      "effect": {
+        "cost": 450
+      }
     },
     {
       "title": "Buy New Speakers for Stereo",
       "description": "Pay $500",
-      "details": {}
+      "effect": {
+        "cost": 500
+      }
     },
     {
       "title": "Repaint House",
       "description": "Costs you $600",
-      "details": {}
+      "effect": {
+        "cost": 600
+      }
     },
     {
       "title": "Car’s Air Conditioning Dies",
       "description": "Pay $700",
-      "details": {}
+      "effect": {
+        "cost": 700
+      }
     },
     {
       "title": "Son's College Tuition",
-      "description": "Pay $1500\n(if you have a child)",
-      "details": {}
+      "description": "Pay $1,500\n(if you have a child)",
+      "effect": {
+        "cost": 1500,
+        "child": 1
+      }
     },
     {
       "title": "Family Vacation!",
-      "description": "Costs $2000",
-      "details": {}
+      "description": "Costs $2,000",
+      "effect": {
+        "cost": 2000
+      }
     },
     {
       "title": "Your Child Needs Braces",
-      "description": "Pay $2000 (if you have a child)",
-      "details": {}
+      "description": "Pay $2,000 (if you have a child)",
+      "effect": {
+        "cost": 2000,
+        "child": 1
+      }
     },
     {
       "title": "Your Daughter's Wedding",
-      "description": "Costs you $2000\n(if you have a child)",
-      "details": {}
+      "description": "Costs you $2,000\n(if you have a child)",
+      "effect": {
+        "cost": 2000,
+        "child": 1
+      }
     },
     {
       "title": "Buy Big Screen TV",
-      "description": "Pay $4000\n(Credit cards OK. If you buy on credit add $4000 to credit cards liability and add $120 to your monthly expenses.)",
-      "details": {}
+      "description": "Pay $4,000\n(Bought on credit. Add $4,000 to credit cards liability and add $120 to your monthly expenses.)",
+      "effect": {
+        "type": "CREDIT",
+        "liability": 4000,
+        "action": "ADJUST",
+        "cashflow": 120
+      }
     },
     {
       "title": "New Boat!",
       "description": "Pay $1,000 down and $17,000 on time.\n(Add a $17,000 boat loan as a new liability and add a new boat loan payment of $340 to Expenses.)",
-      "details": {}
+      "effect": {
+        "type": "BOAT",
+        "cost": 1000,
+        "liability": 17000,
+        "cashflow": 340
+      }
     }
   ]
 }
