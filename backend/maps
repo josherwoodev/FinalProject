@@ -7,11 +7,15 @@ Profile {
         win/loss : int/float
         win/loss by color : float[]
     }
-    ?friends : list<profile>
-    ?animation speed : enum slow normal fast
-    ?wants help (tooltips) : boolean
+    friends : list<profile>
+    ?settings : profile settings
 }
-Game {
+?Profile Settings : { +
+    animation speed : enum slow normal fast
+    wants help (tooltips) : boolean
+    auto choose deal size over value : int
+}
+Game { +
     id : long
     players : player[] (sorted as turn order until game over then sort as final standings)
     4 decks : list<int>
@@ -26,7 +30,7 @@ Game {
     is game over : boolean
     current turn state : turn state
 }
-Game Settings : {
+Game Settings : { +
     id : long
     max children : int
     max downsize : int
@@ -39,7 +43,7 @@ Game Settings : {
     fast track businesses not exclusive : boolean
     force rat race escape : boolean
 }
-Turn State : {
+Turn State : { +
     id : long
     player turn : int (index of game.players)
     has moved : boolean
@@ -49,13 +53,14 @@ Turn State : {
         players bids : float
     }
 }
-Player {
+Player { +
     id : long
     profile : profile
-    turn order : int
+    turn order : int ---
     has won : boolean
+    is active : boolean
     piece set (color) : piece set enum
-    position : board position
+    position : board position ---
     status : {
         lost turns : int
         charity : int
@@ -68,7 +73,7 @@ Player {
     children : int
     dream : board position
 }
-Card (read only) {
+Card (read only) { =
     id : long
     type : type enum {
         big deal, small deal, doodad, market
@@ -77,20 +82,20 @@ Card (read only) {
     effect : effect
     cost : float
 }
-Board Position (read only) {
+Board Position (read only) { =
     id : long
     text : string
     type : enum {
         opportunity, event, doodad, market, dream
     }
     effect : effect
-    color : board color enum
-    ???coord : {
+    color : board color enum ---
+    ???coord : { ---
         ?is fast track : boolean
         position : int
     }
 }
-Piece (read only) { --
+Piece (read only) { =
     Set {
         <colors>
     }
@@ -100,7 +105,7 @@ Piece (read only) { --
     set : Set
     type : Type
 }
-Career (read only) { --
+Career (read only) { =
     title : string
     salary : int
     savings : int
@@ -108,7 +113,7 @@ Career (read only) { --
     expenses : expense list
     per child : int
 }
-Asset {
+Asset { =
     classification : enum { Stock, RE, Business, Item }
     type : enum { 3/2, 2/1, 4-plex, etc. }
     name : string

@@ -1,7 +1,22 @@
 package com.cashflow.game.model;
 
-public record Asset(String name, TYPES type, SUB_TYPES subType, Float count,
-                    Float down, Float cost, Liability liability,
+import jakarta.persistence.AttributeOverride;
+import jakarta.persistence.AttributeOverrides;
+import jakarta.persistence.Column;
+import jakarta.persistence.Embeddable;
+import jakarta.persistence.Embedded;
+import jakarta.persistence.EnumType;
+import jakarta.persistence.Enumerated;
+
+@Embeddable
+public record Asset(String name, @Enumerated(EnumType.STRING) TYPES type,
+                    @Enumerated(EnumType.STRING) SUB_TYPES subType, Float count,
+                    Float down, Float cost,
+                    @Embedded @AttributeOverrides({
+                            @AttributeOverride(name = "type", column = @Column(name = "liability_type")),
+                            @AttributeOverride(name = "name", column = @Column(name = "liability_name")),
+                            @AttributeOverride(name = "value", column = @Column(name = "liability_value"))})
+                    Liability liability,
                     Float cashflow) {
 
     public static Asset of(Float cost) {
@@ -53,7 +68,7 @@ public record Asset(String name, TYPES type, SUB_TYPES subType, Float count,
     }
 
     public enum TYPES {
-        BUSINESS, REAL_ESTATE, STOCK, NO_TYPE
+        BUSINESS, DREAM, FAST_TRACK, REAL_ESTATE, STOCK, NO_TYPE
     }
 
     public enum SUB_TYPES {
@@ -61,10 +76,6 @@ public record Asset(String name, TYPES type, SUB_TYPES subType, Float count,
     }
 
     public boolean matchesCriteria(Asset criteria) {
-        return this.equals(criteria) ||
-                ((this.type == null || this.type == criteria.type) &&
-                        (criteria.subType == null || this.subType == criteria.subType) &&
-                        (criteria.count == null || criteria.count.equals(this.count)) &&
-                        (criteria.name == null || (this.name != null && this.name.contains(criteria.name))));
+        return this.equals(criteria) || ((this.type == null || this.type == criteria.type) && (criteria.subType == null || this.subType == criteria.subType) && (criteria.count == null || criteria.count.equals(this.count)) && (criteria.name == null || (this.name != null && this.name.contains(criteria.name))));
     }
 }
