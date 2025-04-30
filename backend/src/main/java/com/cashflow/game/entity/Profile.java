@@ -22,6 +22,8 @@ public class Profile {
     private String name;
     @ManyToMany
     private List<Profile> friends;
+    @ManyToMany
+    private List<Profile> friendRequests;
     @Embedded
     private Setting setting;
     @Embedded
