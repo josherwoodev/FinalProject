@@ -19,4 +19,8 @@ public class BoardPosition {
     private Integer position;
     @ElementCollection
     private List<Piece> pieces;
+
+    public enum POS_TYPE {
+        FAST_TRACK, RAT_RACE
+    }
 }

@@ -41,6 +41,7 @@ public class Game {
     private Instant createdAt;
     private Instant lastPlayed;
     private Boolean isGameOver;
+    private Boolean hasBegun;
     @OneToOne
     @JoinColumn(referencedColumnName = "id")
     private GameSetting settings;
