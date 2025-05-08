@@ -3,7 +3,7 @@ spring:
     name: cashflow
 
   datasource:
-    url: jdbc:postgresql://localhost:5419/cashflow
+    url: jdbc:postgresql://localhost:5428/cashflow
     driver-class-name: org.postgresql.Driver
     username: cashflow_dev
     password: secure-p@sswords-R-long
