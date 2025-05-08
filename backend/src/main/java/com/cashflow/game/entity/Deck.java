@@ -50,8 +50,11 @@ public class Deck {
 
     public Card drawNextCard() {
         var src = getSrc(cardType);
-        if (currentCardIndex >= cardIndices.size()) currentCardIndex = 0;
-        return src[currentCardIndex++];
+        if (currentCardIndex >= cardIndices.size()) {
+            currentCardIndex = 0;
+            Collections.shuffle(cardIndices);
+        }
+        return src[cardIndices.get(currentCardIndex++)];
     }
 
     private static Card[] getSrc(Card.TYPES type) {
