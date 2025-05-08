@@ -1,10 +1,13 @@
 package com.cashflow.game.controller;
 
+import com.cashflow.game.constant.Errors;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import static com.cashflow.game.constant.Errors.*;
 
 @RestController
 @RequestMapping(value = "/api/game/{gameId:\\d+}/turn")
@@ -31,6 +34,7 @@ public class TurnController {
 //    get /game/ID/turn/event
     @GetMapping(value = {"/event", "/event/"})
     public String getCurrentEvent(@PathVariable Long gameId) {
+        if (gameId < -1) throw new WrongEndpointException();
         return "['Event " + gameId + "']";
     }
 

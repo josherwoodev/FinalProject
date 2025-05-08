@@ -1,13 +1,10 @@
 package com.cashflow.game.controller;
 
 import com.cashflow.game.entity.Game;
-import com.cashflow.game.entity.Profile;
 import com.cashflow.game.service.GameService;
-import org.springframework.lang.NonNull;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -23,8 +20,8 @@ public class GameController {
 
     //    get /game/ID
     @GetMapping(value = {"", "/"})
-    public String getGameById(@PathVariable String gameId) {
-        return "['game " + gameId + "']";
+    public Game getGameById(@PathVariable Long gameId) {
+        return gameService.getById(gameId);
     }
 
 //    get /game/ID -> 428 -> get /game/ID/new

@@ -29,6 +29,58 @@ public class Profile {
     @Embedded
     private History history;
 
+    public Long getId() {
+        return id;
+    }
+
+    public List<Game> getGames() {
+        return games;
+    }
+
+    public void setGames(List<Game> games) {
+        this.games = games;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public List<Profile> getFriends() {
+        return friends;
+    }
+
+    public void setFriends(List<Profile> friends) {
+        this.friends = friends;
+    }
+
+    public List<Profile> getFriendRequests() {
+        return friendRequests;
+    }
+
+    public void setFriendRequests(List<Profile> friendRequests) {
+        this.friendRequests = friendRequests;
+    }
+
+    public Setting getSetting() {
+        return setting;
+    }
+
+    public void setSetting(Setting setting) {
+        this.setting = setting;
+    }
+
+    public History getHistory() {
+        return history;
+    }
+
+    public void setHistory(History history) {
+        this.history = history;
+    }
+
     @Embeddable
     public class Setting {
 

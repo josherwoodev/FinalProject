@@ -8,7 +8,7 @@ get /profiles
   delete /profile/ID/games/invites/ID
  delete /profile/ID/game/ID
  post /profile/ID/game/new/
-get /game/ID -> 428 -> get /game/ID/new
+get /game/ID -> 412 -> get /game/ID/new
  post /game/ID/new/roll
  post /game/ID/new/color
  post /game/ID/new/career

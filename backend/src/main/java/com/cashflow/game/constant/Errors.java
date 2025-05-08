@@ -5,9 +5,11 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 
 public abstract class Errors {
 
-    @ResponseStatus(value = HttpStatus.NOT_FOUND, reason = "No such resource by given id exists")
-    public static class ResourceNotFoundException extends RuntimeException {
+    @ResponseStatus(value = HttpStatus.PRECONDITION_FAILED, reason = "Game still initializing")
+    public static class GameNotInitializedException extends RuntimeException {
     }
 
-//    @ResponseStatus(value = Htt)
+    @ResponseStatus(value = HttpStatus.GONE, reason = "Wrong endpoint hit")
+    public static class WrongEndpointException extends RuntimeException {
+    }
 }
