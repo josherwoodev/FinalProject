@@ -1,15 +1,11 @@
 package com.cashflow.game.service;
 
-import com.cashflow.game.constant.Errors;
 import com.cashflow.game.entity.Game;
-import com.cashflow.game.entity.Profile;
 import com.cashflow.game.repo.GameRepository;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
-import org.springframework.web.server.ResponseStatusException;
 
-import static com.cashflow.game.constant.Errors.*;
+import static com.cashflow.game.constant.Errors.GameNotInitializedException;
+import static com.cashflow.game.constant.Errors.ResourceNotFoundException;
 
 @Service
 public class GameService {
@@ -26,10 +22,9 @@ public class GameService {
 //        return res;
 //    }
 
-    public Game getById(Long gameId) {kg
+    public Game getById(Long gameId) {
         var game = gameRepository.findById(gameId).orElse(null);
-        if (game == null)
-            throw new ResponseStatusException(HttpStatus.NOT_FOUND, "Game not found");
+        if (game == null) throw new ResourceNotFoundException();
         else if (!game.getHasBegun()) throw new GameNotInitializedException();
         else return game;
     }
