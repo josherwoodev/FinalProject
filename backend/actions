@@ -1,0 +1,31 @@
+profiles
+ get specific profile
+ add friend
+ remove friend
+ view games
+  view game invites
+  reject game invite
+ abandon game
+ new game
+init game
+ turn order
+ colors
+ careers
+turn (check game state)
+ roll
+ resolve space event
+  trigger event
+   alter player state
+  draw card
+   determine targets/effects
+   buy asset
+    check eligibility
+     cash
+     target
+    adjust cash/assets
+   sell asset
+    adjust cash/assets
+   event
+    determine targets/effects
+    adjust cash/assets
+ pay off liabilities

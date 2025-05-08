@@ -1,0 +1,30 @@
+get /profiles
+ get /profile/ID
+ get /profile/ID/friend
+ post /profile/ID/friend/ID
+ delete /profile/ID/friend/ID
+ get /profile/ID/games
+  get /profile/ID/games/invites
+  delete /profile/ID/games/invites/ID
+ delete /profile/ID/game/ID
+ post /profile/ID/game/new/
+get /game/ID -> 428 -> get /game/ID/new
+ post /game/ID/new/roll
+ post /game/ID/new/color
+ post /game/ID/new/career
+get /game/ID
+ get /game/ID/turn
+  get /game/ID/turn/roll/NUM/?player/ID
+  get /game/ID/turn/player/ID/position
+  get /game/ID/turn/event
+  post /game/ID/turn/event/?player/ID
+  get /game/ID/turn/event -> 410 -> get /game/ID/turn/card
+  post /game/ID/turn/player/ID/end
+   post /game/ID/player/ID/asset
+   delete /game/ID/player/ID/asset
+  get /game/ID/player/ID
+  put /game/ID/player/ID/liability/TYPE
+
+get /data/card/TYPE/INDEX
+get /data/board/TYPE
+get /data/board/TYPE/POSITION
