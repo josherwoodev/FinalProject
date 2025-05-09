@@ -1,5 +1,7 @@
 package com.cashflow.game.entity;
 
+import com.cashflow.game.constant.Errors;
+import com.cashflow.game.model.Card;
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -10,6 +12,7 @@ import jakarta.persistence.OneToMany;
 import jakarta.persistence.OneToOne;
 
 import java.time.Instant;
+import java.util.ArrayList;
 import java.util.List;
 
 @Entity
@@ -21,33 +24,41 @@ public class Game {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     @OneToMany(cascade = CascadeType.ALL, orphanRemoval = true)
-    private List<Player> players;
+    private List<Player> players = new ArrayList<>();
     @OneToOne
     @JoinColumn(referencedColumnName = "id")
-    private Deck bigDeals;
+    private Deck bigDeals = Deck.from(Card.TYPES.BIG_DEAL);
     @OneToOne
     @JoinColumn(referencedColumnName = "id")
-    private Deck smallDeals;
+    private Deck smallDeals = Deck.from(Card.TYPES.SMALL_DEAL);
     @OneToOne
     @JoinColumn(referencedColumnName = "id")
-    private Deck marketCards;
+    private Deck marketCards = Deck.from(Card.TYPES.MARKET);
     @OneToOne
     @JoinColumn(referencedColumnName = "id")
-    private Deck doodads;
+    private Deck doodads = Deck.from(Card.TYPES.DOODAD);
     @OneToMany(cascade = CascadeType.ALL, orphanRemoval = true)
-    private List<BoardPosition> ratRace;
+    private List<BoardPosition> ratRace = new ArrayList<>();
     @OneToMany(cascade = CascadeType.ALL, orphanRemoval = true)
-    private List<BoardPosition> fastTrack;
-    private Instant createdAt;
-    private Instant lastPlayed;
-    private Boolean isGameOver;
-    private Boolean hasBegun;
+    private List<BoardPosition> fastTrack = new ArrayList<>();
+    private Instant createdAt = Instant.now();
+    private Instant lastPlayed = Instant.now();
+    private Boolean isGameOver = false;
+    private Boolean hasBegun = false;
     @OneToOne
     @JoinColumn(referencedColumnName = "id")
     private GameSetting settings;
     @OneToOne
     @JoinColumn(referencedColumnName = "id")
     private TurnState turnState;
+
+    public static Game createNewGame(List<Profile> profiles, GameSetting gameSetting) {
+        if (profiles.size() > MAX_PLAYER_COUNT || profiles.size() < 2) throw new Errors.InvalidArgumentsException();
+        var game = new Game();
+        game.settings = gameSetting;
+        profiles.forEach(profile -> game.players.add(Player.from(profile.getId())));
+        return game;
+    }
 
     public Long getId() {
         return id;
