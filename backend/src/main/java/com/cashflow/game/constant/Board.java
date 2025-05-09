@@ -2,7 +2,7 @@ package com.cashflow.game.constant;
 
 import com.cashflow.game.model.Position;
 
-public record Board() {
+public abstract class Board {
 
     public static final Position[] FAST_TRACK = new Position[]{
             new Position(Position.TYPES.DREAM, "Buy a Forest", "Stop the loss of ancient trees. Donate 1,000 acres of forest and create a nature walk for all to enjoy.", 250000f, null/*Asset.of("", Asset.TYPES.DREAM, Asset.SUB_TYPES.NO_SUB_TYPE, 250000f)*/),

@@ -13,7 +13,7 @@ import static com.cashflow.game.model.Asset.TYPES.NO_TYPE;
 import static com.cashflow.game.model.Asset.TYPES.REAL_ESTATE;
 import static com.cashflow.game.model.Asset.TYPES.STOCK;
 
-public record GameCards() {
+public abstract class GameCards {
     
     public static final Card[] BIG_DEALS = {
             new Card(Card.TYPES.BIG_DEAL, "Automated Business For Sale", "30 video/pinball machines at long term contract locations for sale by overextended owner. Owner is desperate.\nUse this yourself or sell to another player.\n96% ROI. No other buyers in sight.", Asset.of("Automated (30 Pinball)", BUSINESS, AUTO, 20000f, 100000f, 80000f, 1600f), null, null, null, null, false, true, null, SELF, NONE, null),
