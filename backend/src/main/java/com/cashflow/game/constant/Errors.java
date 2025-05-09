@@ -16,4 +16,8 @@ public abstract class Errors {
     @ResponseStatus(value = HttpStatus.GONE, reason = "Wrong endpoint hit")
     public static class WrongEndpointException extends RuntimeException {
     }
+
+    @ResponseStatus(value = HttpStatus.REQUESTED_RANGE_NOT_SATISFIABLE, reason = "One or more Ids supplied not valid")
+    public static class InvalidArgumentsException extends RuntimeException {
+    }
 }

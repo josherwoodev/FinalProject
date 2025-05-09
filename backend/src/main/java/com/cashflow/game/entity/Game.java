@@ -1,6 +1,7 @@
 package com.cashflow.game.entity;
 
 import com.cashflow.game.constant.Errors;
+import com.cashflow.game.constant.Errors.InvalidArgumentsException;
 import com.cashflow.game.model.Card;
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
@@ -53,7 +54,7 @@ public class Game {
     private TurnState turnState;
 
     public static Game createNewGame(List<Profile> profiles, GameSetting gameSetting) {
-        if (profiles.size() > MAX_PLAYER_COUNT || profiles.size() < 2) throw new Errors.InvalidArgumentsException();
+        if (profiles.size() > MAX_PLAYER_COUNT || profiles.size() < 2) throw new InvalidArgumentsException();
         var game = new Game();
         game.settings = gameSetting;
         profiles.forEach(profile -> game.players.add(Player.from(profile.getId())));
